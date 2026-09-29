@@ -6,9 +6,10 @@
   uv run song/musical.py song/takes/<take>.wav ...
 
 Per take: tempo and its stability, key, loudness, how the song ends (fade vs cut), vocal pitch
-range and intonation (cents off the nearest semitone), and hook consistency: the pitch contour of
+range and intonation (cents off the nearest semitone), hook consistency: the pitch contour of
 each sung "I'm chasing the roofline" (located from the Whisper chunks) compared pairwise with DTW,
-in semitones. Writes <take>.png (log-mel spectrogram with the hook windows marked).
+in semitones, and how much of the song sits on the four-chord loop (I/IV/V/vi roots, see
+tools/priors.md). Writes <take>.png (log-mel spectrogram with the hook windows marked).
 """
 import json, subprocess, sys
 from pathlib import Path
@@ -30,6 +31,35 @@ def key_of(y, sr):
     sc = [(np.corrcoef(np.roll(MAJ, k), c)[0, 1], f"{NAMES[k]} major") for k in range(12)]
     sc += [(np.corrcoef(np.roll(MIN, k), c)[0, 1], f"{NAMES[k]} minor") for k in range(12)]
     return max(sc)[1]
+
+
+FOUR = {0: "I", 5: "IV", 7: "V", 9: "vi"}
+
+
+def four_chords(y, sr):
+    """"<cov>% <order>" for the I/IV/V/vi loop: share of beats whose root is one of the four,
+    measured against the relative major of the detected key, plus the cycle those roots most
+    often follow ("" if under 40% coverage or no full cycle)."""
+    name, mode = key_of(y, sr).split()
+    k = (NAMES.index(name) + (3 if mode == "minor" else 0)) % 12
+    c = librosa.feature.chroma_cqt(y=librosa.effects.harmonic(y), sr=sr)
+    _, beats = librosa.beat.beat_track(y=y, sr=sr, units="time")
+    edges = np.append(beats, len(y) / sr) if len(beats) > 1 else np.arange(0, len(y) / sr, 0.5)
+    fps = c.shape[1] / (len(y) / sr)
+    bc = np.stack([c[:, int(s * fps):max(int(e * fps), int(s * fps) + 1)].mean(1) for s, e in zip(edges, edges[1:])])
+    prof = np.stack([np.roll(MAJ, r) for r in range(12)])
+    lab = [FOUR.get((r - k) % 12, ".") for r in np.argmax(prof @ bc.T, 0)]
+    cov = sum(l != "." for l in lab) / len(lab)
+    seq = [l for i, l in enumerate(lab) if i == 0 or l != lab[i - 1]]
+    pairs = [(a, b) for a, b in zip(seq, seq[1:]) if a != "." and b != "." and a != b]
+    order, best = "", 0.0
+    for cyc in (["I", "V", "vi", "IV"], ["I", "vi", "IV", "V"]):
+        succ = dict(zip(cyc, cyc[1:] + cyc[:1]))
+        if pairs and (a := sum(b == succ[x] for x, b in pairs) / len(pairs)) > best:
+            best, order = a, ">".join(cyc)
+    if cov < 0.4 or best < 0.5 or not set(FOUR.values()) <= set(seq):
+        order = ""
+    return f"{cov * 100:.0f}% {order}".strip()
 
 
 def lufs(path):
@@ -83,7 +113,7 @@ def main(paths):
                 D, wp = librosa.sequence.dtw(cs[i][None], cs[j][None], metric="euclidean")
                 cons.append(D[-1, -1] / len(wp))
         print(f"{p.stem:>16}  tempo {float(np.atleast_1d(tempo)[0]):6.1f}  beat-jitter {np.std(ibi) * 1000:5.1f} ms  "
-              f"key {key_of(y, sr):9}  {lufs(p):6.1f} LUFS  end-level {tail:.2f}  "
+              f"key {key_of(y, sr):9}  4chords {four_chords(y, sr):13}  {lufs(p):6.1f} LUFS  end-level {tail:.2f}  "
               f"vocal {librosa.midi_to_note(np.percentile(midi, 5))}-{librosa.midi_to_note(np.percentile(midi, 95))}  "
               f"off-pitch {np.median(cents):4.1f} c  hooks {len(hk)}  hook-dtw {np.mean(cons) if cons else float('nan'):.2f} st")
         S = librosa.power_to_db(librosa.feature.melspectrogram(y=y, sr=sr, n_mels=96), ref=np.max)
