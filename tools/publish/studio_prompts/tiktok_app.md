@@ -1,11 +1,16 @@
+<context>
 You are operating Google Chrome on this Mac. Elliot is signed in to TikTok for Developers (developers.tiktok.com,
 open in a tab) and to TikTok. Use computer use / the Chrome browser tool. Goal: a developer app that
 lets a local CLI upload videos to the signed-in account's TikTok drafts (Elliot finishes posting in the app).
+</context>
 
+<constraints>
 Hard limits: do not sign in, sign up, type or reveal any password, enter verification codes, or accept any terms,
 policies or agreements (if saving needs a terms checkbox, stop and quote its text). Do not submit the app for
 review. Do not post, follow, like or message anything on TikTok. Never print the client secret in your report.
+</constraints>
 
+<task>
 1. Confirm the developer portal is signed in (Manage apps visible). If it is not, stop and say so.
 2. Manage apps -> Connect an app (create app). Use:
    - App name: ai-video
@@ -26,7 +31,11 @@ review. Do not post, follow, like or message anything on TikTok. Never print the
 5. Credentials: for the sandbox (and the production app if shown), write the Client key and Client secret into
    ~/.config/tiktok/client.json as {"sandbox": {"client_key": "...", "client_secret": "..."},
    "production": {...}} with file mode 600 (create the folder with mode 700). Do not print them.
-6. Report in short lines: app id or name as shown, status, platform, products, scopes, redirect URI accepted or the
-   exact error, sandbox and target user state, what is still missing, and whether client.json was written.
 
 File paths above are relative to the repo root (Codex runs with `-C <repo>`).
+</task>
+
+<report>
+Report in short lines: app id or name as shown, status, platform, products, scopes, redirect URI accepted or the
+exact error, sandbox and target user state, what is still missing, and whether client.json was written.
+</report>

@@ -26,11 +26,14 @@ Host names and paths live in `config.json` (untracked; copy `config.example.json
   `scp`). Project mirrors for alignment: `gpu_repo_dir/projects/<p>/analysis`.
 
 ## The workflow (one project, stage by stage; each stage writes its outcome into the project's DEVLOG.md)
+Priors that outlive one project live in `tools/priors.md` (read it at song-caption and scene-plan time).
 0. **Brief.** Predict Elliot's prompt (topic arc, genre, voice, look, rules, deliverables); he approves; it goes
    verbatim into SPEC.md "The brief". Pick a topic with a story in real data (next-token: the model got the
    strawberry question wrong on a 69.7% roll).
 1. **Song.** Lyrics topic-first, every number real, technical words' stresses on strong beats, a sung-spelling file
-   (`song/lyrics.sing.txt`). Run configs in `song/runs/*.json` (two captions x 8 seeds). On <gpu_host>:
+   (`song/lyrics.sing.txt`). Run configs in `song/runs/*.json` (two captions x 8 seeds). Captions name the harmony,
+   default a repeating four-chord loop (I-V-vi-IV family) whose chorus order is the same every time; check candidates
+   with musical.py's `4chords` column (tools/priors.md). On <gpu_host>:
    `gen.py gen runs/<run>.json` (ace venv), `score.py out/<run>` (Demucs -> Whisper large-v3 recall + Audiobox),
    `rhythm.py out/<run>` (rhymes on the grid; tempo within 5% of the requested BPM). Locally
    `uv run tools/song/structure.py <take.wav> <take.words.json> song/lyrics.sing.txt out.png` (drop, breakdown,
@@ -42,7 +45,9 @@ Host names and paths live in `config.json` (untracked; copy `config.example.json
    pin bad words with `FIX`/`ANCHORS` in align.py, sections with `SECTION_BARS_*` in analyze.py; copy `data/` back.
    Check against Whisper (median word offset ~0.06 s).
 4. **Build.** Engine + kit first (overlay, shot cutter, materials, hero model), then a scene plan per lyric line in
-   SPEC.md, then scene authors in parallel (one brief each: rules, windows, lyric times, real data). Review every
+   SPEC.md (written against tools/priors.md: the music-video grammar, which devices to use where), then scene authors
+   in parallel, one brief each from `tools/scene_brief_template.md` (XML-wrapped; `tools/prompts.md` is the wrapping
+   convention for every prompt this repo hands a model). Review every
    author's contact sheets; fix engine issues centrally.
 5. **Gate and render.** `app/scripts/beatsheet.sh [--portrait]` (a frame per beat), `render.ts sheet --cuts`,
    `scripts/render-parallel.sh 4 12 --samples auto --max-samples 108 --shutter 0.2` (+ `OUTNAME=<p>_vertical ... --portrait`),

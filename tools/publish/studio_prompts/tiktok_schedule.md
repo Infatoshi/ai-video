@@ -1,8 +1,15 @@
+<context>
 You are operating Google Chrome on this Mac, where Elliot is signed in to TikTok. Use computer use /
 the Chrome browser tool. Elliot approved these two posts word for word, with these times. Use TikTok's web uploader
-(https://www.tiktok.com/tiktokstudio/upload). Do not sign in, type passwords or codes, change account settings,
-follow, like, comment or message anyone, and do not touch any other post or draft.
+(https://www.tiktok.com/tiktokstudio/upload).
+</context>
 
+<constraints>
+Do not sign in, type passwords or codes, change account settings, follow, like, comment or message anyone, and do
+not touch any other post or draft.
+</constraints>
+
+<task>
 For each post, in order:
 1. Upload the file (Select video / drag in).
 2. Caption: replace the default caption with exactly the text below (the hashtags are plain text; if TikTok turns
@@ -24,6 +31,9 @@ Post 2
 - Caption: how an llm writes, one token at a time, and why it thinks strawberry has 2 r's #llm #ai #machinelearning #learnontiktok
 - Scheduled: Thursday, October 1, 2026, 6:00 PM Mountain
 
-Report one line per post: scheduled time as TikTok shows it, AI label on or off, and any message quoted exactly.
-
 File paths above are relative to the repo root (Codex runs with `-C <repo>`).
+</task>
+
+<report>
+Report one line per post: scheduled time as TikTok shows it, AI label on or off, and any message quoted exactly.
+</report>
