@@ -46,7 +46,8 @@ Priors that outlive one project live in `tools/priors.md` (read it at song-capti
    Check against Whisper (median word offset ~0.06 s).
 4. **Build.** Engine + kit first (overlay, shot cutter, materials, hero model), then a scene plan per lyric line in
    SPEC.md (written against tools/priors.md: the music-video grammar, which devices to use where), then scene authors
-   in parallel (one brief each: rules, windows, lyric times, real data). Review every
+   in parallel, one brief each from `tools/scene_brief_template.md` (XML-wrapped; `tools/prompts.md` is the wrapping
+   convention for every prompt this repo hands a model). Review every
    author's contact sheets; fix engine issues centrally.
 5. **Gate and render.** `app/scripts/beatsheet.sh [--portrait]` (a frame per beat), `render.ts sheet --cuts`,
    `scripts/render-parallel.sh 4 12 --samples auto --max-samples 108 --shutter 0.2` (+ `OUTNAME=<p>_vertical ... --portrait`),
