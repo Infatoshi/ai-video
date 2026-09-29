@@ -1,0 +1,41 @@
+{
+ "minutes": 3,
+ "wall_s": 200.07,
+ "loss0": 4.2821,
+ "loss1": 1.6956,
+ "train1": 0.6147,
+ "val_min": 1.4652,
+ "val_min_step": 2000,
+ "excerpts": [
+  {
+   "step": 100,
+   "a": 0,
+   "b": 48,
+   "text": "I\nO: asafnte tist te othuared tharnd he, preckn,",
+   "lines": [
+    "I O: asafnte tist te",
+    "othuared tharnd he, preckn,"
+   ]
+  },
+  {
+   "step": 500,
+   "a": 0,
+   "b": 35,
+   "text": "It tile first; 'tis good a moderal.",
+   "lines": [
+    "It tile first; 'tis",
+    "good a moderal."
+   ]
+  },
+  {
+   "step": 5000,
+   "a": 0,
+   "b": 50,
+   "text": "I cannot not sup. Tell him, do you know,\nYou shall",
+   "lines": [
+    "I cannot not sup. Tell",
+    "him, do you know, You shall"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "id": "hook",
+  "start": 0.0
+ },
+ {
+  "id": "model",
+  "start": 15.55
+ },
+ {
+  "id": "chorus1",
+  "start": 45.43
+ },
+ {
+  "id": "loss",
+  "start": 70.61
+ },
+ {
+  "id": "chorus2",
+  "start": 105.95
+ },
+ {
+  "id": "steps",
+  "start": 130.66
+ },
+ {
+  "id": "chorus3",
+  "start": 172.35
+ },
+ {
+  "id": "outro",
+  "start": 196.78
+ }
+]

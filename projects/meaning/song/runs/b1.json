@@ -1,0 +1,25 @@
+{
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "lyrics_file": "meaning/lyrics.sing.txt",
+ "bpm": 85,
+ "duration": 245,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "batch": 2,
+ "key": "D Major",
+ "offload": true,
+ "name": "meaning-b1",
+ "seeds": [
+  3401,
+  3402,
+  3403,
+  3404,
+  3405,
+  3406,
+  3407,
+  3408
+ ],
+ "caption": "Dreamy indie pop, 85 BPM, washed-out chorus guitars, glowing synth pads, soft brushed drums, warm bass, clear gentle male lead vocal with crisp diction, upfront and easy to understand, singable melodic chorus hook, calm and nostalgic, polished modern production"
+}

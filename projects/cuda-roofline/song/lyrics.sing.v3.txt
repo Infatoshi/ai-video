@@ -1,0 +1,72 @@
+[Intro - synth arpeggio]
+
+[Verse 1]
+When PyTorch just isn't enough tonight,
+I launch ten thousand threads to hold you tight,
+Cuda, mem-copy, host to device,
+Block times the dim, plus thread, and check the bounds twice
+
+[Pre-Chorus]
+G-P-U, please don't leave me on read
+
+[Chorus]
+I'm chasing the roofline,
+Thirty-two threads marching in time,
+One little "if" splits the line,
+It's naive, but it's mine,
+Convolve you with a three-by-three,
+Max-pool the world down to you and me
+
+[Instrumental Break]
+
+[Verse 2]
+We trained a net on M-NIST in C,
+Then naive Cuda, then Q-BLAS set us free,
+Now you're embedding, you're attending,
+One token at a time, never ending
+
+[Pre-Chorus]
+K-V cache, please remember me
+
+[Chorus]
+I'm chasing the roofline,
+Coalesce your loads on a cache line,
+Tile it in shared, sync the threads in time,
+Vectorize, float four, by design,
+Twenty-seven teraflops a second,
+Sixty-six? That's tensor cores, I reckon
+
+[Verse 3]
+Load a fragment, M-M-A sync,
+Sixteen cubed, faster than you think,
+N by N? We never write it down,
+Keep a running max and pass it round
+
+[Pre-Chorus]
+Precision, please don't let me go
+
+[Chorus]
+I'm chasing the roofline,
+Thirty-two bits down to four, and it's fine,
+Scale it and round it, the error's benign,
+Till the outliers step out of line,
+Move the scale to the weights, the product stays true,
+Normal float four blues
+
+[Bridge]
+Just split it over eight G-P-Us!
+N-V-Link, or else you lose,
+Slice the columns, slice the rows,
+All re-duce, and off it goes,
+Pipeline stages, bubbles in between,
+Micro-batch the whole machine
+
+[Chorus]
+I'm chasing the roofline,
+Cut-lass templates, nested design,
+Shape and a stride, and the layouts align,
+Tiles within tiles within tiles of mine,
+Now what? We'll never beat Q-BLAS,
+Maybe Pie-Torch was enough
+
+[Outro - instrumental]

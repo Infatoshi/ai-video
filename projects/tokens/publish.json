@@ -1,0 +1,83 @@
+{
+ "chapters": {
+  "intro": "How many r's are in strawberry?",
+  "cut": "Cut into chunks, swapped for numbers",
+  "chorus": "A token is a chunk of text",
+  "bpe": "Where chunks come from (BPE on this song)",
+  "vocab": "Llama 3.1's 128,256 tokens",
+  "chorus2": "A token is a chunk of text (again)",
+  "strawberry": "strawberry = 73700",
+  "test": "Letters spaced out: 2 vs 3",
+  "bridge": "Same letters, different numbers",
+  "finale": "Never the letters",
+  "outro": "Next: meaning is a direction"
+ },
+ "tags": [
+  "how many r's in strawberry",
+  "strawberry",
+  "tokens",
+  "tokenization",
+  "tokenizer",
+  "byte pair encoding",
+  "bpe",
+  "how llms work",
+  "how chatgpt works",
+  "llm",
+  "llama 3.1",
+  "machine learning for beginners",
+  "ml slowly",
+  "ai explained",
+  "music video",
+  "motown",
+  "education"
+ ],
+ "categoryId": "27",
+ "language": "en",
+ "containsSyntheticMedia": true,
+ "description": "Ask an AI how many r's are in strawberry and it might say 2. It never saw the letters: before it reads, your words are cut into chunks called tokens, and every chunk is swapped for a number. \"strawberry\" (with a space in front) is one chunk, number 73700. There are no r's in 73700.\n\nReal numbers, all on screen: Llama 3.1's tokenizer splits the question into 8 tokens (4438 1690 436 596 527 304 73700 30) out of a vocabulary of 128,256. Asked 100 times, Llama 3.1 8B Instruct said 2 in 67 answers. With the letters spaced out (s t r a w b e r r y, every letter its own token) it said 3 in 90 of 100. The chunks you see being built are a real byte-pair encoding run, about 60 lines of Python, trained on this song's own lyrics (first merge: e + r, 64 times).\n\nML, slowly #2 of 5: one idea per video, sung slowly. Next: #3, Meaning Is a Direction.\n\n{chapters}\n\nAI disclosure: the song (music and vocals) is AI-generated with ACE-Step 1.5; lyrics, data runs, word alignment and every scene (three.js, rendered frame by frame) were made with Claude Code (Claude Opus 5.5). Renderer forked from mexicat's p(doom) video (MIT).\n\n#LLM #AI #MachineLearning\n",
+ "variants": {
+  "tokens": {
+   "video": "out/final/tokens.mp4",
+   "title": "Why AI can't see the r's in strawberry | ML, slowly #2",
+   "thumbnail": "out/publish/thumbs/thumb_B.jpg",
+   "thumbnails_test": [
+    "out/publish/thumbs/thumb_B.jpg",
+    "out/publish/thumbs/thumb_A.jpg",
+    "out/publish/thumbs/thumb_C.jpg"
+   ],
+   "pinned_comment": "if someone texted you 73700 and asked how many r's were in it, you'd say 2 as well"
+  },
+  "tokens_vertical": {
+   "video": "out/final/tokens_vertical.mp4",
+   "title": "Why AI can't see the r's in strawberry (vertical) | ML, slowly #2",
+   "pinned_comment": "put spaces between the letters and it counts them right 90 times out of 100. the other 10 times it started writing an essay"
+  },
+  "tokens_hook": {
+   "source": "out/final/tokens_vertical.mp4",
+   "video": "out/final/tokens_hook.mp4",
+   "cut": [
+    [
+     28.28,
+     47.09
+    ],
+    [
+     141.14,
+     157.6
+    ]
+   ],
+   "title": "To an AI, strawberry is 73700 #Shorts",
+   "description": "Llama 3.1 never sees the letters of \" strawberry\": it gets one number, 73700. Asked 100 times it said 2 in 67 answers; with the letters spaced out it said 3 in 90. Every number is from a real run.\n\nFull video: ML, slowly #2\n\nAI disclosure: the song is AI-generated (ACE-Step 1.5).\n\n#LLM #AI #MachineLearning",
+   "pinned_comment": "strawberry is one token. 73700 has zero r's. honestly the model did its best",
+   "segments_snapped": [
+    [
+     28.278,
+     47.089
+    ],
+    [
+     141.139,
+     157.598
+    ]
+   ]
+  }
+ }
+}

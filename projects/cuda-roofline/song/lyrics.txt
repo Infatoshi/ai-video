@@ -1,0 +1,72 @@
+Chasing the Roofline
+(display text; chapter tags in brackets are not sung)
+
+[Verse 1]
+When PyTorch just isn't enough tonight,                      CH1
+I launch ten thousand threads to hold you tight,             CH1
+cudaMemcpy, host to device,                                  CH2
+Block times the dim plus thread, and check the bounds twice  CH2
+
+[Pre-Chorus 1]
+GPU, please don't leave me on read                           CH2
+
+[Chorus 1]
+I'm chasing the roofline,
+Thirty-two threads marching in time,                         CH3
+One little "if" splits the line,                             CH3
+It's naive, but it's mine,                                   CH3
+Convolve you with a three-by-three,                          CH3
+Max-pool the world down to you and me                        CH3
+
+[Verse 2]
+We trained a net on MNIST in C,                              CH4
+Then naive CUDA, then cuBLAS set us free,                    CH4
+Now you're embedding, you're attending,                      CH5
+One token at a time, never ending                            CH5
+
+[Pre-Chorus 2]
+KV cache, please remember me                                 CH5
+
+[Chorus 2]
+I'm chasing the roofline,
+Coalesce your loads on a cache line,                         CH6
+Tile it in shared, sync the threads in time,                 CH6
+Vectorize, float4, by design,                                CH6
+Twenty-seven teraflops a second,                             CH6
+Sixty-six? That's tensor cores, I reckon                     CH6 -> CH7
+
+[Verse 3]
+Load a fragment, MMA sync,                                   CH7
+Sixteen cubed, faster than you think,                        CH7
+N-by-N? We never write it down,                              CH8
+Keep a running max and pass it round                         CH8
+
+[Pre-Chorus 3]
+Precision, please don't let me go                            CH9
+
+[Chorus 3]
+I'm chasing the roofline,
+Thirty-two bits down to four, and it's fine,                 CH9
+Scale it and round it, the error's benign,                   CH9
+Till the outliers step out of line,                          CH9
+Move the scale to the weights, the product stays true,       CH9
+NormalFloat4 blues                                           CH9
+
+[Bridge]
+"Just split it over eight GPUs!"                             CH10
+NVLink, or else you lose,                                    CH10
+Slice the columns, slice the rows,                           CH10
+All-reduce and off it goes,                                  CH10
+Pipeline stages, bubbles in between,                         CH10
+Micro-batch the whole machine                                CH10
+
+[Chorus 4]
+I'm chasing the roofline,
+CUTLASS templates, nested design,                            CH11
+Shape and a stride, and the layouts align,                   CH11
+Tiles within tiles within tiles of mine,                     CH11
+Now what? We'll never beat cuBLAS,                           CH12
+Maybe PyTorch was enough                                     CH12
+
+[Outro]
+(instrumental)

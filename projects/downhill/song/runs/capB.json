@@ -1,0 +1,26 @@
+{
+ "name": "downhill-capB",
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "lyrics_file": "downhill/lyrics.sing.txt",
+ "bpm": 90,
+ "timesig": "3",
+ "duration": 240,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "batch": 2,
+ "key": "Bb Major",
+ "offload": true,
+ "caption": "Jazz waltz in 3/4 time, 90 BPM, gentle swinging brushed snare, upright bass playing on beat one of every bar, warm acoustic piano comping in three, smooth male jazz crooner singing slowly and clearly, warm baritone, every word easy to understand, intimate late-night club, lyrical piano interludes between verses, tender, unhurried",
+ "seeds": [
+  1201,
+  1202,
+  1203,
+  1204,
+  1205,
+  1206,
+  1207,
+  1208
+ ]
+}

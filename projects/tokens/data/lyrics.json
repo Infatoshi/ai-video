@@ -1,0 +1,2384 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "You asked, how many R's in strawberry?",
+      "start": 10.351,
+      "end": 14.906,
+      "words": [
+        {
+          "w": "You",
+          "start": 10.351,
+          "end": 10.78,
+          "conf": 0.91
+        },
+        {
+          "w": "asked,",
+          "start": 10.78,
+          "end": 11.314,
+          "conf": 0.79
+        },
+        {
+          "w": "how",
+          "start": 11.883,
+          "end": 12.26,
+          "conf": 0.85
+        },
+        {
+          "w": "many",
+          "start": 12.26,
+          "end": 12.776,
+          "conf": 0.85
+        },
+        {
+          "w": "R's",
+          "start": 13.24,
+          "end": 13.509,
+          "conf": 0.61
+        },
+        {
+          "w": "in",
+          "start": 13.509,
+          "end": 13.624,
+          "conf": 0.97
+        },
+        {
+          "w": "strawberry?",
+          "start": 13.624,
+          "end": 14.906,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "The model, that's the A-I, said two (two!)",
+      "start": 15.24,
+      "end": 19.012,
+      "words": [
+        {
+          "w": "The",
+          "start": 15.24,
+          "end": 15.54,
+          "conf": 0.85
+        },
+        {
+          "w": "model,",
+          "start": 15.54,
+          "end": 16.034,
+          "conf": 0.85
+        },
+        {
+          "w": "that's",
+          "start": 16.14,
+          "end": 16.46,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 16.46,
+          "end": 16.612,
+          "conf": 1.0
+        },
+        {
+          "w": "A-I,",
+          "start": 16.797,
+          "end": 17.415,
+          "conf": 0.65,
+          "syl": [
+            [
+              16.797,
+              17.111
+            ],
+            [
+              17.111,
+              17.415
+            ]
+          ]
+        },
+        {
+          "w": "said",
+          "start": 17.51,
+          "end": 17.839,
+          "conf": 0.78
+        },
+        {
+          "w": "two",
+          "start": 17.92,
+          "end": 18.338,
+          "conf": 0.98
+        },
+        {
+          "w": "(two!)",
+          "start": 18.52,
+          "end": 19.012,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "Count them yourself, there are three",
+      "start": 19.12,
+      "end": 23.282,
+      "words": [
+        {
+          "w": "Count",
+          "start": 19.12,
+          "end": 19.44,
+          "conf": 0.85
+        },
+        {
+          "w": "them",
+          "start": 19.44,
+          "end": 19.74,
+          "conf": 0.99
+        },
+        {
+          "w": "yourself,",
+          "start": 19.74,
+          "end": 20.459,
+          "conf": 1.0
+        },
+        {
+          "w": "there",
+          "start": 21.756,
+          "end": 22.26,
+          "conf": 0.85
+        },
+        {
+          "w": "are",
+          "start": 22.26,
+          "end": 22.389,
+          "conf": 0.85
+        },
+        {
+          "w": "three",
+          "start": 22.44,
+          "end": 23.282,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "It never saw the letters like you",
+      "start": 23.681,
+      "end": 27.747,
+      "words": [
+        {
+          "w": "It",
+          "start": 23.681,
+          "end": 23.94,
+          "conf": 0.85
+        },
+        {
+          "w": "never",
+          "start": 23.94,
+          "end": 24.35,
+          "conf": 1.0
+        },
+        {
+          "w": "saw",
+          "start": 24.35,
+          "end": 24.9,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 24.9,
+          "end": 25.16,
+          "conf": 0.85
+        },
+        {
+          "w": "letters",
+          "start": 25.16,
+          "end": 26.39,
+          "conf": 0.97
+        },
+        {
+          "w": "like",
+          "start": 26.634,
+          "end": 27.158,
+          "conf": 0.85
+        },
+        {
+          "w": "you",
+          "start": 27.258,
+          "end": 27.747,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "Before it reads, your words get cut in chunks",
+      "start": 28.959,
+      "end": 33.94,
+      "words": [
+        {
+          "w": "Before",
+          "start": 28.959,
+          "end": 29.76,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 29.76,
+          "end": 29.902,
+          "conf": 0.85
+        },
+        {
+          "w": "reads,",
+          "start": 29.902,
+          "end": 30.551,
+          "conf": 0.99
+        },
+        {
+          "w": "your",
+          "start": 30.84,
+          "end": 31.14,
+          "conf": 1.0
+        },
+        {
+          "w": "words",
+          "start": 31.14,
+          "end": 31.76,
+          "conf": 1.0
+        },
+        {
+          "w": "get",
+          "start": 31.76,
+          "end": 31.937,
+          "conf": 1.0
+        },
+        {
+          "w": "cut",
+          "start": 32.32,
+          "end": 32.8,
+          "conf": 0.84
+        },
+        {
+          "w": "in",
+          "start": 32.8,
+          "end": 33.155,
+          "conf": 0.78
+        },
+        {
+          "w": "chunks",
+          "start": 33.155,
+          "end": 33.94,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "And every chunk is swapped for a number (a number)",
+      "start": 33.94,
+      "end": 38.941,
+      "words": [
+        {
+          "w": "And",
+          "start": 33.94,
+          "end": 34.197,
+          "conf": 0.85
+        },
+        {
+          "w": "every",
+          "start": 34.197,
+          "end": 34.646,
+          "conf": 0.92
+        },
+        {
+          "w": "chunk",
+          "start": 34.646,
+          "end": 35.025,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 35.644,
+          "end": 35.84,
+          "conf": 0.83
+        },
+        {
+          "w": "swapped",
+          "start": 35.84,
+          "end": 36.278,
+          "conf": 0.93
+        },
+        {
+          "w": "for",
+          "start": 36.332,
+          "end": 36.94,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 36.94,
+          "end": 37.14,
+          "conf": 0.89
+        },
+        {
+          "w": "number",
+          "start": 37.14,
+          "end": 38.098,
+          "conf": 0.97
+        },
+        {
+          "w": "(a",
+          "start": 38.098,
+          "end": 38.34,
+          "conf": 0.92
+        },
+        {
+          "w": "number)",
+          "start": 38.34,
+          "end": 38.941,
+          "conf": 0.97
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "Eight little chunks, eight numbers in a row",
+      "start": 39.52,
+      "end": 43.297,
+      "words": [
+        {
+          "w": "Eight",
+          "start": 39.52,
+          "end": 39.86,
+          "conf": 0.85
+        },
+        {
+          "w": "little",
+          "start": 39.86,
+          "end": 40.36,
+          "conf": 0.9
+        },
+        {
+          "w": "chunks,",
+          "start": 40.36,
+          "end": 40.982,
+          "conf": 0.97
+        },
+        {
+          "w": "eight",
+          "start": 41.64,
+          "end": 41.895,
+          "conf": 0.77
+        },
+        {
+          "w": "numbers",
+          "start": 41.895,
+          "end": 42.598,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 42.598,
+          "end": 42.76,
+          "conf": 0.84
+        },
+        {
+          "w": "a",
+          "start": 42.76,
+          "end": 42.86,
+          "conf": 1.0
+        },
+        {
+          "w": "row",
+          "start": 42.86,
+          "end": 43.297,
+          "conf": 0.93
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "And the numbers are all that it's shown",
+      "start": 43.721,
+      "end": 47.078,
+      "words": [
+        {
+          "w": "And",
+          "start": 43.721,
+          "end": 44.06,
+          "conf": 0.84
+        },
+        {
+          "w": "the",
+          "start": 44.06,
+          "end": 44.34,
+          "conf": 1.0
+        },
+        {
+          "w": "numbers",
+          "start": 44.34,
+          "end": 45.292,
+          "conf": 1.0
+        },
+        {
+          "w": "are",
+          "start": 45.292,
+          "end": 45.571,
+          "conf": 0.84
+        },
+        {
+          "w": "all",
+          "start": 45.571,
+          "end": 45.88,
+          "conf": 0.91
+        },
+        {
+          "w": "that",
+          "start": 45.88,
+          "end": 46.225,
+          "conf": 0.97
+        },
+        {
+          "w": "it's",
+          "start": 46.225,
+          "end": 46.36,
+          "conf": 0.91
+        },
+        {
+          "w": "shown",
+          "start": 46.36,
+          "end": 47.078,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "A token is a chunk of text (chunk of text)",
+      "start": 47.66,
+      "end": 51.927,
+      "words": [
+        {
+          "w": "A",
+          "start": 47.66,
+          "end": 47.74,
+          "conf": 0.92
+        },
+        {
+          "w": "token",
+          "start": 47.74,
+          "end": 48.59,
+          "conf": 0.86
+        },
+        {
+          "w": "is",
+          "start": 48.59,
+          "end": 48.88,
+          "conf": 0.7
+        },
+        {
+          "w": "a",
+          "start": 48.88,
+          "end": 48.959,
+          "conf": 0.94
+        },
+        {
+          "w": "chunk",
+          "start": 49.04,
+          "end": 49.353,
+          "conf": 0.95
+        },
+        {
+          "w": "of",
+          "start": 49.463,
+          "end": 49.877,
+          "conf": 0.73
+        },
+        {
+          "w": "text",
+          "start": 49.98,
+          "end": 50.78,
+          "conf": 0.85
+        },
+        {
+          "w": "(chunk",
+          "start": 50.86,
+          "end": 51.263,
+          "conf": 0.72
+        },
+        {
+          "w": "of",
+          "start": 51.263,
+          "end": 51.46,
+          "conf": 0.81
+        },
+        {
+          "w": "text)",
+          "start": 51.46,
+          "end": 51.927,
+          "conf": 0.83
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "Every chunk gets a number (a number)",
+      "start": 52.151,
+      "end": 56.716,
+      "words": [
+        {
+          "w": "Every",
+          "start": 52.151,
+          "end": 52.615,
+          "conf": 0.92
+        },
+        {
+          "w": "chunk",
+          "start": 52.615,
+          "end": 53.079,
+          "conf": 0.92
+        },
+        {
+          "w": "gets",
+          "start": 53.28,
+          "end": 53.663,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 53.663,
+          "end": 53.9,
+          "conf": 0.91
+        },
+        {
+          "w": "number",
+          "start": 53.9,
+          "end": 55.56,
+          "conf": 0.92
+        },
+        {
+          "w": "(a",
+          "start": 55.56,
+          "end": 55.748,
+          "conf": 0.68
+        },
+        {
+          "w": "number)",
+          "start": 55.748,
+          "end": 56.716,
+          "conf": 0.64
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "The model reads the numbers (just the numbers)",
+      "start": 57.115,
+      "end": 61.715,
+      "words": [
+        {
+          "w": "The",
+          "start": 57.115,
+          "end": 57.48,
+          "conf": 1.0
+        },
+        {
+          "w": "model",
+          "start": 57.48,
+          "end": 58.12,
+          "conf": 0.81
+        },
+        {
+          "w": "reads",
+          "start": 58.12,
+          "end": 58.42,
+          "conf": 0.79
+        },
+        {
+          "w": "the",
+          "start": 58.42,
+          "end": 58.68,
+          "conf": 0.99
+        },
+        {
+          "w": "numbers",
+          "start": 58.68,
+          "end": 60.458,
+          "conf": 0.9
+        },
+        {
+          "w": "(just",
+          "start": 60.458,
+          "end": 60.78,
+          "conf": 0.97
+        },
+        {
+          "w": "the",
+          "start": 60.78,
+          "end": 61.08,
+          "conf": 0.82
+        },
+        {
+          "w": "numbers)",
+          "start": 61.08,
+          "end": 61.715,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "Never the letters (never the letters)",
+      "start": 62.124,
+      "end": 66.484,
+      "words": [
+        {
+          "w": "Never",
+          "start": 62.124,
+          "end": 62.88,
+          "conf": 0.9
+        },
+        {
+          "w": "the",
+          "start": 62.88,
+          "end": 63.16,
+          "conf": 0.84
+        },
+        {
+          "w": "letters",
+          "start": 63.16,
+          "end": 64.46,
+          "conf": 0.81
+        },
+        {
+          "w": "(never",
+          "start": 64.46,
+          "end": 65.3,
+          "conf": 0.47
+        },
+        {
+          "w": "the",
+          "start": 65.3,
+          "end": 65.56,
+          "conf": 0.73
+        },
+        {
+          "w": "letters)",
+          "start": 65.56,
+          "end": 66.484,
+          "conf": 0.93
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "Where do the chunks come from? (Where?)",
+      "start": 72.834,
+      "end": 76.356,
+      "words": [
+        {
+          "w": "Where",
+          "start": 72.834,
+          "end": 73.54,
+          "conf": 0.85
+        },
+        {
+          "w": "do",
+          "start": 73.54,
+          "end": 73.907,
+          "conf": 0.81
+        },
+        {
+          "w": "the",
+          "start": 73.907,
+          "end": 74.032,
+          "conf": 0.85
+        },
+        {
+          "w": "chunks",
+          "start": 74.032,
+          "end": 74.46,
+          "conf": 1.0
+        },
+        {
+          "w": "come",
+          "start": 74.46,
+          "end": 74.92,
+          "conf": 1.0
+        },
+        {
+          "w": "from?",
+          "start": 74.92,
+          "end": 75.62,
+          "conf": 1.0
+        },
+        {
+          "w": "(Where?)",
+          "start": 75.62,
+          "end": 76.356,
+          "conf": 0.91
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "Take this song and break it into letters",
+      "start": 76.48,
+      "end": 80.642,
+      "words": [
+        {
+          "w": "Take",
+          "start": 76.48,
+          "end": 76.736,
+          "conf": 1.0
+        },
+        {
+          "w": "this",
+          "start": 76.84,
+          "end": 77.22,
+          "conf": 1.0
+        },
+        {
+          "w": "song",
+          "start": 77.22,
+          "end": 78.068,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 78.068,
+          "end": 78.28,
+          "conf": 0.85
+        },
+        {
+          "w": "break",
+          "start": 78.28,
+          "end": 78.556,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 78.651,
+          "end": 78.956,
+          "conf": 0.88
+        },
+        {
+          "w": "into",
+          "start": 78.956,
+          "end": 79.734,
+          "conf": 0.92
+        },
+        {
+          "w": "letters",
+          "start": 79.734,
+          "end": 80.642,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "Find the pair that shows up the most",
+      "start": 81.176,
+      "end": 85.132,
+      "words": [
+        {
+          "w": "Find",
+          "start": 81.176,
+          "end": 81.88,
+          "conf": 0.99
+        },
+        {
+          "w": "the",
+          "start": 81.88,
+          "end": 82.014,
+          "conf": 0.94
+        },
+        {
+          "w": "pair",
+          "start": 82.14,
+          "end": 82.78,
+          "conf": 0.96
+        },
+        {
+          "w": "that",
+          "start": 82.78,
+          "end": 82.912,
+          "conf": 0.85
+        },
+        {
+          "w": "shows",
+          "start": 82.912,
+          "end": 83.74,
+          "conf": 1.0
+        },
+        {
+          "w": "up",
+          "start": 83.74,
+          "end": 83.839,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 83.94,
+          "end": 84.54,
+          "conf": 1.0
+        },
+        {
+          "w": "most",
+          "start": 84.54,
+          "end": 85.132,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "E and R, glue them together (together)",
+      "start": 85.94,
+      "end": 91.801,
+      "words": [
+        {
+          "w": "E",
+          "start": 85.94,
+          "end": 86.8,
+          "conf": 0.88
+        },
+        {
+          "w": "and",
+          "start": 86.8,
+          "end": 86.972,
+          "conf": 0.64
+        },
+        {
+          "w": "R,",
+          "start": 86.972,
+          "end": 88.13,
+          "conf": 0.78
+        },
+        {
+          "w": "glue",
+          "start": 88.36,
+          "end": 88.74,
+          "conf": 0.75
+        },
+        {
+          "w": "them",
+          "start": 88.74,
+          "end": 89.0,
+          "conf": 0.85
+        },
+        {
+          "w": "together",
+          "start": 89.0,
+          "end": 90.18,
+          "conf": 1.0
+        },
+        {
+          "w": "(together)",
+          "start": 90.18,
+          "end": 91.801,
+          "conf": 0.79
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "Count again and glue again (again)",
+      "start": 91.94,
+      "end": 95.52,
+      "words": [
+        {
+          "w": "Count",
+          "start": 91.94,
+          "end": 92.4,
+          "conf": 1.0
+        },
+        {
+          "w": "again",
+          "start": 92.4,
+          "end": 92.96,
+          "conf": 0.85
+        },
+        {
+          "w": "and",
+          "start": 92.96,
+          "end": 93.14,
+          "conf": 0.85
+        },
+        {
+          "w": "glue",
+          "start": 93.14,
+          "end": 93.96,
+          "conf": 0.94
+        },
+        {
+          "w": "again",
+          "start": 93.96,
+          "end": 94.6,
+          "conf": 0.77
+        },
+        {
+          "w": "(again)",
+          "start": 94.72,
+          "end": 95.52,
+          "conf": 0.58
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "Till the words we sing the most are whole",
+      "start": 95.52,
+      "end": 99.304,
+      "words": [
+        {
+          "w": "Till",
+          "start": 95.52,
+          "end": 96.18,
+          "conf": 0.95
+        },
+        {
+          "w": "the",
+          "start": 96.18,
+          "end": 96.44,
+          "conf": 0.85
+        },
+        {
+          "w": "words",
+          "start": 96.44,
+          "end": 97.0,
+          "conf": 1.0
+        },
+        {
+          "w": "we",
+          "start": 97.0,
+          "end": 97.174,
+          "conf": 0.85
+        },
+        {
+          "w": "sing",
+          "start": 97.174,
+          "end": 97.62,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 97.62,
+          "end": 97.88,
+          "conf": 1.0
+        },
+        {
+          "w": "most",
+          "start": 97.88,
+          "end": 98.262,
+          "conf": 1.0
+        },
+        {
+          "w": "are",
+          "start": 98.262,
+          "end": 98.78,
+          "conf": 0.87
+        },
+        {
+          "w": "whole",
+          "start": 98.78,
+          "end": 99.304,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "The model's chunks were made this way",
+      "start": 99.98,
+      "end": 103.929,
+      "words": [
+        {
+          "w": "The",
+          "start": 99.98,
+          "end": 100.26,
+          "conf": 0.85
+        },
+        {
+          "w": "model's",
+          "start": 100.26,
+          "end": 101.12,
+          "conf": 1.0
+        },
+        {
+          "w": "chunks",
+          "start": 101.12,
+          "end": 101.729,
+          "conf": 0.99
+        },
+        {
+          "w": "were",
+          "start": 102.34,
+          "end": 102.64,
+          "conf": 0.85
+        },
+        {
+          "w": "made",
+          "start": 102.64,
+          "end": 102.906,
+          "conf": 0.85
+        },
+        {
+          "w": "this",
+          "start": 102.98,
+          "end": 103.52,
+          "conf": 1.0
+        },
+        {
+          "w": "way",
+          "start": 103.52,
+          "end": 103.929,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "A hundred twenty-eight thousand, all told (all told)",
+      "start": 104.2,
+      "end": 109.7,
+      "words": [
+        {
+          "w": "A",
+          "start": 104.2,
+          "end": 104.353,
+          "conf": 0.8
+        },
+        {
+          "w": "hundred",
+          "start": 104.353,
+          "end": 104.897,
+          "conf": 1.0
+        },
+        {
+          "w": "twenty-eight",
+          "start": 104.98,
+          "end": 105.824,
+          "conf": 0.9,
+          "syl": [
+            [
+              104.98,
+              105.68
+            ],
+            [
+              105.68,
+              105.824
+            ]
+          ]
+        },
+        {
+          "w": "thousand,",
+          "start": 105.9,
+          "end": 107.351,
+          "conf": 0.88
+        },
+        {
+          "w": "all",
+          "start": 107.73,
+          "end": 108.24,
+          "conf": 0.84
+        },
+        {
+          "w": "told",
+          "start": 108.24,
+          "end": 108.892,
+          "conf": 0.8
+        },
+        {
+          "w": "(all",
+          "start": 108.892,
+          "end": 109.446,
+          "conf": 0.77
+        },
+        {
+          "w": "told)",
+          "start": 109.446,
+          "end": 109.7,
+          "conf": 0.68
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "A token is a chunk of text (chunk of text)",
+      "start": 109.7,
+      "end": 113.732,
+      "words": [
+        {
+          "w": "A",
+          "start": 109.7,
+          "end": 109.73,
+          "conf": 0.8
+        },
+        {
+          "w": "token",
+          "start": 109.73,
+          "end": 110.52,
+          "conf": 0.72
+        },
+        {
+          "w": "is",
+          "start": 110.52,
+          "end": 110.713,
+          "conf": 0.72
+        },
+        {
+          "w": "a",
+          "start": 110.713,
+          "end": 110.86,
+          "conf": 0.96
+        },
+        {
+          "w": "chunk",
+          "start": 110.86,
+          "end": 111.292,
+          "conf": 0.95
+        },
+        {
+          "w": "of",
+          "start": 111.292,
+          "end": 111.721,
+          "conf": 0.66
+        },
+        {
+          "w": "text",
+          "start": 111.82,
+          "end": 112.66,
+          "conf": 0.72
+        },
+        {
+          "w": "(chunk",
+          "start": 112.66,
+          "end": 113.058,
+          "conf": 0.9
+        },
+        {
+          "w": "of",
+          "start": 113.058,
+          "end": 113.307,
+          "conf": 0.66
+        },
+        {
+          "w": "text)",
+          "start": 113.307,
+          "end": 113.732,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "Every chunk gets a number (a number)",
+      "start": 113.966,
+      "end": 118.625,
+      "words": [
+        {
+          "w": "Every",
+          "start": 113.966,
+          "end": 114.41,
+          "conf": 0.77
+        },
+        {
+          "w": "chunk",
+          "start": 114.41,
+          "end": 114.879,
+          "conf": 0.86
+        },
+        {
+          "w": "gets",
+          "start": 115.08,
+          "end": 115.458,
+          "conf": 0.82
+        },
+        {
+          "w": "a",
+          "start": 115.458,
+          "end": 115.68,
+          "conf": 0.91
+        },
+        {
+          "w": "number",
+          "start": 115.68,
+          "end": 117.32,
+          "conf": 0.9
+        },
+        {
+          "w": "(a",
+          "start": 117.32,
+          "end": 117.36,
+          "conf": 0.61
+        },
+        {
+          "w": "number)",
+          "start": 117.36,
+          "end": 118.625,
+          "conf": 0.87
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "The model reads the numbers (just the numbers)",
+      "start": 118.96,
+      "end": 123.439,
+      "words": [
+        {
+          "w": "The",
+          "start": 118.96,
+          "end": 119.24,
+          "conf": 0.85
+        },
+        {
+          "w": "model",
+          "start": 119.24,
+          "end": 119.86,
+          "conf": 0.85
+        },
+        {
+          "w": "reads",
+          "start": 119.86,
+          "end": 120.16,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 120.16,
+          "end": 120.44,
+          "conf": 0.92
+        },
+        {
+          "w": "numbers",
+          "start": 120.44,
+          "end": 121.599,
+          "conf": 0.9
+        },
+        {
+          "w": "(just",
+          "start": 121.599,
+          "end": 122.127,
+          "conf": 0.87
+        },
+        {
+          "w": "the",
+          "start": 122.2,
+          "end": 122.68,
+          "conf": 0.6
+        },
+        {
+          "w": "numbers)",
+          "start": 122.68,
+          "end": 123.439,
+          "conf": 0.57
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "Never the letters (never the letters)",
+      "start": 123.98,
+      "end": 128.149,
+      "words": [
+        {
+          "w": "Never",
+          "start": 123.98,
+          "end": 124.58,
+          "conf": 0.83
+        },
+        {
+          "w": "the",
+          "start": 124.58,
+          "end": 124.86,
+          "conf": 0.82
+        },
+        {
+          "w": "letters",
+          "start": 124.86,
+          "end": 125.54,
+          "conf": 0.86
+        },
+        {
+          "w": "(never",
+          "start": 125.54,
+          "end": 127.0,
+          "conf": 0.58
+        },
+        {
+          "w": "the",
+          "start": 127.0,
+          "end": 127.24,
+          "conf": 0.52
+        },
+        {
+          "w": "letters)",
+          "start": 127.24,
+          "end": 128.149,
+          "conf": 0.93
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "Look at strawberry one more time",
+      "start": 133.881,
+      "end": 137.203,
+      "words": [
+        {
+          "w": "Look",
+          "start": 133.881,
+          "end": 134.315,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 134.315,
+          "end": 134.439,
+          "conf": 1.0
+        },
+        {
+          "w": "strawberry",
+          "start": 134.439,
+          "end": 135.846,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 135.846,
+          "end": 136.08,
+          "conf": 0.85
+        },
+        {
+          "w": "more",
+          "start": 136.08,
+          "end": 136.62,
+          "conf": 0.95
+        },
+        {
+          "w": "time",
+          "start": 136.62,
+          "end": 137.203,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "With a space in front, it's just one chunk (one chunk)",
+      "start": 137.58,
+      "end": 142.346,
+      "words": [
+        {
+          "w": "With",
+          "start": 137.58,
+          "end": 137.777,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 137.9,
+          "end": 137.996,
+          "conf": 0.84
+        },
+        {
+          "w": "space",
+          "start": 137.996,
+          "end": 138.545,
+          "conf": 0.99
+        },
+        {
+          "w": "in",
+          "start": 138.545,
+          "end": 138.924,
+          "conf": 1.0
+        },
+        {
+          "w": "front,",
+          "start": 138.924,
+          "end": 139.298,
+          "conf": 1.0
+        },
+        {
+          "w": "it's",
+          "start": 139.673,
+          "end": 139.837,
+          "conf": 0.83
+        },
+        {
+          "w": "just",
+          "start": 139.837,
+          "end": 140.311,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 140.311,
+          "end": 140.72,
+          "conf": 0.84
+        },
+        {
+          "w": "chunk",
+          "start": 140.72,
+          "end": 141.179,
+          "conf": 0.82
+        },
+        {
+          "w": "(one",
+          "start": 141.179,
+          "end": 141.62,
+          "conf": 0.69
+        },
+        {
+          "w": "chunk)",
+          "start": 141.62,
+          "end": 142.346,
+          "conf": 0.84
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "One number (seven three seven oh oh)",
+      "start": 142.346,
+      "end": 146.283,
+      "words": [
+        {
+          "w": "One",
+          "start": 142.346,
+          "end": 142.88,
+          "conf": 0.85
+        },
+        {
+          "w": "number",
+          "start": 142.88,
+          "end": 143.329,
+          "conf": 0.9
+        },
+        {
+          "w": "(seven",
+          "start": 143.329,
+          "end": 143.913,
+          "conf": 0.82
+        },
+        {
+          "w": "three",
+          "start": 143.958,
+          "end": 144.517,
+          "conf": 0.89
+        },
+        {
+          "w": "seven",
+          "start": 144.517,
+          "end": 145.58,
+          "conf": 0.87
+        },
+        {
+          "w": "oh",
+          "start": 145.58,
+          "end": 145.863,
+          "conf": 0.69
+        },
+        {
+          "w": "oh)",
+          "start": 145.863,
+          "end": 146.283,
+          "conf": 0.71
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "Where are the R's in that? (Where?)",
+      "start": 146.4,
+      "end": 149.655,
+      "words": [
+        {
+          "w": "Where",
+          "start": 146.4,
+          "end": 146.761,
+          "conf": 0.9
+        },
+        {
+          "w": "are",
+          "start": 146.761,
+          "end": 147.04,
+          "conf": 0.8
+        },
+        {
+          "w": "the",
+          "start": 147.04,
+          "end": 147.64,
+          "conf": 0.91
+        },
+        {
+          "w": "R's",
+          "start": 147.64,
+          "end": 147.969,
+          "conf": 0.85
+        },
+        {
+          "w": "in",
+          "start": 147.969,
+          "end": 148.48,
+          "conf": 0.7
+        },
+        {
+          "w": "that?",
+          "start": 148.48,
+          "end": 148.822,
+          "conf": 1.0
+        },
+        {
+          "w": "(Where?)",
+          "start": 149.06,
+          "end": 149.655,
+          "conf": 0.93
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "Give it one chunk (it says two)",
+      "start": 149.94,
+      "end": 152.818,
+      "words": [
+        {
+          "w": "Give",
+          "start": 149.94,
+          "end": 150.298,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 150.298,
+          "end": 150.568,
+          "conf": 0.8
+        },
+        {
+          "w": "one",
+          "start": 150.568,
+          "end": 150.742,
+          "conf": 1.0
+        },
+        {
+          "w": "chunk",
+          "start": 150.742,
+          "end": 151.181,
+          "conf": 0.98
+        },
+        {
+          "w": "(it",
+          "start": 151.451,
+          "end": 151.576,
+          "conf": 0.84
+        },
+        {
+          "w": "says",
+          "start": 151.576,
+          "end": 152.24,
+          "conf": 0.9
+        },
+        {
+          "w": "two)",
+          "start": 152.24,
+          "end": 152.818,
+          "conf": 0.81
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "Space out the letters (it says three)",
+      "start": 153.217,
+      "end": 157.512,
+      "words": [
+        {
+          "w": "Space",
+          "start": 153.217,
+          "end": 154.105,
+          "conf": 0.85
+        },
+        {
+          "w": "out",
+          "start": 154.105,
+          "end": 154.299,
+          "conf": 0.72
+        },
+        {
+          "w": "the",
+          "start": 154.36,
+          "end": 154.62,
+          "conf": 1.0
+        },
+        {
+          "w": "letters",
+          "start": 154.62,
+          "end": 155.866,
+          "conf": 0.98
+        },
+        {
+          "w": "(it",
+          "start": 156.18,
+          "end": 156.28,
+          "conf": 0.82
+        },
+        {
+          "w": "says",
+          "start": 156.28,
+          "end": 156.839,
+          "conf": 0.94
+        },
+        {
+          "w": "three)",
+          "start": 156.839,
+          "end": 157.512,
+          "conf": 0.82
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "The R's were hiding in the chunk",
+      "start": 157.86,
+      "end": 160.909,
+      "words": [
+        {
+          "w": "The",
+          "start": 157.86,
+          "end": 158.101,
+          "conf": 0.85
+        },
+        {
+          "w": "R's",
+          "start": 158.52,
+          "end": 158.78,
+          "conf": 0.76
+        },
+        {
+          "w": "were",
+          "start": 158.78,
+          "end": 159.263,
+          "conf": 0.94
+        },
+        {
+          "w": "hiding",
+          "start": 159.263,
+          "end": 159.996,
+          "conf": 0.83
+        },
+        {
+          "w": "in",
+          "start": 159.996,
+          "end": 160.24,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 160.24,
+          "end": 160.395,
+          "conf": 1.0
+        },
+        {
+          "w": "chunk",
+          "start": 160.395,
+          "end": 160.909,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "It only ever saw the number (the number)",
+      "start": 161.393,
+      "end": 167.165,
+      "words": [
+        {
+          "w": "It",
+          "start": 161.393,
+          "end": 161.578,
+          "conf": 0.84
+        },
+        {
+          "w": "only",
+          "start": 161.742,
+          "end": 162.316,
+          "conf": 0.62
+        },
+        {
+          "w": "ever",
+          "start": 162.316,
+          "end": 162.68,
+          "conf": 0.77
+        },
+        {
+          "w": "saw",
+          "start": 162.68,
+          "end": 164.66,
+          "conf": 0.9
+        },
+        {
+          "w": "the",
+          "start": 164.66,
+          "end": 164.94,
+          "conf": 0.75
+        },
+        {
+          "w": "number",
+          "start": 164.94,
+          "end": 166.14,
+          "conf": 0.95
+        },
+        {
+          "w": "(the",
+          "start": 166.14,
+          "end": 166.42,
+          "conf": 0.53
+        },
+        {
+          "w": "number)",
+          "start": 166.42,
+          "end": 167.165,
+          "conf": 0.94
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "When it wrote the word back, no space in front",
+      "start": 171.68,
+      "end": 175.776,
+      "words": [
+        {
+          "w": "When",
+          "start": 171.68,
+          "end": 172.029,
+          "conf": 0.92
+        },
+        {
+          "w": "it",
+          "start": 172.029,
+          "end": 172.26,
+          "conf": 0.85
+        },
+        {
+          "w": "wrote",
+          "start": 172.26,
+          "end": 172.6,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 172.6,
+          "end": 172.86,
+          "conf": 1.0
+        },
+        {
+          "w": "word",
+          "start": 172.86,
+          "end": 173.44,
+          "conf": 1.0
+        },
+        {
+          "w": "back,",
+          "start": 173.44,
+          "end": 173.795,
+          "conf": 0.85
+        },
+        {
+          "w": "no",
+          "start": 174.214,
+          "end": 174.473,
+          "conf": 1.0
+        },
+        {
+          "w": "space",
+          "start": 174.473,
+          "end": 175.017,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 175.017,
+          "end": 175.381,
+          "conf": 1.0
+        },
+        {
+          "w": "front",
+          "start": 175.381,
+          "end": 175.776,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "It came out in three (S-T-R, A-W, berry)",
+      "start": 176.125,
+      "end": 181.054,
+      "words": [
+        {
+          "w": "It",
+          "start": 176.125,
+          "end": 176.22,
+          "conf": 0.85
+        },
+        {
+          "w": "came",
+          "start": 176.34,
+          "end": 177.008,
+          "conf": 1.0
+        },
+        {
+          "w": "out",
+          "start": 177.008,
+          "end": 177.332,
+          "conf": 0.62
+        },
+        {
+          "w": "in",
+          "start": 177.332,
+          "end": 177.8,
+          "conf": 0.92
+        },
+        {
+          "w": "three",
+          "start": 177.8,
+          "end": 178.1,
+          "conf": 1.0
+        },
+        {
+          "w": "(S-T-R,",
+          "start": 178.1,
+          "end": 179.637,
+          "conf": 0.7,
+          "syl": [
+            [
+              178.1,
+              178.7
+            ],
+            [
+              178.7,
+              179.06
+            ],
+            [
+              179.06,
+              179.637
+            ]
+          ]
+        },
+        {
+          "w": "A-W,",
+          "start": 179.637,
+          "end": 180.38,
+          "conf": 0.77,
+          "syl": [
+            [
+              179.637,
+              179.88
+            ],
+            [
+              179.88,
+              180.23
+            ],
+            [
+              180.23,
+              180.38
+            ]
+          ]
+        },
+        {
+          "w": "berry)",
+          "start": 180.38,
+          "end": 181.054,
+          "conf": 0.88
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "text": "A capital S, another number (another number)",
+      "start": 181.398,
+      "end": 185.568,
+      "words": [
+        {
+          "w": "A",
+          "start": 181.398,
+          "end": 181.483,
+          "conf": 0.84
+        },
+        {
+          "w": "capital",
+          "start": 181.6,
+          "end": 182.82,
+          "conf": 1.0
+        },
+        {
+          "w": "S,",
+          "start": 182.82,
+          "end": 183.159,
+          "conf": 0.72
+        },
+        {
+          "w": "another",
+          "start": 183.159,
+          "end": 184.0,
+          "conf": 0.86
+        },
+        {
+          "w": "number",
+          "start": 184.0,
+          "end": 184.8,
+          "conf": 0.91
+        },
+        {
+          "w": "(another",
+          "start": 184.8,
+          "end": 185.079,
+          "conf": 0.65
+        },
+        {
+          "w": "number)",
+          "start": 185.079,
+          "end": 185.568,
+          "conf": 0.79
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "text": "Same letters, different numbers (different numbers)",
+      "start": 185.568,
+      "end": 191.694,
+      "words": [
+        {
+          "w": "Same",
+          "start": 185.568,
+          "end": 186.34,
+          "conf": 0.85
+        },
+        {
+          "w": "letters,",
+          "start": 186.34,
+          "end": 187.579,
+          "conf": 0.81
+        },
+        {
+          "w": "different",
+          "start": 187.993,
+          "end": 188.68,
+          "conf": 1.0
+        },
+        {
+          "w": "numbers",
+          "start": 188.68,
+          "end": 190.48,
+          "conf": 0.85
+        },
+        {
+          "w": "(different",
+          "start": 190.48,
+          "end": 191.04,
+          "conf": 0.87
+        },
+        {
+          "w": "numbers)",
+          "start": 191.04,
+          "end": 191.694,
+          "conf": 0.91
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "text": "A token is a chunk of text (chunk of text)",
+      "start": 191.894,
+      "end": 196.419,
+      "words": [
+        {
+          "w": "A",
+          "start": 191.894,
+          "end": 192.054,
+          "conf": 0.84
+        },
+        {
+          "w": "token",
+          "start": 192.16,
+          "end": 192.887,
+          "conf": 0.91
+        },
+        {
+          "w": "is",
+          "start": 192.887,
+          "end": 193.18,
+          "conf": 0.77
+        },
+        {
+          "w": "a",
+          "start": 193.18,
+          "end": 193.32,
+          "conf": 0.94
+        },
+        {
+          "w": "chunk",
+          "start": 193.32,
+          "end": 193.75,
+          "conf": 0.87
+        },
+        {
+          "w": "of",
+          "start": 193.75,
+          "end": 194.26,
+          "conf": 0.59
+        },
+        {
+          "w": "text",
+          "start": 194.26,
+          "end": 195.037,
+          "conf": 0.82
+        },
+        {
+          "w": "(chunk",
+          "start": 195.12,
+          "end": 195.511,
+          "conf": 0.81
+        },
+        {
+          "w": "of",
+          "start": 195.511,
+          "end": 195.72,
+          "conf": 0.77
+        },
+        {
+          "w": "text)",
+          "start": 195.72,
+          "end": 196.419,
+          "conf": 0.88
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "text": "Every chunk gets a number (a number)",
+      "start": 196.419,
+      "end": 200.893,
+      "words": [
+        {
+          "w": "Every",
+          "start": 196.419,
+          "end": 196.858,
+          "conf": 1.0
+        },
+        {
+          "w": "chunk",
+          "start": 196.858,
+          "end": 197.322,
+          "conf": 0.93
+        },
+        {
+          "w": "gets",
+          "start": 197.52,
+          "end": 197.83,
+          "conf": 0.84
+        },
+        {
+          "w": "a",
+          "start": 197.83,
+          "end": 198.14,
+          "conf": 0.9
+        },
+        {
+          "w": "number",
+          "start": 198.14,
+          "end": 199.76,
+          "conf": 0.91
+        },
+        {
+          "w": "(a",
+          "start": 199.76,
+          "end": 199.9,
+          "conf": 0.53
+        },
+        {
+          "w": "number)",
+          "start": 199.9,
+          "end": 200.893,
+          "conf": 0.74
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "text": "The model reads the numbers (just the numbers)",
+      "start": 201.302,
+      "end": 205.832,
+      "words": [
+        {
+          "w": "The",
+          "start": 201.302,
+          "end": 201.66,
+          "conf": 0.85
+        },
+        {
+          "w": "model",
+          "start": 201.66,
+          "end": 202.26,
+          "conf": 0.77
+        },
+        {
+          "w": "reads",
+          "start": 202.26,
+          "end": 202.58,
+          "conf": 0.79
+        },
+        {
+          "w": "the",
+          "start": 202.58,
+          "end": 202.84,
+          "conf": 1.0
+        },
+        {
+          "w": "numbers",
+          "start": 202.84,
+          "end": 204.49,
+          "conf": 0.96
+        },
+        {
+          "w": "(just",
+          "start": 204.58,
+          "end": 204.92,
+          "conf": 0.75
+        },
+        {
+          "w": "the",
+          "start": 204.92,
+          "end": 205.2,
+          "conf": 0.75
+        },
+        {
+          "w": "numbers)",
+          "start": 205.2,
+          "end": 205.832,
+          "conf": 0.89
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "text": "Never the letters (never the letters)",
+      "start": 206.042,
+      "end": 210.372,
+      "words": [
+        {
+          "w": "Never",
+          "start": 206.042,
+          "end": 207.0,
+          "conf": 0.81
+        },
+        {
+          "w": "the",
+          "start": 207.0,
+          "end": 207.28,
+          "conf": 0.76
+        },
+        {
+          "w": "letters",
+          "start": 207.28,
+          "end": 207.8,
+          "conf": 0.87
+        },
+        {
+          "w": "(never",
+          "start": 207.8,
+          "end": 208.18,
+          "conf": 0.38
+        },
+        {
+          "w": "the",
+          "start": 208.18,
+          "end": 209.62,
+          "conf": 0.47
+        },
+        {
+          "w": "letters)",
+          "start": 209.62,
+          "end": 210.372,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "text": "Never the letters",
+      "start": 210.876,
+      "end": 213.335,
+      "words": [
+        {
+          "w": "Never",
+          "start": 210.876,
+          "end": 211.72,
+          "conf": 0.81
+        },
+        {
+          "w": "the",
+          "start": 211.72,
+          "end": 211.96,
+          "conf": 0.76
+        },
+        {
+          "w": "letters",
+          "start": 211.96,
+          "end": 213.335,
+          "conf": 0.7
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "text": "What does a number mean? (What does it mean?)",
+      "start": 216.777,
+      "end": 221.04,
+      "words": [
+        {
+          "w": "What",
+          "start": 216.777,
+          "end": 217.256,
+          "conf": 1.0
+        },
+        {
+          "w": "does",
+          "start": 217.48,
+          "end": 217.845,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 217.845,
+          "end": 218.08,
+          "conf": 0.98
+        },
+        {
+          "w": "number",
+          "start": 218.08,
+          "end": 218.94,
+          "conf": 0.98
+        },
+        {
+          "w": "mean?",
+          "start": 218.94,
+          "end": 219.52,
+          "conf": 0.79
+        },
+        {
+          "w": "(What",
+          "start": 219.52,
+          "end": 219.716,
+          "conf": 0.97
+        },
+        {
+          "w": "does",
+          "start": 219.84,
+          "end": 220.24,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 220.24,
+          "end": 220.42,
+          "conf": 0.97
+        },
+        {
+          "w": "mean?)",
+          "start": 220.42,
+          "end": 221.04,
+          "conf": 0.96
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "text": "Next time: meaning is a direction",
+      "start": 221.04,
+      "end": 228.59,
+      "words": [
+        {
+          "w": "Next",
+          "start": 221.04,
+          "end": 221.56,
+          "conf": 1.0
+        },
+        {
+          "w": "time:",
+          "start": 221.56,
+          "end": 222.27,
+          "conf": 1.0
+        },
+        {
+          "w": "meaning",
+          "start": 222.659,
+          "end": 223.397,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 223.397,
+          "end": 223.692,
+          "conf": 0.77
+        },
+        {
+          "w": "a",
+          "start": 223.692,
+          "end": 223.9,
+          "conf": 0.88
+        },
+        {
+          "w": "direction",
+          "start": 223.9,
+          "end": 228.59,
+          "conf": 0.89
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "start": 5.6,
+      "end": 9.72,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 34.9,
+      "end": 38.3,
+      "desc": "backing-vocal tail / 'ah' ad-lib after 'eyes' over the break (chorus 1 end)"
+    },
+    {
+      "start": 108.5,
+      "end": 110.15,
+      "desc": "lead-in before 'Just transformers': Whisper hears a stuttered 'Just, just, just' (low confidence)"
+    },
+    {
+      "start": 122.4,
+      "end": 125.9,
+      "desc": "sustained backing 'ah' pad under 'I'm upping my P(doom)' (final chorus) - lead is buried here"
+    },
+    {
+      "start": 140.6,
+      "end": 153.5,
+      "desc": "outro chant: repeated 'oh' / 'oh-oh' vocal hook (Whisper: 'Oh, oh, oh...') until the drums stop at ~153"
+    },
+    {
+      "start": 232.07,
+      "end": 234.46,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 236.74,
+      "end": 239.15,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    }
+  ],
+  "notes": "Song: 'Chasing the Roofline' (ACE-Step 1.5 XL take a4-401, audio/roofline.wav, mp3 is the gapless encode of it). Method as for pdoom (analysis/align.py): CTC emissions of the Demucs htdemucs_ft vocal stem from MMS_FA and wav2vec2-lv60k on mono, left and right, fused; one global constrained Viterbi pass with a garbage star token between lines; phonetic spellings for the CUDA terms (pron.py: PyTorch='pie torch', cudaMemcpy='cuda mem copy', GPU='gee pee you', MNIST='em nist', cuBLAS='cue blas', KV='kay vee', float4='float four', MMA='em em ay', N-by-N='en by en', NormalFloat4='normal float four', NVLink='en vee link', CUTLASS='cut lass'); signal refinement on the vocal stem; cross-check against mlx-whisper; conf as for pdoom. 'syl' = start/end of each spelled letter or compound part."
+}

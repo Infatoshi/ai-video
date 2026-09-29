@@ -1,0 +1,68 @@
+[Intro - solo piano, soft brushes, waltz]
+
+[Verse 1]
+Two spirals of dots, one blue and one black,
+Wound round each other and circling back,
+Draw me a line that keeps them apart,
+The machine can't do it, not at the start
+
+[Instrumental - piano]
+
+[Verse 2]
+Inside the machine there's a row of knobs,
+Three hundred thirty-seven, we call them weights,
+Turn any knob and the line starts to bend,
+They start out random, the line's in the wrong place
+
+[Instrumental - piano]
+
+[Verse 3]
+So measure how wrong it is, dot after dot,
+Add it up to one number, and that is the loss,
+Every setting of the knobs is a place on a map,
+The loss is how high, and we want to go down
+
+[Instrumental - piano]
+
+[Chorus]
+Measure how wrong it is,
+Find which way is down,
+Take one small step that way,
+And do it again, and again
+
+[Instrumental - piano]
+
+[Verse 4]
+It can't see the valley, it can't see the ground,
+It feels for the slope right under its feet,
+Which way is down, that's the gradient,
+How big a step, that's the learning rate
+
+[Instrumental - piano]
+
+[Chorus]
+Measure how wrong it is,
+Find which way is down,
+Take one small step that way,
+And do it again, and again
+
+[Bridge]
+Now make every step ten times as big,
+It jumps right over the valley floor,
+Lands on the far side, higher than before,
+It bounces and bounces and never gets down
+
+[Instrumental - piano]
+
+[Chorus]
+Measure how wrong it is,
+Find which way is down,
+Take one small step that way,
+And do it again, and again
+
+[Outro]
+Three thousand one hundred twenty-one steps,
+And every dot is on its own side,
+Next time: why it never sees a letter
+
+[End - piano]

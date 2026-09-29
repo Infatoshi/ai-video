@@ -1,0 +1,87 @@
+{
+ "chapters": {
+  "hook": "3 minutes ago it couldn't spell",
+  "model": "A model is numbers (the weights)",
+  "chorus1": "Guess, check, nudge, again: step 100",
+  "loss": "The loss: how surprised it was",
+  "chorus2": "Step 500: half words",
+  "steps": "5,000 steps, then learning by heart",
+  "chorus3": "Step 5,000: words",
+  "outro": "Next: Next Token"
+ },
+ "tags": [
+  "ai learns to write",
+  "training a language model",
+  "gpt from scratch",
+  "nanogpt",
+  "tiny shakespeare",
+  "loss function",
+  "overfitting",
+  "how ai learns",
+  "machine learning for beginners",
+  "neural network training",
+  "llm",
+  "character level language model",
+  "gospel",
+  "music video",
+  "ML slowly",
+  "education"
+ ],
+ "categoryId": "27",
+ "language": "en",
+ "containsSyntheticMedia": true,
+ "description": "I trained a tiny AI from scratch on one graphics card. Three minutes ago it couldn't spell. Every chorus ends on what it really wrote after \"ROMEO:\", sung word for word: gibberish at step 100, half words at step 500, words at step 5,000.\n\nHow it learns: guess the next letter, see how wrong it was (that's the loss), nudge every weight a little, and do it again. 16,384 guesses a step, 5,000 steps, 81,920,000 guesses, 3.3 minutes on an RTX 3090.\n\nThe part I didn't plan: past step 2,000 it started learning the lines by heart. Its loss on the plays it practised kept falling, to 0.61. On a play it never read, the loss bottomed out at 1.47 and rose to 1.70.\n\n{chapters}\n\nThe run: a 10,745,088-weight character-level GPT (6 layers, 6 heads, 384 wide, after nanoGPT's shakespeare_char recipe), trained from scratch on tiny Shakespeare (1,115,394 characters: 90% to practise on, 10% held back). Every number and every line of its writing on screen comes from that run.\n\nML, slowly: machine learning one idea at a time. #1 Downhill, #2 Tokens, #3 Meaning Is a Direction, #4 Who's It?, #5 this one. Next: Next Token, a big model writing, one token at a time.\n\nMade with AI: the song is generated (ACE-Step 1.5), the visuals are rendered from code, the model and its numbers are real.\n\n#MachineLearning #AI #LLM",
+ "variants": {
+  "learning_to_write": {
+   "video": "out/final/learning_to_write.mp4",
+   "title": "3 minutes ago this AI couldn't spell | ML, slowly #5",
+   "thumbnail": "out/publish/thumbs/thumb_A.jpg",
+   "thumbnails_test": [
+    "out/publish/thumbs/thumb_A.jpg",
+    "out/publish/thumbs/thumb_B.jpg",
+    "out/publish/thumbs/thumb_C.jpg"
+   ],
+   "pinned_comment": "step 100 wrote \"othuared tharnd he, preckn,\" and she sang it like scripture. by step 5,000 it was memorizing the plays instead of learning them, relatable"
+  },
+  "learning_to_write_vertical": {
+   "video": "out/final/learning_to_write_vertical.mp4",
+   "title": "3 minutes ago this AI couldn't spell (vertical) | ML, slowly #5",
+   "pinned_comment": "the choir is singing its actual output. step 100 really wrote \"asafnte tist te\""
+  },
+  "learning_to_write_hook": {
+   "source": "out/final/learning_to_write_vertical.mp4",
+   "video": "out/final/learning_to_write_hook.mp4",
+   "cut": [
+    [
+     6.45,
+     15.45
+    ],
+    [
+     57.45,
+     69.45
+    ],
+    [
+     183.45,
+     196.9
+    ]
+   ],
+   "title": "This AI learned to spell in 3 minutes | ML, slowly #5 #Shorts",
+   "description": "A tiny GPT trained from scratch on Shakespeare, on one RTX 3090. The singer sings what it really wrote after \"ROMEO:\": gibberish at step 100, words at step 5,000, 3.3 minutes later. Full video: ML, slowly #5.\n\nMade with AI: the song is generated (ACE-Step 1.5), the model and its numbers are real.",
+   "pinned_comment": "3 minutes of training and it still wrote \"i cannot not sup\". honestly same",
+   "segments_snapped": [
+    [
+     6.449,
+     15.447
+    ],
+    [
+     57.439,
+     69.436
+    ],
+    [
+     183.414,
+     196.911
+    ]
+   ]
+  }
+ }
+}

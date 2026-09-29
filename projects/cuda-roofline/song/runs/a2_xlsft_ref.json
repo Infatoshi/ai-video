@@ -1,0 +1,21 @@
+{
+ "name": "a2_xlsft_ref",
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "caption": "Upbeat synth-pop with a bright, clear female lead vocal and crisp diction, catchy anthemic chorus, punchy drums, driving synth bass, sparkling arpeggiated synths, sidechained pads, playful witty nerdy love song, polished modern pop production",
+ "lyrics_file": "lyrics.sing.txt",
+ "bpm": 132,
+ "duration": 170,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "seeds": [
+  201,
+  202,
+  203,
+  204
+ ],
+ "batch": 4,
+ "reference_audio": "ref_pdoom.mp3",
+ "key": "Eb Major"
+}

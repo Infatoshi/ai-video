@@ -1,0 +1,25 @@
+{
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "lyrics_file": "meaning/lyrics_v2.sing.txt",
+ "bpm": 85,
+ "duration": 240,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "batch": 2,
+ "key": "D Major",
+ "offload": true,
+ "name": "meaning-a2",
+ "seeds": [
+  3501,
+  3502,
+  3503,
+  3504,
+  3505,
+  3506,
+  3507,
+  3508
+ ],
+ "caption": "Dream pop, 85 BPM, slow and spacious, shimmering reverb-soaked electric guitars, warm analog synth pads, soft steady drum machine, round deep bass, dreamy intimate female lead vocal sung clearly with crisp diction, upfront in the mix and easy to understand, slow sparse vocal phrasing with long pauses between short lines, gentle melodic chorus hook, nostalgic and warm, polished modern production"
+}

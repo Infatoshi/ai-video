@@ -1,0 +1,16 @@
+{
+ "name": "learning-to-write-capA",
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "lyrics_file": "learning-to-write/lyrics.sing.txt",
+ "bpm": 80,
+ "duration": 228,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "batch": 2,
+ "key": "Ab Major",
+ "offload": true,
+ "caption": "Slow gospel ballad, 80 BPM, 4/4. It opens with one soulful female lead voice and a gentle piano; a Hammond organ joins, then a few backing singers answer in call and response, and it builds to a full gospel choir with handclaps, drums and bass on the last chorus. Warm, reverent and joyful, clear unhurried diction, every word easy to understand, piano and organ breaks between the verses, live church recording.",
+ "seeds": [5101, 5102, 5103, 5104, 5105, 5106, 5107, 5108]
+}

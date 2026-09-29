@@ -1,0 +1,55 @@
+Chasing the Roofline (v4: beginner cut, one idea per verse, repeated chorus)
+
+[Verse 1]  CPU vs GPU, one thread per element, the index            CH1-2
+A CPU thinks with a few big cores,
+A GPU just throws ten thousand more,
+One thread for every number you've got,
+Block times size plus thread finds its spot
+
+[Pre-Chorus 1]
+Ten thousand threads all launch at once,
+So tell me, how fast did it run?
+
+[Chorus]  the roofline: memory is the slope, math is the flat roof
+I'm chasing the roofline,
+Memory's the slope and the math's the line,
+Squeeze more math from every byte,
+Till I'm hitting the ceiling tonight
+
+[Verse 2]  warps of 32 in lockstep, divergence                          CH3
+Thirty-two threads in a warp, in line,
+One instruction, marching in time,
+One little "if" and the warp splits in two,
+Half of them wait while the others go through
+
+[Pre-Chorus 2]
+Same old code, but it's crawling slow,
+Tell me, where'd all my speed go?
+
+[Chorus]
+
+[Verse 3]  memory is the bottleneck: coalescing, shared-memory tiles   CH6
+Neighbors read their neighbors side by side,
+One trip to memory, nice and wide,
+Load a tile to shared and keep it near,
+Sync the block and reuse it here
+
+[Pre-Chorus 3]
+Fetch it once and use it more,
+That's what the roofline's for
+
+[Chorus]
+
+[Bridge]  tensor cores, flash attention                                  CH7-8
+Tensor cores eat a matrix whole,
+Sixteen by sixteen in a single go,
+Flash attention never writes the square,
+Streams it through in tiles from here to there
+
+[Verse 4]  quantization, splitting across GPUs                          CH9-10
+Thirty-two bits down to four, and it's fine,
+Eight times less to move down the line,
+When one GPU is not enough,
+Split it eight ways, then sum it up
+
+[Chorus]

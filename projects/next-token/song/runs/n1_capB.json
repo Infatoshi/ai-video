@@ -1,0 +1,25 @@
+{
+ "name": "n1_capB",
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "lyrics_file": "lyrics.nt.sing.txt",
+ "bpm": 174,
+ "duration": 170,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "batch": 2,
+ "key": "F Minor",
+ "offload": true,
+ "caption": "Liquid drum and bass, 174 BPM, rolling bassline, crisp fast breakbeats, clear male lead vocal with crisp diction singing rhythmic melodic verses, huge catchy anthemic chorus, euphoric pads and piano stabs, playful nerdy lyrics, polished modern production",
+ "seeds": [
+  901,
+  902,
+  903,
+  904,
+  905,
+  906,
+  907,
+  908
+ ]
+}

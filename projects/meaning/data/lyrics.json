@@ -1,0 +1,1726 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "Before a chatbot reads a word",
+      "start": 22.94,
+      "end": 26.016,
+      "words": [
+        {
+          "w": "Before",
+          "start": 22.94,
+          "end": 23.78,
+          "conf": 0.92
+        },
+        {
+          "w": "a",
+          "start": 23.78,
+          "end": 23.876,
+          "conf": 0.84
+        },
+        {
+          "w": "chatbot",
+          "start": 23.876,
+          "end": 24.74,
+          "conf": 0.81
+        },
+        {
+          "w": "reads",
+          "start": 24.74,
+          "end": 25.2,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 25.2,
+          "end": 25.38,
+          "conf": 0.72
+        },
+        {
+          "w": "word",
+          "start": 25.38,
+          "end": 26.016,
+          "conf": 0.79
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "It looks it up in a table",
+      "start": 28.61,
+      "end": 31.459,
+      "words": [
+        {
+          "w": "It",
+          "start": 28.61,
+          "end": 28.88,
+          "conf": 0.9
+        },
+        {
+          "w": "looks",
+          "start": 28.88,
+          "end": 29.398,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 29.398,
+          "end": 29.76,
+          "conf": 0.77
+        },
+        {
+          "w": "up",
+          "start": 29.76,
+          "end": 29.957,
+          "conf": 0.85
+        },
+        {
+          "w": "in",
+          "start": 30.032,
+          "end": 30.44,
+          "conf": 0.7
+        },
+        {
+          "w": "a",
+          "start": 30.44,
+          "end": 30.531,
+          "conf": 0.85
+        },
+        {
+          "w": "table",
+          "start": 30.64,
+          "end": 31.459,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "One row for every word it knows",
+      "start": 34.237,
+      "end": 37.215,
+      "words": [
+        {
+          "w": "One",
+          "start": 34.237,
+          "end": 34.58,
+          "conf": 0.84
+        },
+        {
+          "w": "row",
+          "start": 34.58,
+          "end": 34.856,
+          "conf": 0.85
+        },
+        {
+          "w": "for",
+          "start": 34.856,
+          "end": 35.4,
+          "conf": 0.83
+        },
+        {
+          "w": "every",
+          "start": 35.4,
+          "end": 35.96,
+          "conf": 0.62
+        },
+        {
+          "w": "word",
+          "start": 35.96,
+          "end": 36.437,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 36.437,
+          "end": 36.68,
+          "conf": 0.85
+        },
+        {
+          "w": "knows",
+          "start": 36.68,
+          "end": 37.215,
+          "conf": 0.83
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "Find rain, and read along its row",
+      "start": 38.318,
+      "end": 42.962,
+      "words": [
+        {
+          "w": "Find",
+          "start": 38.318,
+          "end": 39.156,
+          "conf": 0.84
+        },
+        {
+          "w": "rain,",
+          "start": 39.156,
+          "end": 39.909,
+          "conf": 0.85
+        },
+        {
+          "w": "and",
+          "start": 40.62,
+          "end": 40.94,
+          "conf": 0.85
+        },
+        {
+          "w": "read",
+          "start": 40.94,
+          "end": 41.38,
+          "conf": 0.92
+        },
+        {
+          "w": "along",
+          "start": 41.38,
+          "end": 42.029,
+          "conf": 0.77
+        },
+        {
+          "w": "its",
+          "start": 42.029,
+          "end": 42.36,
+          "conf": 0.92
+        },
+        {
+          "w": "row",
+          "start": 42.36,
+          "end": 42.962,
+          "conf": 0.9
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "Four thousand ninety-six numbers",
+      "start": 45.397,
+      "end": 48.5,
+      "words": [
+        {
+          "w": "Four",
+          "start": 45.397,
+          "end": 45.796,
+          "conf": 0.85
+        },
+        {
+          "w": "thousand",
+          "start": 45.796,
+          "end": 46.649,
+          "conf": 0.84
+        },
+        {
+          "w": "ninety-six",
+          "start": 46.649,
+          "end": 47.68,
+          "conf": 0.84,
+          "syl": [
+            [
+              46.649,
+              47.113
+            ],
+            [
+              47.113,
+              47.68
+            ]
+          ]
+        },
+        {
+          "w": "numbers",
+          "start": 47.68,
+          "end": 48.5,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "That list is the word’s embedding",
+      "start": 51.18,
+      "end": 54.042,
+      "words": [
+        {
+          "w": "That",
+          "start": 51.18,
+          "end": 51.52,
+          "conf": 0.82
+        },
+        {
+          "w": "list",
+          "start": 51.52,
+          "end": 51.927,
+          "conf": 0.85
+        },
+        {
+          "w": "is",
+          "start": 51.927,
+          "end": 52.26,
+          "conf": 0.8
+        },
+        {
+          "w": "the",
+          "start": 52.26,
+          "end": 52.56,
+          "conf": 0.85
+        },
+        {
+          "w": "word’s",
+          "start": 52.56,
+          "end": 53.014,
+          "conf": 0.84
+        },
+        {
+          "w": "embedding",
+          "start": 53.014,
+          "end": 54.042,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "It doesn’t know what rain is",
+      "start": 55.389,
+      "end": 58.981,
+      "words": [
+        {
+          "w": "It",
+          "start": 55.389,
+          "end": 55.579,
+          "conf": 0.85
+        },
+        {
+          "w": "doesn’t",
+          "start": 55.76,
+          "end": 56.46,
+          "conf": 0.85
+        },
+        {
+          "w": "know",
+          "start": 56.46,
+          "end": 57.2,
+          "conf": 0.83
+        },
+        {
+          "w": "what",
+          "start": 57.2,
+          "end": 57.594,
+          "conf": 0.81
+        },
+        {
+          "w": "rain",
+          "start": 57.9,
+          "end": 58.657,
+          "conf": 0.85
+        },
+        {
+          "w": "is",
+          "start": 58.657,
+          "end": 58.981,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "Only where it is",
+      "start": 59.31,
+      "end": 64.743,
+      "words": [
+        {
+          "w": "Only",
+          "start": 59.31,
+          "end": 60.637,
+          "conf": 0.62
+        },
+        {
+          "w": "where",
+          "start": 60.68,
+          "end": 61.475,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 61.475,
+          "end": 62.4,
+          "conf": 0.77
+        },
+        {
+          "w": "is",
+          "start": 62.4,
+          "end": 64.743,
+          "conf": 0.67
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "Every word is a list of numbers",
+      "start": 65.631,
+      "end": 70.39,
+      "words": [
+        {
+          "w": "Every",
+          "start": 65.631,
+          "end": 66.32,
+          "conf": 0.7
+        },
+        {
+          "w": "word",
+          "start": 66.32,
+          "end": 66.94,
+          "conf": 0.92
+        },
+        {
+          "w": "is",
+          "start": 66.94,
+          "end": 67.152,
+          "conf": 0.82
+        },
+        {
+          "w": "a",
+          "start": 67.152,
+          "end": 67.44,
+          "conf": 0.72
+        },
+        {
+          "w": "list",
+          "start": 67.44,
+          "end": 68.5,
+          "conf": 0.9
+        },
+        {
+          "w": "of",
+          "start": 68.5,
+          "end": 68.86,
+          "conf": 0.74
+        },
+        {
+          "w": "numbers",
+          "start": 68.86,
+          "end": 70.39,
+          "conf": 0.79
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "Every list is a place",
+      "start": 71.278,
+      "end": 73.638,
+      "words": [
+        {
+          "w": "Every",
+          "start": 71.278,
+          "end": 71.98,
+          "conf": 0.85
+        },
+        {
+          "w": "list",
+          "start": 71.98,
+          "end": 72.4,
+          "conf": 0.84
+        },
+        {
+          "w": "is",
+          "start": 72.4,
+          "end": 72.8,
+          "conf": 0.77
+        },
+        {
+          "w": "a",
+          "start": 72.8,
+          "end": 72.914,
+          "conf": 0.79
+        },
+        {
+          "w": "place",
+          "start": 72.98,
+          "end": 73.638,
+          "conf": 0.75
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "Words that mean alike live close",
+      "start": 76.92,
+      "end": 80.273,
+      "words": [
+        {
+          "w": "Words",
+          "start": 76.92,
+          "end": 77.34,
+          "conf": 0.88
+        },
+        {
+          "w": "that",
+          "start": 77.34,
+          "end": 77.66,
+          "conf": 0.76
+        },
+        {
+          "w": "mean",
+          "start": 77.66,
+          "end": 78.063,
+          "conf": 0.81
+        },
+        {
+          "w": "alike",
+          "start": 78.063,
+          "end": 78.721,
+          "conf": 0.57
+        },
+        {
+          "w": "live",
+          "start": 78.721,
+          "end": 79.22,
+          "conf": 0.79
+        },
+        {
+          "w": "close",
+          "start": 79.275,
+          "end": 80.273,
+          "conf": 0.83
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "Meaning is a direction",
+      "start": 81.54,
+      "end": 85.211,
+      "words": [
+        {
+          "w": "Meaning",
+          "start": 81.54,
+          "end": 83.006,
+          "conf": 0.92
+        },
+        {
+          "w": "is",
+          "start": 83.006,
+          "end": 83.74,
+          "conf": 0.59
+        },
+        {
+          "w": "a",
+          "start": 83.74,
+          "end": 83.844,
+          "conf": 0.75
+        },
+        {
+          "w": "direction",
+          "start": 84.0,
+          "end": 85.211,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "Close means they point the same way",
+      "start": 96.28,
+      "end": 99.289,
+      "words": [
+        {
+          "w": "Close",
+          "start": 96.28,
+          "end": 96.74,
+          "conf": 0.92
+        },
+        {
+          "w": "means",
+          "start": 96.74,
+          "end": 97.06,
+          "conf": 0.91
+        },
+        {
+          "w": "they",
+          "start": 97.06,
+          "end": 97.289,
+          "conf": 0.83
+        },
+        {
+          "w": "point",
+          "start": 97.36,
+          "end": 97.698,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 97.78,
+          "end": 97.883,
+          "conf": 0.85
+        },
+        {
+          "w": "same",
+          "start": 97.883,
+          "end": 98.78,
+          "conf": 1.0
+        },
+        {
+          "w": "way",
+          "start": 98.78,
+          "end": 99.289,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "One means the same, zero means unrelated",
+      "start": 100.247,
+      "end": 104.752,
+      "words": [
+        {
+          "w": "One",
+          "start": 100.247,
+          "end": 100.6,
+          "conf": 0.85
+        },
+        {
+          "w": "means",
+          "start": 100.6,
+          "end": 100.98,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 100.98,
+          "end": 101.075,
+          "conf": 0.85
+        },
+        {
+          "w": "same,",
+          "start": 101.075,
+          "end": 101.933,
+          "conf": 0.99
+        },
+        {
+          "w": "zero",
+          "start": 101.933,
+          "end": 102.7,
+          "conf": 0.85
+        },
+        {
+          "w": "means",
+          "start": 102.7,
+          "end": 103.485,
+          "conf": 0.85
+        },
+        {
+          "w": "unrelated",
+          "start": 103.485,
+          "end": 104.752,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "Next to three are four, two and five",
+      "start": 105.82,
+      "end": 109.137,
+      "words": [
+        {
+          "w": "Next",
+          "start": 105.82,
+          "end": 106.263,
+          "conf": 0.92
+        },
+        {
+          "w": "to",
+          "start": 106.263,
+          "end": 106.383,
+          "conf": 0.85
+        },
+        {
+          "w": "three",
+          "start": 106.383,
+          "end": 106.967,
+          "conf": 1.0
+        },
+        {
+          "w": "are",
+          "start": 106.967,
+          "end": 107.092,
+          "conf": 0.85
+        },
+        {
+          "w": "four,",
+          "start": 107.092,
+          "end": 107.795,
+          "conf": 0.91
+        },
+        {
+          "w": "two",
+          "start": 107.92,
+          "end": 108.4,
+          "conf": 0.88
+        },
+        {
+          "w": "and",
+          "start": 108.4,
+          "end": 108.558,
+          "conf": 0.92
+        },
+        {
+          "w": "five",
+          "start": 108.558,
+          "end": 109.137,
+          "conf": 0.89
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "Nobody put them there",
+      "start": 109.78,
+      "end": 112.988,
+      "words": [
+        {
+          "w": "Nobody",
+          "start": 109.78,
+          "end": 110.873,
+          "conf": 0.92
+        },
+        {
+          "w": "put",
+          "start": 111.12,
+          "end": 111.487,
+          "conf": 0.92
+        },
+        {
+          "w": "them",
+          "start": 111.661,
+          "end": 112.6,
+          "conf": 0.92
+        },
+        {
+          "w": "there",
+          "start": 112.6,
+          "end": 112.988,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "Next to rain is Rain, capital R",
+      "start": 116.361,
+      "end": 120.36,
+      "words": [
+        {
+          "w": "Next",
+          "start": 116.361,
+          "end": 116.8,
+          "conf": 0.92
+        },
+        {
+          "w": "to",
+          "start": 116.8,
+          "end": 117.18,
+          "conf": 0.92
+        },
+        {
+          "w": "rain",
+          "start": 117.18,
+          "end": 117.578,
+          "conf": 0.92
+        },
+        {
+          "w": "is",
+          "start": 117.578,
+          "end": 117.88,
+          "conf": 0.92
+        },
+        {
+          "w": "Rain,",
+          "start": 117.88,
+          "end": 118.54,
+          "conf": 0.92
+        },
+        {
+          "w": "capital",
+          "start": 118.54,
+          "end": 119.98,
+          "conf": 0.92
+        },
+        {
+          "w": "R",
+          "start": 119.98,
+          "end": 120.36,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "Then rains, then snow, then wind and storm",
+      "start": 120.36,
+      "end": 125.949,
+      "words": [
+        {
+          "w": "Then",
+          "start": 120.36,
+          "end": 121.06,
+          "conf": 0.92
+        },
+        {
+          "w": "rains,",
+          "start": 121.06,
+          "end": 121.78,
+          "conf": 0.92
+        },
+        {
+          "w": "then",
+          "start": 121.78,
+          "end": 122.222,
+          "conf": 0.92
+        },
+        {
+          "w": "snow,",
+          "start": 122.222,
+          "end": 123.135,
+          "conf": 0.92
+        },
+        {
+          "w": "then",
+          "start": 123.18,
+          "end": 123.9,
+          "conf": 0.92
+        },
+        {
+          "w": "wind",
+          "start": 123.9,
+          "end": 124.647,
+          "conf": 0.92
+        },
+        {
+          "w": "and",
+          "start": 124.647,
+          "end": 125.061,
+          "conf": 0.83
+        },
+        {
+          "w": "storm",
+          "start": 125.061,
+          "end": 125.949,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "Its own spelling comes first",
+      "start": 126.06,
+      "end": 129.416,
+      "words": [
+        {
+          "w": "Its",
+          "start": 126.06,
+          "end": 126.413,
+          "conf": 0.85
+        },
+        {
+          "w": "own",
+          "start": 126.413,
+          "end": 126.837,
+          "conf": 0.77
+        },
+        {
+          "w": "spelling",
+          "start": 126.837,
+          "end": 128.06,
+          "conf": 0.85
+        },
+        {
+          "w": "comes",
+          "start": 128.06,
+          "end": 128.698,
+          "conf": 0.85
+        },
+        {
+          "w": "first",
+          "start": 128.698,
+          "end": 129.416,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "Then words that mean the same",
+      "start": 129.52,
+      "end": 133.497,
+      "words": [
+        {
+          "w": "Then",
+          "start": 129.52,
+          "end": 129.86,
+          "conf": 0.85
+        },
+        {
+          "w": "words",
+          "start": 129.86,
+          "end": 130.6,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 130.6,
+          "end": 131.092,
+          "conf": 0.85
+        },
+        {
+          "w": "mean",
+          "start": 131.3,
+          "end": 132.05,
+          "conf": 0.83
+        },
+        {
+          "w": "the",
+          "start": 132.05,
+          "end": 132.15,
+          "conf": 0.85
+        },
+        {
+          "w": "same",
+          "start": 132.15,
+          "end": 133.497,
+          "conf": 0.96
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "Every word is a list of numbers",
+      "start": 133.497,
+      "end": 138.106,
+      "words": [
+        {
+          "w": "Every",
+          "start": 133.497,
+          "end": 134.08,
+          "conf": 0.77
+        },
+        {
+          "w": "word",
+          "start": 134.08,
+          "end": 134.66,
+          "conf": 0.85
+        },
+        {
+          "w": "is",
+          "start": 134.66,
+          "end": 134.92,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 134.92,
+          "end": 135.16,
+          "conf": 0.68
+        },
+        {
+          "w": "list",
+          "start": 135.16,
+          "end": 136.26,
+          "conf": 0.85
+        },
+        {
+          "w": "of",
+          "start": 136.26,
+          "end": 136.6,
+          "conf": 0.53
+        },
+        {
+          "w": "numbers",
+          "start": 136.6,
+          "end": 138.106,
+          "conf": 0.8
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "Every list is a place",
+      "start": 139.154,
+      "end": 141.932,
+      "words": [
+        {
+          "w": "Every",
+          "start": 139.154,
+          "end": 139.7,
+          "conf": 0.85
+        },
+        {
+          "w": "list",
+          "start": 139.7,
+          "end": 140.161,
+          "conf": 0.81
+        },
+        {
+          "w": "is",
+          "start": 140.161,
+          "end": 140.56,
+          "conf": 0.73
+        },
+        {
+          "w": "a",
+          "start": 140.56,
+          "end": 140.635,
+          "conf": 0.82
+        },
+        {
+          "w": "place",
+          "start": 140.76,
+          "end": 141.932,
+          "conf": 0.72
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "Words that mean alike live close",
+      "start": 144.576,
+      "end": 148.083,
+      "words": [
+        {
+          "w": "Words",
+          "start": 144.576,
+          "end": 145.08,
+          "conf": 0.85
+        },
+        {
+          "w": "that",
+          "start": 145.08,
+          "end": 145.4,
+          "conf": 0.85
+        },
+        {
+          "w": "mean",
+          "start": 145.4,
+          "end": 145.829,
+          "conf": 0.85
+        },
+        {
+          "w": "alike",
+          "start": 145.829,
+          "end": 146.52,
+          "conf": 0.75
+        },
+        {
+          "w": "live",
+          "start": 146.52,
+          "end": 146.956,
+          "conf": 0.85
+        },
+        {
+          "w": "close",
+          "start": 147.146,
+          "end": 148.083,
+          "conf": 0.84
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "Meaning is a direction",
+      "start": 148.862,
+      "end": 152.778,
+      "words": [
+        {
+          "w": "Meaning",
+          "start": 148.862,
+          "end": 151.24,
+          "conf": 0.85
+        },
+        {
+          "w": "is",
+          "start": 151.24,
+          "end": 151.54,
+          "conf": 0.64
+        },
+        {
+          "w": "a",
+          "start": 151.54,
+          "end": 151.66,
+          "conf": 0.81
+        },
+        {
+          "w": "direction",
+          "start": 151.74,
+          "end": 152.778,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "Draw an arrow from man to woman",
+      "start": 162.3,
+      "end": 165.529,
+      "words": [
+        {
+          "w": "Draw",
+          "start": 162.3,
+          "end": 162.76,
+          "conf": 0.92
+        },
+        {
+          "w": "an",
+          "start": 162.76,
+          "end": 163.104,
+          "conf": 0.79
+        },
+        {
+          "w": "arrow",
+          "start": 163.104,
+          "end": 163.648,
+          "conf": 0.77
+        },
+        {
+          "w": "from",
+          "start": 163.648,
+          "end": 164.1,
+          "conf": 0.85
+        },
+        {
+          "w": "man",
+          "start": 164.1,
+          "end": 164.44,
+          "conf": 0.85
+        },
+        {
+          "w": "to",
+          "start": 164.44,
+          "end": 164.84,
+          "conf": 0.8
+        },
+        {
+          "w": "woman",
+          "start": 164.84,
+          "end": 165.529,
+          "conf": 0.84
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "Start it at boy, you land on girl",
+      "start": 165.683,
+      "end": 169.585,
+      "words": [
+        {
+          "w": "Start",
+          "start": 165.683,
+          "end": 166.287,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 166.287,
+          "end": 166.646,
+          "conf": 0.6
+        },
+        {
+          "w": "at",
+          "start": 166.646,
+          "end": 166.816,
+          "conf": 0.77
+        },
+        {
+          "w": "boy,",
+          "start": 166.94,
+          "end": 167.26,
+          "conf": 0.85
+        },
+        {
+          "w": "you",
+          "start": 167.26,
+          "end": 167.64,
+          "conf": 0.7
+        },
+        {
+          "w": "land",
+          "start": 167.64,
+          "end": 168.66,
+          "conf": 0.82
+        },
+        {
+          "w": "on",
+          "start": 168.66,
+          "end": 169.06,
+          "conf": 0.74
+        },
+        {
+          "w": "girl",
+          "start": 169.06,
+          "end": 169.585,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "Start at father, land on mother",
+      "start": 169.585,
+      "end": 173.04,
+      "words": [
+        {
+          "w": "Start",
+          "start": 169.585,
+          "end": 170.2,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 170.2,
+          "end": 170.298,
+          "conf": 0.75
+        },
+        {
+          "w": "father,",
+          "start": 170.298,
+          "end": 171.096,
+          "conf": 1.0
+        },
+        {
+          "w": "land",
+          "start": 171.52,
+          "end": 171.919,
+          "conf": 0.85
+        },
+        {
+          "w": "on",
+          "start": 171.919,
+          "end": 172.24,
+          "conf": 0.76
+        },
+        {
+          "w": "mother",
+          "start": 172.24,
+          "end": 173.04,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "A direction carries meaning",
+      "start": 173.04,
+      "end": 176.15,
+      "words": [
+        {
+          "w": "A",
+          "start": 173.04,
+          "end": 173.117,
+          "conf": 0.78
+        },
+        {
+          "w": "direction",
+          "start": 173.28,
+          "end": 174.3,
+          "conf": 0.85
+        },
+        {
+          "w": "carries",
+          "start": 174.3,
+          "end": 175.017,
+          "conf": 0.85
+        },
+        {
+          "w": "meaning",
+          "start": 175.017,
+          "end": 176.15,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "Now the famous one, start at king",
+      "start": 176.84,
+      "end": 180.909,
+      "words": [
+        {
+          "w": "Now",
+          "start": 176.84,
+          "end": 177.2,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 177.2,
+          "end": 177.297,
+          "conf": 0.85
+        },
+        {
+          "w": "famous",
+          "start": 177.297,
+          "end": 178.3,
+          "conf": 1.0
+        },
+        {
+          "w": "one,",
+          "start": 178.3,
+          "end": 178.739,
+          "conf": 0.61
+        },
+        {
+          "w": "start",
+          "start": 178.739,
+          "end": 179.722,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 179.722,
+          "end": 180.001,
+          "conf": 0.68
+        },
+        {
+          "w": "king",
+          "start": 180.3,
+          "end": 180.909,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "You get King, KING, King again",
+      "start": 181.08,
+      "end": 184.885,
+      "words": [
+        {
+          "w": "You",
+          "start": 181.08,
+          "end": 181.328,
+          "conf": 0.85
+        },
+        {
+          "w": "get",
+          "start": 181.42,
+          "end": 181.797,
+          "conf": 0.83
+        },
+        {
+          "w": "King,",
+          "start": 181.912,
+          "end": 182.78,
+          "conf": 0.85
+        },
+        {
+          "w": "KING,",
+          "start": 182.78,
+          "end": 183.46,
+          "conf": 0.84
+        },
+        {
+          "w": "King",
+          "start": 183.46,
+          "end": 183.947,
+          "conf": 0.85
+        },
+        {
+          "w": "again",
+          "start": 183.947,
+          "end": 184.885,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "And then queen, in fourth place",
+      "start": 185.364,
+      "end": 191.116,
+      "words": [
+        {
+          "w": "And",
+          "start": 185.364,
+          "end": 185.64,
+          "conf": 0.83
+        },
+        {
+          "w": "then",
+          "start": 185.64,
+          "end": 186.26,
+          "conf": 0.85
+        },
+        {
+          "w": "queen,",
+          "start": 186.26,
+          "end": 187.76,
+          "conf": 0.83
+        },
+        {
+          "w": "in",
+          "start": 187.76,
+          "end": 188.317,
+          "conf": 0.69
+        },
+        {
+          "w": "fourth",
+          "start": 188.317,
+          "end": 190.113,
+          "conf": 0.72
+        },
+        {
+          "w": "place",
+          "start": 190.52,
+          "end": 191.116,
+          "conf": 0.88
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "It isn’t magic, it isn’t perfect",
+      "start": 195.84,
+      "end": 201.16,
+      "words": [
+        {
+          "w": "It",
+          "start": 195.84,
+          "end": 196.304,
+          "conf": 0.82
+        },
+        {
+          "w": "isn’t",
+          "start": 196.304,
+          "end": 197.28,
+          "conf": 0.71
+        },
+        {
+          "w": "magic,",
+          "start": 197.28,
+          "end": 198.274,
+          "conf": 0.83
+        },
+        {
+          "w": "it",
+          "start": 198.763,
+          "end": 199.127,
+          "conf": 0.73
+        },
+        {
+          "w": "isn’t",
+          "start": 199.127,
+          "end": 200.0,
+          "conf": 0.7
+        },
+        {
+          "w": "perfect",
+          "start": 200.06,
+          "end": 201.16,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "The spelling pulls harder than the crown",
+      "start": 201.16,
+      "end": 206.276,
+      "words": [
+        {
+          "w": "The",
+          "start": 201.16,
+          "end": 201.612,
+          "conf": 0.71
+        },
+        {
+          "w": "spelling",
+          "start": 201.612,
+          "end": 202.56,
+          "conf": 1.0
+        },
+        {
+          "w": "pulls",
+          "start": 202.56,
+          "end": 203.138,
+          "conf": 0.73
+        },
+        {
+          "w": "harder",
+          "start": 203.138,
+          "end": 204.266,
+          "conf": 0.85
+        },
+        {
+          "w": "than",
+          "start": 204.266,
+          "end": 205.06,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 205.06,
+          "end": 205.199,
+          "conf": 0.92
+        },
+        {
+          "w": "crown",
+          "start": 205.28,
+          "end": 206.276,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "Every word is a list of numbers",
+      "start": 206.795,
+      "end": 211.519,
+      "words": [
+        {
+          "w": "Every",
+          "start": 206.795,
+          "end": 207.5,
+          "conf": 0.85
+        },
+        {
+          "w": "word",
+          "start": 207.5,
+          "end": 207.942,
+          "conf": 0.92
+        },
+        {
+          "w": "is",
+          "start": 207.942,
+          "end": 208.312,
+          "conf": 0.84
+        },
+        {
+          "w": "a",
+          "start": 208.312,
+          "end": 208.58,
+          "conf": 0.72
+        },
+        {
+          "w": "list",
+          "start": 208.58,
+          "end": 209.389,
+          "conf": 0.84
+        },
+        {
+          "w": "of",
+          "start": 209.389,
+          "end": 210.02,
+          "conf": 0.63
+        },
+        {
+          "w": "numbers",
+          "start": 210.02,
+          "end": 211.519,
+          "conf": 0.63
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "text": "Every list is a place",
+      "start": 212.492,
+      "end": 214.797,
+      "words": [
+        {
+          "w": "Every",
+          "start": 212.492,
+          "end": 213.14,
+          "conf": 0.85
+        },
+        {
+          "w": "list",
+          "start": 213.14,
+          "end": 213.575,
+          "conf": 0.83
+        },
+        {
+          "w": "is",
+          "start": 213.575,
+          "end": 213.944,
+          "conf": 0.74
+        },
+        {
+          "w": "a",
+          "start": 213.944,
+          "end": 214.034,
+          "conf": 0.74
+        },
+        {
+          "w": "place",
+          "start": 214.1,
+          "end": 214.797,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "text": "Words that mean alike live close",
+      "start": 218.1,
+      "end": 221.427,
+      "words": [
+        {
+          "w": "Words",
+          "start": 218.1,
+          "end": 218.52,
+          "conf": 0.82
+        },
+        {
+          "w": "that",
+          "start": 218.52,
+          "end": 218.82,
+          "conf": 0.73
+        },
+        {
+          "w": "mean",
+          "start": 218.82,
+          "end": 219.242,
+          "conf": 0.83
+        },
+        {
+          "w": "alike",
+          "start": 219.242,
+          "end": 219.865,
+          "conf": 0.8
+        },
+        {
+          "w": "live",
+          "start": 219.865,
+          "end": 220.52,
+          "conf": 0.82
+        },
+        {
+          "w": "close",
+          "start": 220.52,
+          "end": 221.427,
+          "conf": 0.91
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "text": "Meaning is a direction",
+      "start": 222.7,
+      "end": 226.111,
+      "words": [
+        {
+          "w": "Meaning",
+          "start": 222.7,
+          "end": 224.62,
+          "conf": 0.86
+        },
+        {
+          "w": "is",
+          "start": 224.62,
+          "end": 224.889,
+          "conf": 0.84
+        },
+        {
+          "w": "a",
+          "start": 224.889,
+          "end": 225.014,
+          "conf": 0.91
+        },
+        {
+          "w": "direction",
+          "start": 225.16,
+          "end": 226.111,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "text": "Next time, the words look at each other",
+      "start": 227.618,
+      "end": 232.292,
+      "words": [
+        {
+          "w": "Next",
+          "start": 227.618,
+          "end": 228.32,
+          "conf": 0.92
+        },
+        {
+          "w": "time,",
+          "start": 228.32,
+          "end": 228.84,
+          "conf": 0.83
+        },
+        {
+          "w": "the",
+          "start": 229.74,
+          "end": 230.04,
+          "conf": 0.85
+        },
+        {
+          "w": "words",
+          "start": 230.04,
+          "end": 230.5,
+          "conf": 0.85
+        },
+        {
+          "w": "look",
+          "start": 230.5,
+          "end": 230.716,
+          "conf": 0.85
+        },
+        {
+          "w": "at",
+          "start": 230.83,
+          "end": 231.205,
+          "conf": 0.59
+        },
+        {
+          "w": "each",
+          "start": 231.205,
+          "end": 231.639,
+          "conf": 0.85
+        },
+        {
+          "w": "other",
+          "start": 231.639,
+          "end": 232.292,
+          "conf": 0.77
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "start": 34.9,
+      "end": 38.3,
+      "desc": "backing-vocal tail / 'ah' ad-lib after 'eyes' over the break (chorus 1 end)"
+    },
+    {
+      "start": 40.01,
+      "end": 40.52,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 108.5,
+      "end": 110.15,
+      "desc": "lead-in before 'Just transformers': Whisper hears a stuttered 'Just, just, just' (low confidence)"
+    },
+    {
+      "start": 122.4,
+      "end": 125.9,
+      "desc": "sustained backing 'ah' pad under 'I'm upping my P(doom)' (final chorus) - lead is buried here"
+    },
+    {
+      "start": 152.88,
+      "end": 154.0,
+      "desc": "outro chant: repeated 'oh' / 'oh-oh' vocal hook (Whisper: 'Oh, oh, oh...') until the drums stop at ~153"
+    }
+  ],
+  "notes": "Song: 'Chasing the Roofline' (ACE-Step 1.5 XL take a4-401, audio/roofline.wav, mp3 is the gapless encode of it). Method as for pdoom (analysis/align.py): CTC emissions of the Demucs htdemucs_ft vocal stem from MMS_FA and wav2vec2-lv60k on mono, left and right, fused; one global constrained Viterbi pass with a garbage star token between lines; phonetic spellings for the CUDA terms (pron.py: PyTorch='pie torch', cudaMemcpy='cuda mem copy', GPU='gee pee you', MNIST='em nist', cuBLAS='cue blas', KV='kay vee', float4='float four', MMA='em em ay', N-by-N='en by en', NormalFloat4='normal float four', NVLink='en vee link', CUTLASS='cut lass'); signal refinement on the vocal stem; cross-check against mlx-whisper; conf as for pdoom. 'syl' = start/end of each spelled letter or compound part."
+}

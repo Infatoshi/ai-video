@@ -1,0 +1,25 @@
+{
+ "name": "who-is-it-w1_capB",
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "lyrics_file": "who-is-it/lyrics.sing.txt",
+ "bpm": 75,
+ "duration": 250,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "batch": 2,
+ "key": "Eb Major",
+ "offload": true,
+ "caption": "Slow neo-soul R&B duet, 75 BPM, swung lo-fi drums, jazzy Rhodes chords, Wurlitzer, warm walking bass, the male singer asks and the female singer answers in call and response, both sing the chorus together in harmony, clear diction, every word easy to understand, soft and soulful, spacious mix",
+ "seeds": [
+  501,
+  502,
+  503,
+  504,
+  505,
+  506,
+  507,
+  508
+ ]
+}

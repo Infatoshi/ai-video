@@ -1,0 +1,2180 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "A CPU thinks with a few big cores,",
+      "start": 6.97,
+      "end": 9.868,
+      "words": [
+        {
+          "w": "A",
+          "start": 6.97,
+          "end": 7.069,
+          "conf": 0.92
+        },
+        {
+          "w": "CPU",
+          "start": 7.069,
+          "end": 7.837,
+          "conf": 0.89,
+          "syl": [
+            [
+              7.069,
+              7.42
+            ],
+            [
+              7.42,
+              7.68
+            ],
+            [
+              7.68,
+              7.837
+            ]
+          ]
+        },
+        {
+          "w": "thinks",
+          "start": 7.837,
+          "end": 8.16,
+          "conf": 0.85
+        },
+        {
+          "w": "with",
+          "start": 8.16,
+          "end": 8.4,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 8.4,
+          "end": 8.496,
+          "conf": 0.84
+        },
+        {
+          "w": "few",
+          "start": 8.496,
+          "end": 8.9,
+          "conf": 1.0
+        },
+        {
+          "w": "big",
+          "start": 8.9,
+          "end": 9.139,
+          "conf": 0.85
+        },
+        {
+          "w": "cores,",
+          "start": 9.22,
+          "end": 9.868,
+          "conf": 0.82
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "A GPU just throws ten thousand more,",
+      "start": 10.337,
+      "end": 13.654,
+      "words": [
+        {
+          "w": "A",
+          "start": 10.337,
+          "end": 10.76,
+          "conf": 0.85
+        },
+        {
+          "w": "GPU",
+          "start": 10.76,
+          "end": 11.5,
+          "conf": 0.77,
+          "syl": [
+            [
+              10.76,
+              11.04
+            ],
+            [
+              11.04,
+              11.3
+            ],
+            [
+              11.3,
+              11.5
+            ]
+          ]
+        },
+        {
+          "w": "just",
+          "start": 11.5,
+          "end": 11.599,
+          "conf": 0.85
+        },
+        {
+          "w": "throws",
+          "start": 11.599,
+          "end": 11.94,
+          "conf": 1.0
+        },
+        {
+          "w": "ten",
+          "start": 11.94,
+          "end": 12.18,
+          "conf": 1.0
+        },
+        {
+          "w": "thousand",
+          "start": 12.18,
+          "end": 12.84,
+          "conf": 0.85
+        },
+        {
+          "w": "more,",
+          "start": 12.84,
+          "end": 13.654,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "One thread for every number you've got,",
+      "start": 13.878,
+      "end": 16.937,
+      "words": [
+        {
+          "w": "One",
+          "start": 13.878,
+          "end": 14.4,
+          "conf": 0.85
+        },
+        {
+          "w": "thread",
+          "start": 14.4,
+          "end": 14.587,
+          "conf": 0.85
+        },
+        {
+          "w": "for",
+          "start": 14.587,
+          "end": 15.0,
+          "conf": 0.98
+        },
+        {
+          "w": "every",
+          "start": 15.0,
+          "end": 15.34,
+          "conf": 0.77
+        },
+        {
+          "w": "number",
+          "start": 15.34,
+          "end": 15.8,
+          "conf": 0.85
+        },
+        {
+          "w": "you've",
+          "start": 15.8,
+          "end": 16.263,
+          "conf": 0.85
+        },
+        {
+          "w": "got,",
+          "start": 16.263,
+          "end": 16.937,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "Block times size plus thread finds its spot",
+      "start": 17.54,
+      "end": 20.349,
+      "words": [
+        {
+          "w": "Block",
+          "start": 17.54,
+          "end": 17.88,
+          "conf": 0.85
+        },
+        {
+          "w": "times",
+          "start": 17.88,
+          "end": 18.199,
+          "conf": 0.85
+        },
+        {
+          "w": "size",
+          "start": 18.199,
+          "end": 18.7,
+          "conf": 0.84
+        },
+        {
+          "w": "plus",
+          "start": 18.7,
+          "end": 18.92,
+          "conf": 0.85
+        },
+        {
+          "w": "thread",
+          "start": 18.92,
+          "end": 19.186,
+          "conf": 0.85
+        },
+        {
+          "w": "finds",
+          "start": 19.186,
+          "end": 19.78,
+          "conf": 0.85
+        },
+        {
+          "w": "its",
+          "start": 19.78,
+          "end": 19.94,
+          "conf": 0.85
+        },
+        {
+          "w": "spot",
+          "start": 19.94,
+          "end": 20.349,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "Ten thousand threads all launch at once,",
+      "start": 21.721,
+      "end": 25.806,
+      "words": [
+        {
+          "w": "Ten",
+          "start": 21.721,
+          "end": 22.708,
+          "conf": 0.85
+        },
+        {
+          "w": "thousand",
+          "start": 22.708,
+          "end": 23.82,
+          "conf": 1.0
+        },
+        {
+          "w": "threads",
+          "start": 23.82,
+          "end": 24.195,
+          "conf": 0.85
+        },
+        {
+          "w": "all",
+          "start": 24.195,
+          "end": 24.6,
+          "conf": 0.7
+        },
+        {
+          "w": "launch",
+          "start": 24.6,
+          "end": 25.093,
+          "conf": 0.92
+        },
+        {
+          "w": "at",
+          "start": 25.093,
+          "end": 25.52,
+          "conf": 0.92
+        },
+        {
+          "w": "once,",
+          "start": 25.52,
+          "end": 25.806,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "So tell me, how fast did it run?",
+      "start": 26.046,
+      "end": 29.348,
+      "words": [
+        {
+          "w": "So",
+          "start": 26.046,
+          "end": 26.54,
+          "conf": 0.92
+        },
+        {
+          "w": "tell",
+          "start": 26.54,
+          "end": 27.06,
+          "conf": 0.92
+        },
+        {
+          "w": "me,",
+          "start": 27.06,
+          "end": 27.433,
+          "conf": 0.92
+        },
+        {
+          "w": "how",
+          "start": 27.433,
+          "end": 27.692,
+          "conf": 0.92
+        },
+        {
+          "w": "fast",
+          "start": 27.692,
+          "end": 28.221,
+          "conf": 0.89
+        },
+        {
+          "w": "did",
+          "start": 28.221,
+          "end": 28.72,
+          "conf": 0.73
+        },
+        {
+          "w": "it",
+          "start": 28.72,
+          "end": 28.88,
+          "conf": 0.8
+        },
+        {
+          "w": "run?",
+          "start": 28.88,
+          "end": 29.348,
+          "conf": 0.91
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "I'm chasing the roofline,",
+      "start": 29.747,
+      "end": 31.788,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 29.747,
+          "end": 30.14,
+          "conf": 0.82
+        },
+        {
+          "w": "chasing",
+          "start": 30.14,
+          "end": 30.66,
+          "conf": 0.9
+        },
+        {
+          "w": "the",
+          "start": 30.66,
+          "end": 30.92,
+          "conf": 0.84
+        },
+        {
+          "w": "roofline,",
+          "start": 30.92,
+          "end": 31.788,
+          "conf": 0.83
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "Memory's the slope and the math's the line,",
+      "start": 32.02,
+      "end": 35.02,
+      "words": [
+        {
+          "w": "Memory's",
+          "start": 32.02,
+          "end": 32.7,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 32.7,
+          "end": 32.795,
+          "conf": 0.92
+        },
+        {
+          "w": "slope",
+          "start": 32.795,
+          "end": 33.239,
+          "conf": 0.91
+        },
+        {
+          "w": "and",
+          "start": 33.364,
+          "end": 33.6,
+          "conf": 0.83
+        },
+        {
+          "w": "the",
+          "start": 33.6,
+          "end": 33.8,
+          "conf": 0.74
+        },
+        {
+          "w": "math's",
+          "start": 33.8,
+          "end": 34.26,
+          "conf": 0.79
+        },
+        {
+          "w": "the",
+          "start": 34.26,
+          "end": 34.5,
+          "conf": 0.9
+        },
+        {
+          "w": "line,",
+          "start": 34.5,
+          "end": 35.02,
+          "conf": 0.91
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "Squeeze more math from every byte,",
+      "start": 35.16,
+      "end": 38.517,
+      "words": [
+        {
+          "w": "Squeeze",
+          "start": 35.16,
+          "end": 36.08,
+          "conf": 0.92
+        },
+        {
+          "w": "more",
+          "start": 36.08,
+          "end": 36.52,
+          "conf": 0.89
+        },
+        {
+          "w": "math",
+          "start": 36.52,
+          "end": 36.796,
+          "conf": 0.81
+        },
+        {
+          "w": "from",
+          "start": 36.841,
+          "end": 37.58,
+          "conf": 0.79
+        },
+        {
+          "w": "every",
+          "start": 37.58,
+          "end": 37.974,
+          "conf": 0.89
+        },
+        {
+          "w": "byte,",
+          "start": 38.1,
+          "end": 38.517,
+          "conf": 0.79
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "Till I'm hitting the ceiling tonight",
+      "start": 38.76,
+      "end": 42.01,
+      "words": [
+        {
+          "w": "Till",
+          "start": 38.76,
+          "end": 39.08,
+          "conf": 0.89
+        },
+        {
+          "w": "I'm",
+          "start": 39.08,
+          "end": 39.226,
+          "conf": 0.75
+        },
+        {
+          "w": "hitting",
+          "start": 39.226,
+          "end": 39.72,
+          "conf": 0.84
+        },
+        {
+          "w": "the",
+          "start": 39.72,
+          "end": 39.82,
+          "conf": 0.89
+        },
+        {
+          "w": "ceiling",
+          "start": 39.82,
+          "end": 41.48,
+          "conf": 0.81
+        },
+        {
+          "w": "tonight",
+          "start": 41.48,
+          "end": 42.01,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "Thirty-two threads in a warp, in line,",
+      "start": 50.26,
+      "end": 53.089,
+      "words": [
+        {
+          "w": "Thirty-two",
+          "start": 50.26,
+          "end": 50.814,
+          "conf": 0.92,
+          "syl": [
+            [
+              50.26,
+              50.59
+            ],
+            [
+              50.59,
+              50.814
+            ]
+          ]
+        },
+        {
+          "w": "threads",
+          "start": 50.814,
+          "end": 51.478,
+          "conf": 0.92
+        },
+        {
+          "w": "in",
+          "start": 51.478,
+          "end": 51.74,
+          "conf": 0.92
+        },
+        {
+          "w": "a",
+          "start": 51.74,
+          "end": 51.86,
+          "conf": 0.86
+        },
+        {
+          "w": "warp,",
+          "start": 51.86,
+          "end": 52.137,
+          "conf": 0.92
+        },
+        {
+          "w": "in",
+          "start": 52.216,
+          "end": 52.54,
+          "conf": 0.92
+        },
+        {
+          "w": "line,",
+          "start": 52.54,
+          "end": 53.089,
+          "conf": 0.81
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "One instruction, marching in time,",
+      "start": 53.613,
+      "end": 56.766,
+      "words": [
+        {
+          "w": "One",
+          "start": 53.613,
+          "end": 54.12,
+          "conf": 0.85
+        },
+        {
+          "w": "instruction,",
+          "start": 54.12,
+          "end": 55.125,
+          "conf": 0.92
+        },
+        {
+          "w": "marching",
+          "start": 55.484,
+          "end": 55.98,
+          "conf": 0.92
+        },
+        {
+          "w": "in",
+          "start": 55.98,
+          "end": 56.14,
+          "conf": 0.92
+        },
+        {
+          "w": "time,",
+          "start": 56.14,
+          "end": 56.766,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "One little “if” and the warp splits in two,",
+      "start": 57.3,
+      "end": 60.243,
+      "words": [
+        {
+          "w": "One",
+          "start": 57.3,
+          "end": 57.52,
+          "conf": 0.92
+        },
+        {
+          "w": "little",
+          "start": 57.52,
+          "end": 58.1,
+          "conf": 0.92
+        },
+        {
+          "w": "“if”",
+          "start": 58.1,
+          "end": 58.198,
+          "conf": 0.89
+        },
+        {
+          "w": "and",
+          "start": 58.46,
+          "end": 58.64,
+          "conf": 0.83
+        },
+        {
+          "w": "the",
+          "start": 58.64,
+          "end": 58.84,
+          "conf": 0.89
+        },
+        {
+          "w": "warp",
+          "start": 58.84,
+          "end": 59.136,
+          "conf": 0.9
+        },
+        {
+          "w": "splits",
+          "start": 59.136,
+          "end": 59.6,
+          "conf": 0.92
+        },
+        {
+          "w": "in",
+          "start": 59.6,
+          "end": 59.74,
+          "conf": 0.92
+        },
+        {
+          "w": "two,",
+          "start": 59.74,
+          "end": 60.243,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "Half of them wait while the others go through",
+      "start": 60.577,
+      "end": 63.78,
+      "words": [
+        {
+          "w": "Half",
+          "start": 60.577,
+          "end": 61.176,
+          "conf": 0.92
+        },
+        {
+          "w": "of",
+          "start": 61.176,
+          "end": 61.34,
+          "conf": 0.92
+        },
+        {
+          "w": "them",
+          "start": 61.34,
+          "end": 61.6,
+          "conf": 0.92
+        },
+        {
+          "w": "wait",
+          "start": 61.6,
+          "end": 61.939,
+          "conf": 0.92
+        },
+        {
+          "w": "while",
+          "start": 61.939,
+          "end": 62.28,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 62.28,
+          "end": 62.62,
+          "conf": 0.92
+        },
+        {
+          "w": "others",
+          "start": 62.62,
+          "end": 62.94,
+          "conf": 0.85
+        },
+        {
+          "w": "go",
+          "start": 62.94,
+          "end": 63.271,
+          "conf": 0.92
+        },
+        {
+          "w": "through",
+          "start": 63.271,
+          "end": 63.78,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "Same old code, but it's crawling slow,",
+      "start": 64.853,
+      "end": 69.392,
+      "words": [
+        {
+          "w": "Same",
+          "start": 64.853,
+          "end": 66.5,
+          "conf": 0.92
+        },
+        {
+          "w": "old",
+          "start": 66.5,
+          "end": 66.74,
+          "conf": 0.85
+        },
+        {
+          "w": "code,",
+          "start": 66.74,
+          "end": 67.22,
+          "conf": 0.91
+        },
+        {
+          "w": "but",
+          "start": 67.22,
+          "end": 67.58,
+          "conf": 0.92
+        },
+        {
+          "w": "it's",
+          "start": 67.58,
+          "end": 67.84,
+          "conf": 0.9
+        },
+        {
+          "w": "crawling",
+          "start": 67.84,
+          "end": 68.395,
+          "conf": 0.92
+        },
+        {
+          "w": "slow,",
+          "start": 68.395,
+          "end": 69.392,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "Tell me, where'd all my speed go?",
+      "start": 69.84,
+      "end": 72.66,
+      "words": [
+        {
+          "w": "Tell",
+          "start": 69.84,
+          "end": 70.38,
+          "conf": 0.85
+        },
+        {
+          "w": "me,",
+          "start": 70.38,
+          "end": 70.76,
+          "conf": 0.92
+        },
+        {
+          "w": "where'd",
+          "start": 70.76,
+          "end": 71.18,
+          "conf": 0.9
+        },
+        {
+          "w": "all",
+          "start": 71.18,
+          "end": 71.5,
+          "conf": 0.89
+        },
+        {
+          "w": "my",
+          "start": 71.5,
+          "end": 71.767,
+          "conf": 0.92
+        },
+        {
+          "w": "speed",
+          "start": 71.767,
+          "end": 72.226,
+          "conf": 0.92
+        },
+        {
+          "w": "go?",
+          "start": 72.226,
+          "end": 72.66,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "I'm chasing the roofline,",
+      "start": 73.129,
+      "end": 75.5,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 73.129,
+          "end": 73.418,
+          "conf": 0.74
+        },
+        {
+          "w": "chasing",
+          "start": 73.418,
+          "end": 73.98,
+          "conf": 0.86
+        },
+        {
+          "w": "the",
+          "start": 73.98,
+          "end": 74.18,
+          "conf": 0.88
+        },
+        {
+          "w": "roofline,",
+          "start": 74.18,
+          "end": 75.5,
+          "conf": 0.79
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "Memory's the slope and the math's the line,",
+      "start": 75.5,
+      "end": 78.342,
+      "words": [
+        {
+          "w": "Memory's",
+          "start": 75.5,
+          "end": 76.02,
+          "conf": 0.67
+        },
+        {
+          "w": "the",
+          "start": 76.02,
+          "end": 76.117,
+          "conf": 0.92
+        },
+        {
+          "w": "slope",
+          "start": 76.117,
+          "end": 76.731,
+          "conf": 0.86
+        },
+        {
+          "w": "and",
+          "start": 76.731,
+          "end": 76.92,
+          "conf": 0.81
+        },
+        {
+          "w": "the",
+          "start": 76.92,
+          "end": 77.1,
+          "conf": 0.75
+        },
+        {
+          "w": "math's",
+          "start": 77.1,
+          "end": 77.56,
+          "conf": 0.72
+        },
+        {
+          "w": "the",
+          "start": 77.56,
+          "end": 77.82,
+          "conf": 0.87
+        },
+        {
+          "w": "line,",
+          "start": 77.82,
+          "end": 78.342,
+          "conf": 0.86
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "Squeeze more math from every byte,",
+      "start": 78.756,
+      "end": 81.764,
+      "words": [
+        {
+          "w": "Squeeze",
+          "start": 78.756,
+          "end": 79.375,
+          "conf": 0.89
+        },
+        {
+          "w": "more",
+          "start": 79.375,
+          "end": 79.84,
+          "conf": 0.77
+        },
+        {
+          "w": "math",
+          "start": 79.84,
+          "end": 80.118,
+          "conf": 0.79
+        },
+        {
+          "w": "from",
+          "start": 80.118,
+          "end": 80.88,
+          "conf": 0.79
+        },
+        {
+          "w": "every",
+          "start": 80.88,
+          "end": 81.305,
+          "conf": 0.85
+        },
+        {
+          "w": "byte,",
+          "start": 81.4,
+          "end": 81.764,
+          "conf": 0.82
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "Till I'm hitting the ceiling tonight",
+      "start": 81.894,
+      "end": 86.209,
+      "words": [
+        {
+          "w": "Till",
+          "start": 81.894,
+          "end": 82.38,
+          "conf": 0.75
+        },
+        {
+          "w": "I'm",
+          "start": 82.38,
+          "end": 82.52,
+          "conf": 0.74
+        },
+        {
+          "w": "hitting",
+          "start": 82.52,
+          "end": 83.02,
+          "conf": 0.79
+        },
+        {
+          "w": "the",
+          "start": 83.02,
+          "end": 83.116,
+          "conf": 0.88
+        },
+        {
+          "w": "ceiling",
+          "start": 83.116,
+          "end": 84.76,
+          "conf": 0.81
+        },
+        {
+          "w": "tonight",
+          "start": 84.76,
+          "end": 86.209,
+          "conf": 0.73
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "Neighbors read their neighbors side by side,",
+      "start": 91.786,
+      "end": 96.411,
+      "words": [
+        {
+          "w": "Neighbors",
+          "start": 91.786,
+          "end": 93.84,
+          "conf": 0.92
+        },
+        {
+          "w": "read",
+          "start": 93.84,
+          "end": 94.06,
+          "conf": 0.92
+        },
+        {
+          "w": "their",
+          "start": 94.06,
+          "end": 94.3,
+          "conf": 0.92
+        },
+        {
+          "w": "neighbors",
+          "start": 94.3,
+          "end": 95.019,
+          "conf": 0.92
+        },
+        {
+          "w": "side",
+          "start": 95.019,
+          "end": 95.5,
+          "conf": 0.92
+        },
+        {
+          "w": "by",
+          "start": 95.5,
+          "end": 95.732,
+          "conf": 0.85
+        },
+        {
+          "w": "side,",
+          "start": 95.732,
+          "end": 96.411,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "One trip to memory, nice and wide,",
+      "start": 96.995,
+      "end": 99.893,
+      "words": [
+        {
+          "w": "One",
+          "start": 96.995,
+          "end": 97.18,
+          "conf": 0.85
+        },
+        {
+          "w": "trip",
+          "start": 97.18,
+          "end": 97.44,
+          "conf": 0.85
+        },
+        {
+          "w": "to",
+          "start": 97.44,
+          "end": 97.66,
+          "conf": 0.85
+        },
+        {
+          "w": "memory,",
+          "start": 97.66,
+          "end": 98.356,
+          "conf": 0.85
+        },
+        {
+          "w": "nice",
+          "start": 98.726,
+          "end": 99.22,
+          "conf": 0.83
+        },
+        {
+          "w": "and",
+          "start": 99.22,
+          "end": 99.46,
+          "conf": 0.83
+        },
+        {
+          "w": "wide,",
+          "start": 99.46,
+          "end": 99.893,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "Load a tile to shared and keep it near,",
+      "start": 100.14,
+      "end": 104.049,
+      "words": [
+        {
+          "w": "Load",
+          "start": 100.14,
+          "end": 100.422,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 100.422,
+          "end": 100.54,
+          "conf": 0.74
+        },
+        {
+          "w": "tile",
+          "start": 100.54,
+          "end": 101.04,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 101.04,
+          "end": 101.135,
+          "conf": 0.85
+        },
+        {
+          "w": "shared",
+          "start": 101.135,
+          "end": 101.724,
+          "conf": 0.91
+        },
+        {
+          "w": "and",
+          "start": 102.2,
+          "end": 102.36,
+          "conf": 0.84
+        },
+        {
+          "w": "keep",
+          "start": 102.36,
+          "end": 102.756,
+          "conf": 0.96
+        },
+        {
+          "w": "it",
+          "start": 102.756,
+          "end": 103.036,
+          "conf": 0.77
+        },
+        {
+          "w": "near,",
+          "start": 103.036,
+          "end": 104.049,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "Sync the block and reuse it here",
+      "start": 104.049,
+      "end": 106.912,
+      "words": [
+        {
+          "w": "Sync",
+          "start": 104.049,
+          "end": 104.473,
+          "conf": 0.75
+        },
+        {
+          "w": "the",
+          "start": 104.473,
+          "end": 104.84,
+          "conf": 1.0
+        },
+        {
+          "w": "block",
+          "start": 104.84,
+          "end": 105.216,
+          "conf": 0.85
+        },
+        {
+          "w": "and",
+          "start": 105.4,
+          "end": 105.58,
+          "conf": 0.84
+        },
+        {
+          "w": "reuse",
+          "start": 105.58,
+          "end": 106.288,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 106.288,
+          "end": 106.418,
+          "conf": 0.85
+        },
+        {
+          "w": "here",
+          "start": 106.418,
+          "end": 106.912,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "Fetch it once and use it more,",
+      "start": 108.573,
+      "end": 112.39,
+      "words": [
+        {
+          "w": "Fetch",
+          "start": 108.573,
+          "end": 109.82,
+          "conf": 0.92
+        },
+        {
+          "w": "it",
+          "start": 109.82,
+          "end": 110.46,
+          "conf": 0.77
+        },
+        {
+          "w": "once",
+          "start": 110.46,
+          "end": 110.813,
+          "conf": 0.77
+        },
+        {
+          "w": "and",
+          "start": 110.813,
+          "end": 111.48,
+          "conf": 0.85
+        },
+        {
+          "w": "use",
+          "start": 111.48,
+          "end": 111.7,
+          "conf": 0.77
+        },
+        {
+          "w": "it",
+          "start": 111.7,
+          "end": 111.86,
+          "conf": 0.84
+        },
+        {
+          "w": "more,",
+          "start": 111.86,
+          "end": 112.39,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "That's what the roofline's for",
+      "start": 114.08,
+      "end": 116.116,
+      "words": [
+        {
+          "w": "That's",
+          "start": 114.08,
+          "end": 114.38,
+          "conf": 0.92
+        },
+        {
+          "w": "what",
+          "start": 114.38,
+          "end": 114.5,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 114.56,
+          "end": 114.82,
+          "conf": 0.85
+        },
+        {
+          "w": "roofline's",
+          "start": 114.82,
+          "end": 115.617,
+          "conf": 0.83
+        },
+        {
+          "w": "for",
+          "start": 115.617,
+          "end": 116.116,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "I'm chasing the roofline,",
+      "start": 116.42,
+      "end": 118.371,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 116.42,
+          "end": 116.75,
+          "conf": 0.64
+        },
+        {
+          "w": "chasing",
+          "start": 116.75,
+          "end": 117.3,
+          "conf": 0.91
+        },
+        {
+          "w": "the",
+          "start": 117.3,
+          "end": 117.52,
+          "conf": 0.7
+        },
+        {
+          "w": "roofline,",
+          "start": 117.52,
+          "end": 118.371,
+          "conf": 0.74
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "Memory's the slope and the math's the line,",
+      "start": 118.64,
+      "end": 121.594,
+      "words": [
+        {
+          "w": "Memory's",
+          "start": 118.64,
+          "end": 119.32,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 119.32,
+          "end": 119.419,
+          "conf": 0.96
+        },
+        {
+          "w": "slope",
+          "start": 119.419,
+          "end": 119.798,
+          "conf": 0.93
+        },
+        {
+          "w": "and",
+          "start": 120.04,
+          "end": 120.22,
+          "conf": 0.79
+        },
+        {
+          "w": "the",
+          "start": 120.22,
+          "end": 120.42,
+          "conf": 0.74
+        },
+        {
+          "w": "math's",
+          "start": 120.42,
+          "end": 120.9,
+          "conf": 0.73
+        },
+        {
+          "w": "the",
+          "start": 120.9,
+          "end": 121.12,
+          "conf": 0.95
+        },
+        {
+          "w": "line,",
+          "start": 121.12,
+          "end": 121.594,
+          "conf": 0.81
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "Squeeze more math from every byte,",
+      "start": 122.043,
+      "end": 125.066,
+      "words": [
+        {
+          "w": "Squeeze",
+          "start": 122.043,
+          "end": 122.676,
+          "conf": 0.81
+        },
+        {
+          "w": "more",
+          "start": 122.676,
+          "end": 123.14,
+          "conf": 0.79
+        },
+        {
+          "w": "math",
+          "start": 123.14,
+          "end": 123.429,
+          "conf": 0.74
+        },
+        {
+          "w": "from",
+          "start": 123.429,
+          "end": 124.18,
+          "conf": 0.83
+        },
+        {
+          "w": "every",
+          "start": 124.18,
+          "end": 124.602,
+          "conf": 0.82
+        },
+        {
+          "w": "byte,",
+          "start": 124.7,
+          "end": 125.066,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "Till I'm hitting the ceiling tonight",
+      "start": 125.36,
+      "end": 130.34,
+      "words": [
+        {
+          "w": "Till",
+          "start": 125.36,
+          "end": 125.68,
+          "conf": 0.8
+        },
+        {
+          "w": "I'm",
+          "start": 125.68,
+          "end": 125.859,
+          "conf": 0.73
+        },
+        {
+          "w": "hitting",
+          "start": 125.859,
+          "end": 126.3,
+          "conf": 0.9
+        },
+        {
+          "w": "the",
+          "start": 126.3,
+          "end": 126.398,
+          "conf": 0.81
+        },
+        {
+          "w": "ceiling",
+          "start": 126.398,
+          "end": 128.08,
+          "conf": 0.92
+        },
+        {
+          "w": "tonight",
+          "start": 128.08,
+          "end": 130.34,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "Tensor cores eat a matrix whole,",
+      "start": 130.34,
+      "end": 132.958,
+      "words": [
+        {
+          "w": "Tensor",
+          "start": 130.34,
+          "end": 130.673,
+          "conf": 0.78
+        },
+        {
+          "w": "cores",
+          "start": 130.673,
+          "end": 131.336,
+          "conf": 0.92
+        },
+        {
+          "w": "eat",
+          "start": 131.336,
+          "end": 131.56,
+          "conf": 0.76
+        },
+        {
+          "w": "a",
+          "start": 131.56,
+          "end": 131.72,
+          "conf": 0.79
+        },
+        {
+          "w": "matrix",
+          "start": 131.72,
+          "end": 132.18,
+          "conf": 0.85
+        },
+        {
+          "w": "whole,",
+          "start": 132.18,
+          "end": 132.958,
+          "conf": 0.75
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "Sixteen by sixteen in a single go,",
+      "start": 132.958,
+      "end": 135.941,
+      "words": [
+        {
+          "w": "Sixteen",
+          "start": 132.958,
+          "end": 133.52,
+          "conf": 0.83
+        },
+        {
+          "w": "by",
+          "start": 133.52,
+          "end": 133.671,
+          "conf": 0.85
+        },
+        {
+          "w": "sixteen",
+          "start": 133.671,
+          "end": 134.494,
+          "conf": 0.99
+        },
+        {
+          "w": "in",
+          "start": 134.494,
+          "end": 134.72,
+          "conf": 0.77
+        },
+        {
+          "w": "a",
+          "start": 134.72,
+          "end": 134.819,
+          "conf": 0.85
+        },
+        {
+          "w": "single",
+          "start": 134.819,
+          "end": 135.56,
+          "conf": 1.0
+        },
+        {
+          "w": "go,",
+          "start": 135.56,
+          "end": 135.941,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "Flash attention never writes the square,",
+      "start": 136.575,
+      "end": 139.593,
+      "words": [
+        {
+          "w": "Flash",
+          "start": 136.575,
+          "end": 136.96,
+          "conf": 1.0
+        },
+        {
+          "w": "attention",
+          "start": 136.96,
+          "end": 137.6,
+          "conf": 0.85
+        },
+        {
+          "w": "never",
+          "start": 137.6,
+          "end": 138.126,
+          "conf": 0.85
+        },
+        {
+          "w": "writes",
+          "start": 138.5,
+          "end": 138.82,
+          "conf": 0.83
+        },
+        {
+          "w": "the",
+          "start": 138.82,
+          "end": 138.954,
+          "conf": 0.85
+        },
+        {
+          "w": "square,",
+          "start": 138.954,
+          "end": 139.593,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "Streams it through in tiles from here to there",
+      "start": 140.122,
+      "end": 143.0,
+      "words": [
+        {
+          "w": "Streams",
+          "start": 140.122,
+          "end": 140.536,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 140.536,
+          "end": 140.655,
+          "conf": 0.85
+        },
+        {
+          "w": "through",
+          "start": 140.7,
+          "end": 141.02,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 141.02,
+          "end": 141.16,
+          "conf": 0.85
+        },
+        {
+          "w": "tiles",
+          "start": 141.16,
+          "end": 141.618,
+          "conf": 1.0
+        },
+        {
+          "w": "from",
+          "start": 141.618,
+          "end": 141.843,
+          "conf": 0.85
+        },
+        {
+          "w": "here",
+          "start": 141.843,
+          "end": 142.28,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 142.28,
+          "end": 142.52,
+          "conf": 0.85
+        },
+        {
+          "w": "there",
+          "start": 142.52,
+          "end": 143.0,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "text": "Thirty-two bits down to four, and it's fine,",
+      "start": 143.763,
+      "end": 146.816,
+      "words": [
+        {
+          "w": "Thirty-two",
+          "start": 143.763,
+          "end": 144.78,
+          "conf": 0.97,
+          "syl": [
+            [
+              143.763,
+              144.3
+            ],
+            [
+              144.3,
+              144.78
+            ]
+          ]
+        },
+        {
+          "w": "bits",
+          "start": 144.78,
+          "end": 145.29,
+          "conf": 0.85
+        },
+        {
+          "w": "down",
+          "start": 145.29,
+          "end": 145.5,
+          "conf": 0.85
+        },
+        {
+          "w": "to",
+          "start": 145.5,
+          "end": 145.599,
+          "conf": 0.82
+        },
+        {
+          "w": "four,",
+          "start": 145.599,
+          "end": 146.08,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 146.08,
+          "end": 146.22,
+          "conf": 0.85
+        },
+        {
+          "w": "it's",
+          "start": 146.22,
+          "end": 146.337,
+          "conf": 0.83
+        },
+        {
+          "w": "fine,",
+          "start": 146.337,
+          "end": 146.816,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "text": "Eight times less to move down the line,",
+      "start": 147.555,
+      "end": 150.483,
+      "words": [
+        {
+          "w": "Eight",
+          "start": 147.555,
+          "end": 147.82,
+          "conf": 0.85
+        },
+        {
+          "w": "times",
+          "start": 147.82,
+          "end": 148.123,
+          "conf": 0.85
+        },
+        {
+          "w": "less",
+          "start": 148.123,
+          "end": 148.6,
+          "conf": 0.85
+        },
+        {
+          "w": "to",
+          "start": 148.6,
+          "end": 148.86,
+          "conf": 0.85
+        },
+        {
+          "w": "move",
+          "start": 148.86,
+          "end": 149.3,
+          "conf": 0.85
+        },
+        {
+          "w": "down",
+          "start": 149.3,
+          "end": 149.76,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 149.76,
+          "end": 150.0,
+          "conf": 0.85
+        },
+        {
+          "w": "line,",
+          "start": 150.0,
+          "end": 150.483,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "text": "When one GPU is not enough,",
+      "start": 150.9,
+      "end": 153.92,
+      "words": [
+        {
+          "w": "When",
+          "start": 150.9,
+          "end": 151.18,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 151.18,
+          "end": 151.32,
+          "conf": 0.85
+        },
+        {
+          "w": "GPU",
+          "start": 151.32,
+          "end": 152.084,
+          "conf": 0.74,
+          "syl": [
+            [
+              151.32,
+              151.54
+            ],
+            [
+              151.54,
+              151.84
+            ],
+            [
+              151.84,
+              152.084
+            ]
+          ]
+        },
+        {
+          "w": "is",
+          "start": 152.468,
+          "end": 152.863,
+          "conf": 0.85
+        },
+        {
+          "w": "not",
+          "start": 152.863,
+          "end": 153.287,
+          "conf": 0.85
+        },
+        {
+          "w": "enough,",
+          "start": 153.287,
+          "end": 153.92,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "text": "Split it eight ways, then sum it up",
+      "start": 154.524,
+      "end": 157.622,
+      "words": [
+        {
+          "w": "Split",
+          "start": 154.524,
+          "end": 155.1,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 155.1,
+          "end": 155.24,
+          "conf": 0.76
+        },
+        {
+          "w": "eight",
+          "start": 155.24,
+          "end": 155.44,
+          "conf": 0.85
+        },
+        {
+          "w": "ways,",
+          "start": 155.44,
+          "end": 155.921,
+          "conf": 1.0
+        },
+        {
+          "w": "then",
+          "start": 156.28,
+          "end": 156.439,
+          "conf": 0.85
+        },
+        {
+          "w": "sum",
+          "start": 156.439,
+          "end": 156.819,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 156.819,
+          "end": 157.038,
+          "conf": 0.85
+        },
+        {
+          "w": "up",
+          "start": 157.038,
+          "end": 157.622,
+          "conf": 0.7
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "text": "I'm chasing the roofline,",
+      "start": 159.672,
+      "end": 161.717,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 159.672,
+          "end": 160.08,
+          "conf": 0.71
+        },
+        {
+          "w": "chasing",
+          "start": 160.08,
+          "end": 160.6,
+          "conf": 0.83
+        },
+        {
+          "w": "the",
+          "start": 160.6,
+          "end": 160.82,
+          "conf": 0.85
+        },
+        {
+          "w": "roofline,",
+          "start": 160.82,
+          "end": 161.717,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "text": "Memory's the slope and the math's the line,",
+      "start": 161.94,
+      "end": 164.91,
+      "words": [
+        {
+          "w": "Memory's",
+          "start": 161.94,
+          "end": 162.62,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 162.62,
+          "end": 162.72,
+          "conf": 0.85
+        },
+        {
+          "w": "slope",
+          "start": 162.72,
+          "end": 163.199,
+          "conf": 0.93
+        },
+        {
+          "w": "and",
+          "start": 163.34,
+          "end": 163.52,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 163.52,
+          "end": 163.74,
+          "conf": 0.71
+        },
+        {
+          "w": "math's",
+          "start": 163.74,
+          "end": 164.2,
+          "conf": 0.75
+        },
+        {
+          "w": "the",
+          "start": 164.2,
+          "end": 164.42,
+          "conf": 1.0
+        },
+        {
+          "w": "line,",
+          "start": 164.42,
+          "end": 164.91,
+          "conf": 0.81
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "text": "Squeeze more math from every byte,",
+      "start": 165.374,
+      "end": 168.337,
+      "words": [
+        {
+          "w": "Squeeze",
+          "start": 165.374,
+          "end": 166.0,
+          "conf": 0.85
+        },
+        {
+          "w": "more",
+          "start": 166.0,
+          "end": 166.42,
+          "conf": 0.85
+        },
+        {
+          "w": "math",
+          "start": 166.42,
+          "end": 166.736,
+          "conf": 0.71
+        },
+        {
+          "w": "from",
+          "start": 166.821,
+          "end": 167.5,
+          "conf": 0.75
+        },
+        {
+          "w": "every",
+          "start": 167.5,
+          "end": 167.893,
+          "conf": 0.77
+        },
+        {
+          "w": "byte,",
+          "start": 168.02,
+          "end": 168.337,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "text": "Till I'm hitting the ceiling tonight",
+      "start": 168.702,
+      "end": 173.2,
+      "words": [
+        {
+          "w": "Till",
+          "start": 168.702,
+          "end": 169.02,
+          "conf": 0.71
+        },
+        {
+          "w": "I'm",
+          "start": 169.02,
+          "end": 169.18,
+          "conf": 0.76
+        },
+        {
+          "w": "hitting",
+          "start": 169.18,
+          "end": 169.62,
+          "conf": 0.95
+        },
+        {
+          "w": "the",
+          "start": 169.62,
+          "end": 169.719,
+          "conf": 0.82
+        },
+        {
+          "w": "ceiling",
+          "start": 169.719,
+          "end": 171.36,
+          "conf": 0.93
+        },
+        {
+          "w": "tonight",
+          "start": 171.36,
+          "end": 173.2,
+          "conf": 0.8
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "start": 0.0,
+      "end": 6.87,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 34.9,
+      "end": 38.3,
+      "desc": "backing-vocal tail / 'ah' ad-lib after 'eyes' over the break (chorus 1 end)"
+    },
+    {
+      "start": 42.18,
+      "end": 49.77,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 63.89,
+      "end": 64.52,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 86.39,
+      "end": 91.32,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 108.5,
+      "end": 110.15,
+      "desc": "lead-in before 'Just transformers': Whisper hears a stuttered 'Just, just, just' (low confidence)"
+    },
+    {
+      "start": 122.4,
+      "end": 125.9,
+      "desc": "sustained backing 'ah' pad under 'I'm upping my P(doom)' (final chorus) - lead is buried here"
+    },
+    {
+      "start": 146.92,
+      "end": 147.45,
+      "desc": "outro chant: repeated 'oh' / 'oh-oh' vocal hook (Whisper: 'Oh, oh, oh...') until the drums stop at ~153"
+    },
+    {
+      "start": 157.72,
+      "end": 158.51,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 173.3,
+      "end": 179.65,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 180.23,
+      "end": 181.59,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 182.02,
+      "end": 186.8,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 187.22,
+      "end": 188.42,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    }
+  ],
+  "notes": "Song: 'Chasing the Roofline' (ACE-Step 1.5 XL take a4-401, audio/roofline.wav, mp3 is the gapless encode of it). Method as for pdoom (analysis/align.py): CTC emissions of the Demucs htdemucs_ft vocal stem from MMS_FA and wav2vec2-lv60k on mono, left and right, fused; one global constrained Viterbi pass with a garbage star token between lines; phonetic spellings for the CUDA terms (pron.py: PyTorch='pie torch', cudaMemcpy='cuda mem copy', GPU='gee pee you', MNIST='em nist', cuBLAS='cue blas', KV='kay vee', float4='float four', MMA='em em ay', N-by-N='en by en', NormalFloat4='normal float four', NVLink='en vee link', CUTLASS='cut lass'); signal refinement on the vocal stem; cross-check against mlx-whisper; conf as for pdoom. 'syl' = start/end of each spelled letter or compound part."
+}

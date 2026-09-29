@@ -1,0 +1,1750 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "Three minutes ago, this model couldn't spell,",
+      "start": 10.172,
+      "end": 15.59,
+      "words": [
+        {
+          "w": "Three",
+          "start": 10.172,
+          "end": 10.8,
+          "conf": 0.92
+        },
+        {
+          "w": "minutes",
+          "start": 10.8,
+          "end": 11.798,
+          "conf": 0.82
+        },
+        {
+          "w": "ago,",
+          "start": 11.798,
+          "end": 12.517,
+          "conf": 0.77
+        },
+        {
+          "w": "this",
+          "start": 13.16,
+          "end": 13.514,
+          "conf": 0.85
+        },
+        {
+          "w": "model",
+          "start": 13.514,
+          "end": 14.32,
+          "conf": 0.85
+        },
+        {
+          "w": "couldn't",
+          "start": 14.32,
+          "end": 14.697,
+          "conf": 0.85
+        },
+        {
+          "w": "spell,",
+          "start": 14.697,
+          "end": 15.59,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "A model is numbers that guess what comes next,",
+      "start": 16.3,
+      "end": 21.96,
+      "words": [
+        {
+          "w": "A",
+          "start": 16.3,
+          "end": 16.5,
+          "conf": 0.85
+        },
+        {
+          "w": "model",
+          "start": 16.5,
+          "end": 17.635,
+          "conf": 0.85
+        },
+        {
+          "w": "is",
+          "start": 17.635,
+          "end": 17.96,
+          "conf": 0.85
+        },
+        {
+          "w": "numbers",
+          "start": 17.96,
+          "end": 18.747,
+          "conf": 0.81
+        },
+        {
+          "w": "that",
+          "start": 19.1,
+          "end": 19.296,
+          "conf": 0.85
+        },
+        {
+          "w": "guess",
+          "start": 19.46,
+          "end": 19.92,
+          "conf": 0.85
+        },
+        {
+          "w": "what",
+          "start": 19.92,
+          "end": 20.079,
+          "conf": 0.85
+        },
+        {
+          "w": "comes",
+          "start": 20.18,
+          "end": 20.653,
+          "conf": 0.85
+        },
+        {
+          "w": "next,",
+          "start": 20.653,
+          "end": 21.96,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "Ten million numbers, we call them the weights,",
+      "start": 22.08,
+      "end": 27.802,
+      "words": [
+        {
+          "w": "Ten",
+          "start": 22.08,
+          "end": 22.92,
+          "conf": 0.82
+        },
+        {
+          "w": "million",
+          "start": 22.92,
+          "end": 23.58,
+          "conf": 0.85
+        },
+        {
+          "w": "numbers,",
+          "start": 23.58,
+          "end": 24.734,
+          "conf": 0.85
+        },
+        {
+          "w": "we",
+          "start": 25.043,
+          "end": 25.253,
+          "conf": 0.85
+        },
+        {
+          "w": "call",
+          "start": 25.34,
+          "end": 25.86,
+          "conf": 0.84
+        },
+        {
+          "w": "them",
+          "start": 25.86,
+          "end": 26.395,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 26.395,
+          "end": 26.62,
+          "conf": 0.85
+        },
+        {
+          "w": "weights,",
+          "start": 26.62,
+          "end": 27.802,
+          "conf": 0.88
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "All of them random, so this is what it wrote",
+      "start": 28.246,
+      "end": 33.938,
+      "words": [
+        {
+          "w": "All",
+          "start": 28.246,
+          "end": 28.884,
+          "conf": 0.66
+        },
+        {
+          "w": "of",
+          "start": 28.884,
+          "end": 29.338,
+          "conf": 0.57
+        },
+        {
+          "w": "them",
+          "start": 29.338,
+          "end": 29.638,
+          "conf": 0.85
+        },
+        {
+          "w": "random,",
+          "start": 29.638,
+          "end": 30.496,
+          "conf": 0.85
+        },
+        {
+          "w": "so",
+          "start": 30.765,
+          "end": 31.3,
+          "conf": 0.85
+        },
+        {
+          "w": "this",
+          "start": 31.3,
+          "end": 31.608,
+          "conf": 0.85
+        },
+        {
+          "w": "is",
+          "start": 31.608,
+          "end": 31.86,
+          "conf": 1.0
+        },
+        {
+          "w": "what",
+          "start": 31.86,
+          "end": 32.376,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 32.376,
+          "end": 32.64,
+          "conf": 0.83
+        },
+        {
+          "w": "wrote",
+          "start": 32.64,
+          "end": 33.938,
+          "conf": 0.74
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "Guess the next letter,",
+      "start": 46.18,
+      "end": 48.34,
+      "words": [
+        {
+          "w": "Guess",
+          "start": 46.18,
+          "end": 46.66,
+          "conf": 0.79
+        },
+        {
+          "w": "the",
+          "start": 46.66,
+          "end": 47.0,
+          "conf": 0.8
+        },
+        {
+          "w": "next",
+          "start": 47.0,
+          "end": 47.36,
+          "conf": 0.83
+        },
+        {
+          "w": "letter,",
+          "start": 47.36,
+          "end": 48.34,
+          "conf": 0.71
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "See how wrong it was,",
+      "start": 49.039,
+      "end": 51.443,
+      "words": [
+        {
+          "w": "See",
+          "start": 49.039,
+          "end": 49.577,
+          "conf": 0.85
+        },
+        {
+          "w": "how",
+          "start": 49.577,
+          "end": 49.96,
+          "conf": 0.92
+        },
+        {
+          "w": "wrong",
+          "start": 49.96,
+          "end": 50.39,
+          "conf": 0.82
+        },
+        {
+          "w": "it",
+          "start": 50.39,
+          "end": 50.64,
+          "conf": 0.82
+        },
+        {
+          "w": "was,",
+          "start": 50.64,
+          "end": 51.443,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "Nudge every weight a little,",
+      "start": 51.822,
+      "end": 54.322,
+      "words": [
+        {
+          "w": "Nudge",
+          "start": 51.822,
+          "end": 52.246,
+          "conf": 0.83
+        },
+        {
+          "w": "every",
+          "start": 52.246,
+          "end": 52.92,
+          "conf": 0.85
+        },
+        {
+          "w": "weight",
+          "start": 52.92,
+          "end": 53.54,
+          "conf": 0.83
+        },
+        {
+          "w": "a",
+          "start": 53.54,
+          "end": 53.68,
+          "conf": 0.7
+        },
+        {
+          "w": "little,",
+          "start": 53.68,
+          "end": 54.322,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "And do it again,",
+      "start": 54.85,
+      "end": 57.32,
+      "words": [
+        {
+          "w": "And",
+          "start": 54.85,
+          "end": 55.19,
+          "conf": 0.85
+        },
+        {
+          "w": "do",
+          "start": 55.19,
+          "end": 55.958,
+          "conf": 0.92
+        },
+        {
+          "w": "it",
+          "start": 55.958,
+          "end": 56.2,
+          "conf": 0.64
+        },
+        {
+          "w": "again,",
+          "start": 56.2,
+          "end": 57.32,
+          "conf": 0.86
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "I O: asafnte tist te",
+      "start": 58.14,
+      "end": 61.92,
+      "words": [
+        {
+          "w": "I",
+          "start": 58.14,
+          "end": 58.3,
+          "conf": 0.77
+        },
+        {
+          "w": "O:",
+          "start": 58.3,
+          "end": 58.33,
+          "conf": 0.71
+        },
+        {
+          "w": "asafnte",
+          "start": 58.33,
+          "end": 60.44,
+          "conf": 0.56
+        },
+        {
+          "w": "tist",
+          "start": 60.44,
+          "end": 60.84,
+          "conf": 0.85
+        },
+        {
+          "w": "te",
+          "start": 60.84,
+          "end": 61.92,
+          "conf": 0.87
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "othuared tharnd he, preckn,",
+      "start": 61.92,
+      "end": 68.739,
+      "words": [
+        {
+          "w": "othuared",
+          "start": 61.92,
+          "end": 64.803,
+          "conf": 0.65
+        },
+        {
+          "w": "tharnd",
+          "start": 64.803,
+          "end": 65.576,
+          "conf": 0.92
+        },
+        {
+          "w": "he,",
+          "start": 65.576,
+          "end": 66.619,
+          "conf": 0.92
+        },
+        {
+          "w": "preckn,",
+          "start": 66.7,
+          "end": 68.739,
+          "conf": 0.88
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "Its only book is Shakespeare, a million characters long,",
+      "start": 71.363,
+      "end": 76.865,
+      "words": [
+        {
+          "w": "Its",
+          "start": 71.363,
+          "end": 71.692,
+          "conf": 0.92
+        },
+        {
+          "w": "only",
+          "start": 71.767,
+          "end": 72.241,
+          "conf": 0.77
+        },
+        {
+          "w": "book",
+          "start": 72.241,
+          "end": 72.849,
+          "conf": 0.92
+        },
+        {
+          "w": "is",
+          "start": 72.849,
+          "end": 72.979,
+          "conf": 0.92
+        },
+        {
+          "w": "Shakespeare,",
+          "start": 72.979,
+          "end": 73.952,
+          "conf": 0.92
+        },
+        {
+          "w": "a",
+          "start": 74.2,
+          "end": 74.32,
+          "conf": 0.92
+        },
+        {
+          "w": "million",
+          "start": 74.32,
+          "end": 74.67,
+          "conf": 0.92
+        },
+        {
+          "w": "characters",
+          "start": 74.67,
+          "end": 75.853,
+          "conf": 0.92
+        },
+        {
+          "w": "long,",
+          "start": 75.853,
+          "end": 76.865,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "It guesses the next character, one of sixty-five,",
+      "start": 77.389,
+      "end": 82.692,
+      "words": [
+        {
+          "w": "It",
+          "start": 77.389,
+          "end": 77.519,
+          "conf": 0.92
+        },
+        {
+          "w": "guesses",
+          "start": 77.66,
+          "end": 78.32,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 78.32,
+          "end": 78.8,
+          "conf": 0.92
+        },
+        {
+          "w": "next",
+          "start": 78.8,
+          "end": 79.015,
+          "conf": 0.92
+        },
+        {
+          "w": "character,",
+          "start": 79.015,
+          "end": 79.973,
+          "conf": 0.92
+        },
+        {
+          "w": "one",
+          "start": 80.278,
+          "end": 80.517,
+          "conf": 0.85
+        },
+        {
+          "w": "of",
+          "start": 80.517,
+          "end": 80.617,
+          "conf": 1.0
+        },
+        {
+          "w": "sixty-five,",
+          "start": 80.617,
+          "end": 82.692,
+          "conf": 0.99,
+          "syl": [
+            [
+              80.617,
+              81.649
+            ],
+            [
+              81.649,
+              82.692
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "Then it sees the real one, and how surprised it was,",
+      "start": 83.221,
+      "end": 88.958,
+      "words": [
+        {
+          "w": "Then",
+          "start": 83.221,
+          "end": 84.08,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 84.08,
+          "end": 84.179,
+          "conf": 0.85
+        },
+        {
+          "w": "sees",
+          "start": 84.179,
+          "end": 84.84,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 84.84,
+          "end": 85.02,
+          "conf": 0.85
+        },
+        {
+          "w": "real",
+          "start": 85.02,
+          "end": 85.64,
+          "conf": 0.85
+        },
+        {
+          "w": "one,",
+          "start": 85.64,
+          "end": 85.965,
+          "conf": 0.7
+        },
+        {
+          "w": "and",
+          "start": 86.374,
+          "end": 86.558,
+          "conf": 0.85
+        },
+        {
+          "w": "how",
+          "start": 86.558,
+          "end": 86.952,
+          "conf": 1.0
+        },
+        {
+          "w": "surprised",
+          "start": 86.952,
+          "end": 87.92,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 87.92,
+          "end": 88.12,
+          "conf": 0.85
+        },
+        {
+          "w": "was,",
+          "start": 88.12,
+          "end": 88.958,
+          "conf": 0.82
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "That surprise we call the loss, the bigger, the more wrong",
+      "start": 89.3,
+      "end": 95.702,
+      "words": [
+        {
+          "w": "That",
+          "start": 89.3,
+          "end": 89.452,
+          "conf": 0.85
+        },
+        {
+          "w": "surprise",
+          "start": 89.452,
+          "end": 90.14,
+          "conf": 1.0
+        },
+        {
+          "w": "we",
+          "start": 90.14,
+          "end": 90.305,
+          "conf": 0.85
+        },
+        {
+          "w": "call",
+          "start": 90.305,
+          "end": 90.88,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 90.88,
+          "end": 91.06,
+          "conf": 0.85
+        },
+        {
+          "w": "loss,",
+          "start": 91.06,
+          "end": 91.876,
+          "conf": 0.84
+        },
+        {
+          "w": "the",
+          "start": 92.44,
+          "end": 92.6,
+          "conf": 0.85
+        },
+        {
+          "w": "bigger,",
+          "start": 92.68,
+          "end": 93.42,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 93.42,
+          "end": 93.62,
+          "conf": 0.85
+        },
+        {
+          "w": "more",
+          "start": 93.62,
+          "end": 94.18,
+          "conf": 0.79
+        },
+        {
+          "w": "wrong",
+          "start": 94.18,
+          "end": 95.702,
+          "conf": 0.55
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "Guess the next letter,",
+      "start": 106.7,
+      "end": 109.686,
+      "words": [
+        {
+          "w": "Guess",
+          "start": 106.7,
+          "end": 108.08,
+          "conf": 0.8
+        },
+        {
+          "w": "the",
+          "start": 108.08,
+          "end": 108.46,
+          "conf": 0.8
+        },
+        {
+          "w": "next",
+          "start": 108.46,
+          "end": 108.82,
+          "conf": 0.79
+        },
+        {
+          "w": "letter,",
+          "start": 108.82,
+          "end": 109.686,
+          "conf": 0.7
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "See how wrong it was,",
+      "start": 110.489,
+      "end": 112.988,
+      "words": [
+        {
+          "w": "See",
+          "start": 110.489,
+          "end": 111.1,
+          "conf": 0.84
+        },
+        {
+          "w": "how",
+          "start": 111.1,
+          "end": 111.377,
+          "conf": 0.84
+        },
+        {
+          "w": "wrong",
+          "start": 111.377,
+          "end": 111.891,
+          "conf": 0.66
+        },
+        {
+          "w": "it",
+          "start": 111.891,
+          "end": 112.09,
+          "conf": 0.76
+        },
+        {
+          "w": "was,",
+          "start": 112.2,
+          "end": 112.988,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "Nudge every weight a little,",
+      "start": 113.28,
+      "end": 116.346,
+      "words": [
+        {
+          "w": "Nudge",
+          "start": 113.28,
+          "end": 113.741,
+          "conf": 0.84
+        },
+        {
+          "w": "every",
+          "start": 113.741,
+          "end": 114.44,
+          "conf": 0.73
+        },
+        {
+          "w": "weight",
+          "start": 114.44,
+          "end": 115.02,
+          "conf": 0.78
+        },
+        {
+          "w": "a",
+          "start": 115.02,
+          "end": 115.2,
+          "conf": 0.72
+        },
+        {
+          "w": "little,",
+          "start": 115.2,
+          "end": 116.346,
+          "conf": 0.78
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "And do it again,",
+      "start": 116.346,
+      "end": 118.905,
+      "words": [
+        {
+          "w": "And",
+          "start": 116.346,
+          "end": 116.68,
+          "conf": 0.82
+        },
+        {
+          "w": "do",
+          "start": 116.68,
+          "end": 117.5,
+          "conf": 0.83
+        },
+        {
+          "w": "it",
+          "start": 117.5,
+          "end": 117.673,
+          "conf": 0.63
+        },
+        {
+          "w": "again,",
+          "start": 117.673,
+          "end": 118.905,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "It tile first; 'tis",
+      "start": 119.339,
+      "end": 123.958,
+      "words": [
+        {
+          "w": "It",
+          "start": 119.339,
+          "end": 119.468,
+          "conf": 0.91
+        },
+        {
+          "w": "tile",
+          "start": 119.56,
+          "end": 121.07,
+          "conf": 0.74
+        },
+        {
+          "w": "first;",
+          "start": 121.07,
+          "end": 122.018,
+          "conf": 0.85
+        },
+        {
+          "w": "'tis",
+          "start": 122.3,
+          "end": 123.958,
+          "conf": 0.78
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "good a moderal.",
+      "start": 125.475,
+      "end": 130.005,
+      "words": [
+        {
+          "w": "good",
+          "start": 125.475,
+          "end": 126.94,
+          "conf": 0.92
+        },
+        {
+          "w": "a",
+          "start": 126.94,
+          "end": 127.2,
+          "conf": 0.76
+        },
+        {
+          "w": "moderal.",
+          "start": 127.2,
+          "end": 130.005,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "Sixteen thousand guesses, then one nudge, that's a step,",
+      "start": 131.411,
+      "end": 136.34,
+      "words": [
+        {
+          "w": "Sixteen",
+          "start": 131.411,
+          "end": 132.354,
+          "conf": 0.91
+        },
+        {
+          "w": "thousand",
+          "start": 132.4,
+          "end": 133.02,
+          "conf": 0.92
+        },
+        {
+          "w": "guesses,",
+          "start": 133.02,
+          "end": 133.926,
+          "conf": 0.85
+        },
+        {
+          "w": "then",
+          "start": 133.926,
+          "end": 134.395,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 134.395,
+          "end": 134.64,
+          "conf": 0.77
+        },
+        {
+          "w": "nudge,",
+          "start": 134.64,
+          "end": 135.42,
+          "conf": 0.8
+        },
+        {
+          "w": "that's",
+          "start": 135.42,
+          "end": 135.8,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 135.8,
+          "end": 135.9,
+          "conf": 0.81
+        },
+        {
+          "w": "step,",
+          "start": 135.9,
+          "end": 136.34,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "Five thousand steps, eighty-two million guesses,",
+      "start": 137.148,
+      "end": 143.035,
+      "words": [
+        {
+          "w": "Five",
+          "start": 137.148,
+          "end": 137.572,
+          "conf": 0.85
+        },
+        {
+          "w": "thousand",
+          "start": 137.572,
+          "end": 138.705,
+          "conf": 0.85
+        },
+        {
+          "w": "steps,",
+          "start": 138.705,
+          "end": 139.393,
+          "conf": 0.85
+        },
+        {
+          "w": "eighty-two",
+          "start": 139.897,
+          "end": 140.64,
+          "conf": 0.84,
+          "syl": [
+            [
+              139.897,
+              140.117
+            ],
+            [
+              140.117,
+              140.64
+            ]
+          ]
+        },
+        {
+          "w": "million",
+          "start": 140.64,
+          "end": 141.4,
+          "conf": 0.85
+        },
+        {
+          "w": "guesses,",
+          "start": 141.4,
+          "end": 143.035,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "On the plays it practised, the loss fell to point six,",
+      "start": 143.314,
+      "end": 148.438,
+      "words": [
+        {
+          "w": "On",
+          "start": 143.314,
+          "end": 143.46,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 143.46,
+          "end": 143.6,
+          "conf": 1.0
+        },
+        {
+          "w": "plays",
+          "start": 143.6,
+          "end": 144.507,
+          "conf": 0.99
+        },
+        {
+          "w": "it",
+          "start": 144.507,
+          "end": 144.636,
+          "conf": 0.85
+        },
+        {
+          "w": "practised,",
+          "start": 144.72,
+          "end": 145.839,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 146.12,
+          "end": 146.28,
+          "conf": 0.85
+        },
+        {
+          "w": "loss",
+          "start": 146.28,
+          "end": 146.557,
+          "conf": 0.85
+        },
+        {
+          "w": "fell",
+          "start": 146.557,
+          "end": 147.38,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 147.38,
+          "end": 147.57,
+          "conf": 0.85
+        },
+        {
+          "w": "point",
+          "start": 147.644,
+          "end": 147.989,
+          "conf": 0.85
+        },
+        {
+          "w": "six,",
+          "start": 147.989,
+          "end": 148.438,
+          "conf": 0.81
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "On a play it never read, it fell to one point five, then rose,",
+      "start": 149.256,
+      "end": 155.766,
+      "words": [
+        {
+          "w": "On",
+          "start": 149.256,
+          "end": 149.5,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 149.5,
+          "end": 149.6,
+          "conf": 0.82
+        },
+        {
+          "w": "play",
+          "start": 149.6,
+          "end": 150.04,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 150.04,
+          "end": 150.28,
+          "conf": 0.57
+        },
+        {
+          "w": "never",
+          "start": 150.28,
+          "end": 151.02,
+          "conf": 1.0
+        },
+        {
+          "w": "read,",
+          "start": 151.02,
+          "end": 151.491,
+          "conf": 0.82
+        },
+        {
+          "w": "it",
+          "start": 151.98,
+          "end": 152.114,
+          "conf": 0.85
+        },
+        {
+          "w": "fell",
+          "start": 152.114,
+          "end": 152.5,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 152.5,
+          "end": 152.763,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 152.763,
+          "end": 153.04,
+          "conf": 0.85
+        },
+        {
+          "w": "point",
+          "start": 153.04,
+          "end": 153.661,
+          "conf": 0.91
+        },
+        {
+          "w": "five,",
+          "start": 153.661,
+          "end": 154.813,
+          "conf": 0.9
+        },
+        {
+          "w": "then",
+          "start": 154.858,
+          "end": 155.26,
+          "conf": 0.85
+        },
+        {
+          "w": "rose,",
+          "start": 155.26,
+          "end": 155.766,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "Past two thousand steps it learned the lines by heart",
+      "start": 156.02,
+      "end": 161.453,
+      "words": [
+        {
+          "w": "Past",
+          "start": 156.02,
+          "end": 156.42,
+          "conf": 0.85
+        },
+        {
+          "w": "two",
+          "start": 156.42,
+          "end": 156.684,
+          "conf": 0.85
+        },
+        {
+          "w": "thousand",
+          "start": 156.684,
+          "end": 157.213,
+          "conf": 0.85
+        },
+        {
+          "w": "steps",
+          "start": 157.213,
+          "end": 157.78,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 157.78,
+          "end": 157.911,
+          "conf": 0.85
+        },
+        {
+          "w": "learned",
+          "start": 157.911,
+          "end": 158.46,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 158.46,
+          "end": 158.68,
+          "conf": 0.85
+        },
+        {
+          "w": "lines",
+          "start": 158.68,
+          "end": 159.358,
+          "conf": 0.85
+        },
+        {
+          "w": "by",
+          "start": 159.358,
+          "end": 159.762,
+          "conf": 0.85
+        },
+        {
+          "w": "heart",
+          "start": 159.762,
+          "end": 161.453,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "Guess the next letter,",
+      "start": 173.102,
+      "end": 175.716,
+      "words": [
+        {
+          "w": "Guess",
+          "start": 173.102,
+          "end": 174.04,
+          "conf": 0.71
+        },
+        {
+          "w": "the",
+          "start": 174.04,
+          "end": 174.44,
+          "conf": 0.73
+        },
+        {
+          "w": "next",
+          "start": 174.44,
+          "end": 174.76,
+          "conf": 0.56
+        },
+        {
+          "w": "letter,",
+          "start": 174.76,
+          "end": 175.716,
+          "conf": 0.67
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "See how wrong it was,",
+      "start": 176.434,
+      "end": 178.968,
+      "words": [
+        {
+          "w": "See",
+          "start": 176.434,
+          "end": 177.1,
+          "conf": 0.93
+        },
+        {
+          "w": "how",
+          "start": 177.1,
+          "end": 177.4,
+          "conf": 0.76
+        },
+        {
+          "w": "wrong",
+          "start": 177.4,
+          "end": 177.861,
+          "conf": 0.68
+        },
+        {
+          "w": "it",
+          "start": 177.861,
+          "end": 178.14,
+          "conf": 0.65
+        },
+        {
+          "w": "was,",
+          "start": 178.14,
+          "end": 178.968,
+          "conf": 0.83
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "Nudge every weight a little,",
+      "start": 179.26,
+      "end": 182.306,
+      "words": [
+        {
+          "w": "Nudge",
+          "start": 179.26,
+          "end": 179.771,
+          "conf": 0.6
+        },
+        {
+          "w": "every",
+          "start": 179.771,
+          "end": 180.305,
+          "conf": 0.45
+        },
+        {
+          "w": "weight",
+          "start": 180.305,
+          "end": 180.894,
+          "conf": 0.52
+        },
+        {
+          "w": "a",
+          "start": 180.894,
+          "end": 181.14,
+          "conf": 0.65
+        },
+        {
+          "w": "little,",
+          "start": 181.14,
+          "end": 182.306,
+          "conf": 0.62
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "And do it again,",
+      "start": 182.306,
+      "end": 184.91,
+      "words": [
+        {
+          "w": "And",
+          "start": 182.306,
+          "end": 182.64,
+          "conf": 0.85
+        },
+        {
+          "w": "do",
+          "start": 182.64,
+          "end": 183.104,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 183.104,
+          "end": 183.638,
+          "conf": 0.7
+        },
+        {
+          "w": "again,",
+          "start": 183.638,
+          "end": 184.91,
+          "conf": 0.9
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "I cannot not sup. Tell",
+      "start": 185.259,
+      "end": 189.943,
+      "words": [
+        {
+          "w": "I",
+          "start": 185.259,
+          "end": 185.558,
+          "conf": 0.92
+        },
+        {
+          "w": "cannot",
+          "start": 185.558,
+          "end": 187.12,
+          "conf": 0.79
+        },
+        {
+          "w": "not",
+          "start": 187.12,
+          "end": 187.758,
+          "conf": 0.78
+        },
+        {
+          "w": "sup.",
+          "start": 187.758,
+          "end": 188.098,
+          "conf": 0.69
+        },
+        {
+          "w": "Tell",
+          "start": 188.24,
+          "end": 189.943,
+          "conf": 0.68
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "him, do you know, You shall",
+      "start": 191.121,
+      "end": 196.419,
+      "words": [
+        {
+          "w": "him,",
+          "start": 191.121,
+          "end": 191.64,
+          "conf": 0.92
+        },
+        {
+          "w": "do",
+          "start": 191.64,
+          "end": 192.36,
+          "conf": 0.85
+        },
+        {
+          "w": "you",
+          "start": 192.36,
+          "end": 193.1,
+          "conf": 0.61
+        },
+        {
+          "w": "know,",
+          "start": 193.1,
+          "end": 193.88,
+          "conf": 0.75
+        },
+        {
+          "w": "You",
+          "start": 193.88,
+          "end": 194.089,
+          "conf": 0.82
+        },
+        {
+          "w": "shall",
+          "start": 194.089,
+          "end": 196.419,
+          "conf": 0.78
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "Three minutes on one graphics card, and now it writes,",
+      "start": 197.526,
+      "end": 202.605,
+      "words": [
+        {
+          "w": "Three",
+          "start": 197.526,
+          "end": 197.995,
+          "conf": 0.85
+        },
+        {
+          "w": "minutes",
+          "start": 197.995,
+          "end": 198.813,
+          "conf": 0.85
+        },
+        {
+          "w": "on",
+          "start": 198.813,
+          "end": 199.3,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 199.3,
+          "end": 199.48,
+          "conf": 0.77
+        },
+        {
+          "w": "graphics",
+          "start": 199.48,
+          "end": 200.245,
+          "conf": 0.85
+        },
+        {
+          "w": "card,",
+          "start": 200.245,
+          "end": 200.988,
+          "conf": 0.84
+        },
+        {
+          "w": "and",
+          "start": 200.988,
+          "end": 201.22,
+          "conf": 0.85
+        },
+        {
+          "w": "now",
+          "start": 201.22,
+          "end": 201.62,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 201.62,
+          "end": 201.76,
+          "conf": 0.8
+        },
+        {
+          "w": "writes,",
+          "start": 201.76,
+          "end": 202.605,
+          "conf": 0.83
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "The big ones learn the same way, with more books and more time,",
+      "start": 203.42,
+      "end": 209.105,
+      "words": [
+        {
+          "w": "The",
+          "start": 203.42,
+          "end": 203.572,
+          "conf": 1.0
+        },
+        {
+          "w": "big",
+          "start": 203.62,
+          "end": 204.086,
+          "conf": 0.85
+        },
+        {
+          "w": "ones",
+          "start": 204.086,
+          "end": 204.296,
+          "conf": 0.7
+        },
+        {
+          "w": "learn",
+          "start": 204.296,
+          "end": 204.78,
+          "conf": 0.82
+        },
+        {
+          "w": "the",
+          "start": 204.78,
+          "end": 204.879,
+          "conf": 0.84
+        },
+        {
+          "w": "same",
+          "start": 204.879,
+          "end": 205.5,
+          "conf": 1.0
+        },
+        {
+          "w": "way,",
+          "start": 205.5,
+          "end": 205.862,
+          "conf": 0.85
+        },
+        {
+          "w": "with",
+          "start": 206.26,
+          "end": 206.411,
+          "conf": 0.85
+        },
+        {
+          "w": "more",
+          "start": 206.411,
+          "end": 206.68,
+          "conf": 1.0
+        },
+        {
+          "w": "books",
+          "start": 206.68,
+          "end": 207.144,
+          "conf": 0.85
+        },
+        {
+          "w": "and",
+          "start": 207.144,
+          "end": 207.4,
+          "conf": 0.85
+        },
+        {
+          "w": "more",
+          "start": 207.4,
+          "end": 207.76,
+          "conf": 0.85
+        },
+        {
+          "w": "time,",
+          "start": 207.76,
+          "end": 209.105,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "Next time, Next Token: watch a big one write",
+      "start": 209.279,
+      "end": 219.466,
+      "words": [
+        {
+          "w": "Next",
+          "start": 209.279,
+          "end": 210.08,
+          "conf": 0.85
+        },
+        {
+          "w": "time,",
+          "start": 210.08,
+          "end": 211.52,
+          "conf": 0.84
+        },
+        {
+          "w": "Next",
+          "start": 211.52,
+          "end": 212.283,
+          "conf": 0.83
+        },
+        {
+          "w": "Token:",
+          "start": 212.283,
+          "end": 213.689,
+          "conf": 0.8
+        },
+        {
+          "w": "watch",
+          "start": 214.28,
+          "end": 214.64,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 214.64,
+          "end": 214.78,
+          "conf": 0.84
+        },
+        {
+          "w": "big",
+          "start": 214.78,
+          "end": 215.146,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 215.146,
+          "end": 215.96,
+          "conf": 0.62
+        },
+        {
+          "w": "write",
+          "start": 215.96,
+          "end": 219.466,
+          "conf": 0.7
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "start": 4.2,
+      "end": 6.78,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 34.9,
+      "end": 38.3,
+      "desc": "backing-vocal tail / 'ah' ad-lib after 'eyes' over the break (chorus 1 end)"
+    },
+    {
+      "start": 57.44,
+      "end": 58.04,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 108.5,
+      "end": 110.15,
+      "desc": "lead-in before 'Just transformers': Whisper hears a stuttered 'Just, just, just' (low confidence)"
+    },
+    {
+      "start": 122.4,
+      "end": 125.9,
+      "desc": "sustained backing 'ah' pad under 'I'm upping my P(doom)' (final chorus) - lead is buried here"
+    },
+    {
+      "start": 136.44,
+      "end": 137.04,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 140.6,
+      "end": 153.5,
+      "desc": "outro chant: repeated 'oh' / 'oh-oh' vocal hook (Whisper: 'Oh, oh, oh...') until the drums stop at ~153"
+    }
+  ],
+  "notes": "Song: 'Chasing the Roofline' (ACE-Step 1.5 XL take a4-401, audio/roofline.wav, mp3 is the gapless encode of it). Method as for pdoom (analysis/align.py): CTC emissions of the Demucs htdemucs_ft vocal stem from MMS_FA and wav2vec2-lv60k on mono, left and right, fused; one global constrained Viterbi pass with a garbage star token between lines; phonetic spellings for the CUDA terms (pron.py: PyTorch='pie torch', cudaMemcpy='cuda mem copy', GPU='gee pee you', MNIST='em nist', cuBLAS='cue blas', KV='kay vee', float4='float four', MMA='em em ay', N-by-N='en by en', NormalFloat4='normal float four', NVLink='en vee link', CUTLASS='cut lass'); signal refinement on the vocal stem; cross-check against mlx-whisper; conf as for pdoom. 'syl' = start/end of each spelled letter or compound part."
+}

@@ -1,0 +1,5 @@
+{
+  "gpu_host": "gpu",
+  "gpu_song_dir": "dev/ace-step-runner",
+  "gpu_repo_dir": "dev/ai-video"
+}

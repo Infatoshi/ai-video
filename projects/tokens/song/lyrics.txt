@@ -1,0 +1,60 @@
+Never the Letters (ML, slowly #2: Tokens). Motown girl group, call and response, 100 BPM.
+Group answers in parentheses. Every fact is from data/tok.json (the real Llama 3.1 tokenizer, the
+spelled-letters test on Llama 3.1 8B Instruct) or data/bpe.json (our BPE trained on these lyrics).
+
+[Intro]  instrumental: the question typed, one line of letters
+
+[Verse 1]  the example: the question becomes 8 chunks, 8 numbers
+You asked, how many r's in strawberry?
+The model, that's the AI, said two (two!)
+Count them yourself, there are three
+It never saw the letters like you
+Before it reads, your words get cut in chunks
+And every chunk is swapped for a number (a number)
+Eight little chunks, eight numbers in a row
+And the numbers are all that it's shown
+
+[Chorus]  the one definition (same words every time)
+A token is a chunk of text (chunk of text)
+Every chunk gets a number (a number)
+The model reads the numbers (just the numbers)
+Never the letters (never the letters)
+
+[Instrumental]  the line of letters settles into chunks, numbers under them
+
+[Verse 2]  where chunks come from: byte-pair encoding, run on this song
+Where do the chunks come from? (Where?)
+Take this song and break it into letters
+Find the pair that shows up the most
+E and R, glue them together (together)
+Count again and glue again (again)
+Till the words we sing the most are whole
+The model's chunks were made this way
+A hundred twenty-eight thousand, all told (all told)
+
+[Chorus]
+
+[Instrumental]  merges keep running, the song's words go whole
+
+[Verse 3]  strawberry is one number; spaced-out letters get counted
+Look at strawberry one more time
+With a space in front, it's just one chunk (one chunk)
+One number (seven three seven oh oh)   (" strawberry" = 73700)
+Where are the r's in that? (Where?)
+Give it one chunk (it says two)          (67 of 100 answers said 2)
+Space out the letters (it says three)    (90 of 100 answers said 3)
+The r's were hiding in the chunk
+It only ever saw the number (the number)
+
+[Bridge]  same letters, different numbers
+When it wrote the word back, no space in front
+It came out in three (S-T-R, A-W, berry)     ("strawberry" = str | aw | berry)
+A capital S, another number (another number) (" Strawberry" = 89077)
+Same letters, different numbers (different numbers)
+
+[Chorus]  final: every piece reassembled
+Never the letters
+
+[Outro]  names the next episode
+What does a number mean? (What does it mean?)
+Next time: meaning is a direction

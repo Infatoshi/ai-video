@@ -1,0 +1,197 @@
+[
+ {
+  "file": "plates/intro_0.jpg",
+  "id": "intro",
+  "t": 2.626
+ },
+ {
+  "file": "plates/intro_1.jpg",
+  "id": "intro",
+  "t": 5.251
+ },
+ {
+  "file": "plates/intro_2.jpg",
+  "id": "intro",
+  "t": 7.877
+ },
+ {
+  "file": "plates/tokens_0.jpg",
+  "id": "tokens",
+  "t": 13.122
+ },
+ {
+  "file": "plates/tokens_1.jpg",
+  "id": "tokens",
+  "t": 16.042
+ },
+ {
+  "file": "plates/tokens_2.jpg",
+  "id": "tokens",
+  "t": 18.962
+ },
+ {
+  "file": "plates/vectors_0.jpg",
+  "id": "vectors",
+  "t": 24.491
+ },
+ {
+  "file": "plates/vectors_1.jpg",
+  "id": "vectors",
+  "t": 27.4
+ },
+ {
+  "file": "plates/vectors_2.jpg",
+  "id": "vectors",
+  "t": 30.308
+ },
+ {
+  "file": "plates/hook1_0.jpg",
+  "id": "hook1",
+  "t": 35.19
+ },
+ {
+  "file": "plates/hook1_1.jpg",
+  "id": "hook1",
+  "t": 38.062
+ },
+ {
+  "file": "plates/hook1_2.jpg",
+  "id": "hook1",
+  "t": 40.934
+ },
+ {
+  "file": "plates/attention_0.jpg",
+  "id": "attention",
+  "t": 46.163
+ },
+ {
+  "file": "plates/attention_1.jpg",
+  "id": "attention",
+  "t": 49.219
+ },
+ {
+  "file": "plates/attention_2.jpg",
+  "id": "attention",
+  "t": 52.275
+ },
+ {
+  "file": "plates/ffn_0.jpg",
+  "id": "ffn",
+  "t": 57.91
+ },
+ {
+  "file": "plates/ffn_1.jpg",
+  "id": "ffn",
+  "t": 60.788
+ },
+ {
+  "file": "plates/ffn_2.jpg",
+  "id": "ffn",
+  "t": 63.667
+ },
+ {
+  "file": "plates/hook2_0.jpg",
+  "id": "hook2",
+  "t": 68.511
+ },
+ {
+  "file": "plates/hook2_1.jpg",
+  "id": "hook2",
+  "t": 71.376
+ },
+ {
+  "file": "plates/hook2_2.jpg",
+  "id": "hook2",
+  "t": 74.241
+ },
+ {
+  "file": "plates/logits_0.jpg",
+  "id": "logits",
+  "t": 79.466
+ },
+ {
+  "file": "plates/logits_1.jpg",
+  "id": "logits",
+  "t": 82.226
+ },
+ {
+  "file": "plates/logits_2.jpg",
+  "id": "logits",
+  "t": 84.986
+ },
+ {
+  "file": "plates/append_0.jpg",
+  "id": "append",
+  "t": 90.514
+ },
+ {
+  "file": "plates/append_1.jpg",
+  "id": "append",
+  "t": 93.583
+ },
+ {
+  "file": "plates/append_2.jpg",
+  "id": "append",
+  "t": 96.651
+ },
+ {
+  "file": "plates/memory_0.jpg",
+  "id": "memory",
+  "t": 100.549
+ },
+ {
+  "file": "plates/memory_1.jpg",
+  "id": "memory",
+  "t": 102.179
+ },
+ {
+  "file": "plates/memory_2.jpg",
+  "id": "memory",
+  "t": 103.808
+ },
+ {
+  "file": "plates/roofline_0.jpg",
+  "id": "roofline",
+  "t": 107.148
+ },
+ {
+  "file": "plates/roofline_1.jpg",
+  "id": "roofline",
+  "t": 110.058
+ },
+ {
+  "file": "plates/roofline_2.jpg",
+  "id": "roofline",
+  "t": 112.968
+ },
+ {
+  "file": "plates/spec_0.jpg",
+  "id": "spec",
+  "t": 118.224
+ },
+ {
+  "file": "plates/spec_1.jpg",
+  "id": "spec",
+  "t": 121.27
+ },
+ {
+  "file": "plates/spec_2.jpg",
+  "id": "spec",
+  "t": 124.316
+ },
+ {
+  "file": "plates/finale_0.jpg",
+  "id": "finale",
+  "t": 129.369
+ },
+ {
+  "file": "plates/finale_1.jpg",
+  "id": "finale",
+  "t": 132.377
+ },
+ {
+  "file": "plates/finale_2.jpg",
+  "id": "finale",
+  "t": 135.385
+ }
+]

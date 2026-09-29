@@ -1,0 +1,57 @@
+Watch It Learn to Write (ML, slowly #5/5). Gospel, ~80 BPM, one voice growing to a full choir as the loss falls.
+Every number is from train/run/run.json (train/train.py on the GPU host's RTX 3090, 2026-09-28 5:56 am MT: a
+10,745,088-weight character-level GPT trained from scratch on tiny Shakespeare, 5,000 steps in 200.1 s of wall
+clock = 3.3 minutes) or train/run/probe.json (its checkpoints, probed on CPU). What is sung is song/lyrics.sing.txt,
+filled from song/lyrics.sing.tmpl.txt by song/make_sing.py. The last lines of each chorus are the model's own
+writing after the prompt "ROMEO:", sampled at that chorus's checkpoint (temperature 1, the same seed every time),
+sung verbatim (song/excerpts.json).
+
+[Intro]  instrumental: the finished model (step 5,000) writes after "ROMEO:"
+
+[Verse 1]  the hook, then the example: a brand-new model writes nonsense
+Three minutes ago, this model couldn't spell,            (3.33 min wall clock; on "ago" the page rewinds to step 0)
+A model is numbers that guess what comes next,
+Ten million numbers, we call them the weights,           (10,745,088)
+All of them random, so this is what it wrote            (step 0's sample types out)
+
+[Instrumental]
+
+[Chorus]  THE definition (same words every time), then the model's writing at that checkpoint, verbatim
+Guess the next letter,
+See how wrong it was,
+Nudge every weight a little,
+And do it again,
+I O: asafnte tist te                                     (step 100, verbatim: "I\nO: asafnte tist te othuared tharnd he, preckn,")
+othuared tharnd he, preckn,
+
+[Verse 2]  the rule: the book, one guess out of 65, the loss = how surprised it was
+Its only book is Shakespeare, a million characters long,   (1,115,394 characters; it practises on 1,003,854)
+It guesses the next character, one of sixty-five,          (65-character vocabulary)
+Then it sees the real one, and how surprised it was,       ("Good morrow, neighbou_": "r" got 16.2% at step 100)
+That surprise we call the loss, the bigger, the more wrong  (-ln 0.162 = 1.82)
+
+[Instrumental]  the loss on every letter of the unseen line shrinks as the clock runs
+
+[Chorus]
+... It tile first;                                         (step 500, verbatim: "It tile first; 'tis good a moderal.")
+'tis good a moderal.
+
+[Bridge]  repeat: 16,384 guesses per step, 5,000 steps = 81,920,000 guesses. The real result, not the hoped one:
+          the loss on the practice text fell to 0.61; on the text it never practised on it fell to 1.47 (step 2,000),
+          then rose to 1.70 by step 5,000: after step 2,000 it was learning the lines by heart (overfitting)
+Sixteen thousand guesses, then one nudge, that's a step,
+Five thousand steps, eighty-two million guesses,
+On the plays it practised, the loss fell to point six,
+On a play it never read, it fell to one point five, then rose,
+Past two thousand steps it learned the lines by heart
+
+[Instrumental]  every piece in view
+
+[Chorus]  full choir: every piece at once
+... I cannot not sup. Tell                                  (step 5,000, verbatim: "I cannot not sup. Tell him, do you know,\nYou shall")
+him, do you know, You shall
+
+[Outro]  3.3 minutes on one graphics card; the next episode
+Three minutes on one graphics card, and now it writes,
+The big ones learn the same way, with more books and more time,
+Next time, Next Token: watch a big one write

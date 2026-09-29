@@ -1,0 +1,65 @@
+[Intro - rolling breaks, rising reese bass]
+
+[Verse 1]
+Type a question, hit enter, now it's gone to the machine,
+Chopped up into tokens, little pieces that it's seen,
+It don't see letters, only chunks that it knows,
+So count the R's in strawberry and watch how it goes,
+Every token is a vector, four thousand wide,
+Words that mean the same thing end up side by side,
+Now the sentence is a stack of numbers standing tall,
+Thirty-two floors in the tower and it's gotta climb them all
+
+[Chorus]
+Just one more token,
+One more roll of the dice,
+Guess it, pick it, feed it back in,
+And do it again all night
+
+[Verse 2]
+Every token looks back at the words that came first,
+Asks who matters to me, gives a weight to each word,
+The strongest ones pull and it blends what they say,
+That's attention, thirty-two heads, each doing it its own way,
+Then the feed-forward fires where the facts are kept,
+Fourteen thousand neurons every single step,
+Attention, feed-forward, that's one floor of the tower,
+Stack it thirty-two high, that's where it gets its power
+
+[Chorus]
+Just one more token,
+One more roll of the dice,
+Guess it, pick it, feed it back in,
+And do it again all night
+
+[Verse 3]
+At the top of the tower every word gets a score,
+A hundred twenty-eight thousand, all in the draw,
+Softmax turns them into odds with the temperature set,
+Keep it low and it's safe, turn it up, it's a bet,
+Roll the dice, one token, stick it on the end,
+Feed the whole thing back and do it over again,
+But the keys and the values that it made, it can keep,
+That's the K-V cache, so the past comes cheap
+
+[Breakdown]
+Every single token, it reads every weight,
+Sixteen gigs from memory while the math just waits
+
+[Drop - instrumental]
+
+[Verse 4]
+Stuck on the slope, it's the roofline again,
+So read the weights once and serve a hundred of them,
+Or a little model guesses four words in a row,
+And the big one checks all four in one go
+
+[Chorus]
+Just one more token,
+One more roll of the dice,
+Guess it, pick it, feed it back in,
+And do it again all night
+
+[Outro]
+One more token,
+Till it picks the one that says it's done

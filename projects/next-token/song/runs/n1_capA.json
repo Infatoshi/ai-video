@@ -1,0 +1,25 @@
+{
+ "name": "n1_capA",
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "lyrics_file": "lyrics.nt.sing.txt",
+ "bpm": 174,
+ "duration": 170,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "batch": 2,
+ "key": "F Minor",
+ "offload": true,
+ "caption": "Energetic drum and bass, 174 BPM, rolling reese bass, chopped amen breaks, male UK MC rapping the verses with fast crisp clear diction and tight rhythmic flow, huge catchy sung chorus hook, bright rave stabs, atmospheric pads, dancefloor energy, polished modern production",
+ "seeds": [
+  801,
+  802,
+  803,
+  804,
+  805,
+  806,
+  807,
+  808
+ ]
+}

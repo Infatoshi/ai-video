@@ -1,0 +1,24 @@
+{
+ "name": "a5_xlsft_v3",
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "caption": "Upbeat synth-pop with a bright, clear female lead vocal and crisp diction, catchy anthemic chorus, punchy drums, driving synth bass, sparkling arpeggiated synths, sidechained pads, playful witty nerdy love song, polished modern pop production",
+ "lyrics_file": "lyrics.sing.v3.txt",
+ "bpm": 132,
+ "duration": 188,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "seeds": [
+  501,
+  502,
+  503,
+  504,
+  505,
+  506,
+  507,
+  508
+ ],
+ "batch": 4,
+ "key": "Eb Major"
+}

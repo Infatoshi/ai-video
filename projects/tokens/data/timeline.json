@@ -1,0 +1,57 @@
+[
+ {
+  "id": "intro",
+  "start": 0.0,
+  "end": 27.96
+ },
+ {
+  "id": "cut",
+  "start": 27.96,
+  "end": 46.66
+ },
+ {
+  "id": "chorus",
+  "start": 46.66,
+  "end": 71.83
+ },
+ {
+  "id": "bpe",
+  "start": 71.83,
+  "end": 98.38
+ },
+ {
+  "id": "vocab",
+  "start": 98.38,
+  "end": 108.7
+ },
+ {
+  "id": "chorus2",
+  "start": 108.7,
+  "end": 132.88
+ },
+ {
+  "id": "strawberry",
+  "start": 132.88,
+  "end": 148.94
+ },
+ {
+  "id": "test",
+  "start": 148.94,
+  "end": 170.68
+ },
+ {
+  "id": "bridge",
+  "start": 170.68,
+  "end": 190.89
+ },
+ {
+  "id": "finale",
+  "start": 190.89,
+  "end": 215.78
+ },
+ {
+  "id": "outro",
+  "start": 215.78,
+  "end": 260.0
+ }
+]

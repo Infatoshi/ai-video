@@ -1,0 +1,82 @@
+{
+ "chapters": {
+  "intro": "Intro",
+  "table": "A word is a list of numbers",
+  "definition": "The definition",
+  "close": "Close means alike: three, rain",
+  "definition-2": "The definition, again",
+  "direction": "A direction means something: boy → girl",
+  "king": "king − man + woman: queen came 4th",
+  "together": "All together",
+  "outro": "Next: Who's It?"
+ },
+ "tags": [
+  "word embeddings",
+  "embeddings explained",
+  "what is an embedding",
+  "king man woman queen",
+  "word2vec",
+  "vector embeddings",
+  "cosine similarity",
+  "how llms work",
+  "how chatgpt works",
+  "llm",
+  "llama 3.1",
+  "machine learning for beginners",
+  "ai explained",
+  "dream pop",
+  "music video",
+  "education",
+  "ml slowly"
+ ],
+ "categoryId": "27",
+ "language": "en",
+ "containsSyntheticMedia": true,
+ "ai_disclosure": "The song (music and vocals) is AI-generated with ACE-Step 1.5; the animation is code-rendered from real model data. containsSyntheticMedia = true on every variant.",
+ "description": "Ask an AI for king − man + woman and you're supposed to get queen. In Llama 3.1 8B's embedding table the top answer is King. Then KING. Then King again. Queen comes fourth.\n\nAn embedding is the list of numbers a model uses for a word. Every token it knows has a row of 4,096 numbers, in a table of 128,256 rows. Words that mean alike get lists that point the same way, and a direction, like man → woman, can carry a meaning.\n\nWhat the real table shows (Llama 3.1 8B Instruct, its input embedding table, cosine similarity over all 128,256 rows):\n- Nearest to \"three\": four (0.711), two (0.676), five (0.626).\n- Nearest to \"rain\": its own spellings first (Rain 0.520, Rain without the space 0.404, rains 0.346), then snow (0.277), wind, storm. Two random words average 0.038.\n- boy − man + woman: girl, #1 (0.461). father − man + woman: mother, #1 (0.443).\n- king − man + woman (king, man and woman left out): King 0.423, KING 0.332, King (no space) 0.306, queen 0.297, kings 0.285.\n- The 3D picture is a squash: a PCA of the 46 labelled words keeps 20.7% of their spread.\n\n{chapters}\n\nML, slowly, episode 3 of 5: one idea per video, slow enough to follow on the first watch. Next: Who's It? (attention).\n\nMade with Claude Code (Claude Opus 5.5): lyrics, the song (AI-generated with ACE-Step 1.5), word alignment, the animation (three.js), the render. Renderer forked from mexicat's p(doom) video (MIT).\n\n#LLM #AI #MachineLearning\n",
+ "variants": {
+  "meaning": {
+   "video": "out/final/meaning.mp4",
+   "title": "Queen came 4th: how AI stores what words mean | ML, slowly #3",
+   "thumbnail": "out/publish/thumbs/thumb_A.jpg",
+   "thumbnails_test": [
+    "out/publish/thumbs/thumb_A.jpg",
+    "out/publish/thumbs/thumb_B.jpg",
+    "out/publish/thumbs/thumb_C.jpg"
+   ],
+   "pinned_comment": "i tried the famous king − man + woman on a real llm. it said King. then KING. then King again. queen showed up fourth like she was fashionably late",
+   "share": "out/final/meaning_share.mp4"
+  },
+  "meaning_vertical": {
+   "video": "out/final/meaning_vertical.mp4",
+   "title": "Queen came 4th: how AI stores what words mean (vertical) | ML, slowly #3",
+   "pinned_comment": "three lives right next to four, two and five. nobody told it that, it worked it out from reading",
+   "share": "out/final/meaning_vertical_share.mp4"
+  },
+  "meaning_hook": {
+   "source": "out/final/meaning_vertical.mp4",
+   "video": "out/final/meaning_hook.mp4",
+   "cut": [
+    [
+     176.5,
+     206.85
+    ]
+   ],
+   "title": "king − man + woman in a real AI: queen came 4th | ML, slowly #3 #Shorts",
+   "description": "Llama 3.1 8B's embedding table, asked for king − man + woman (the three inputs left out): King 0.423, KING 0.332, King 0.306, queen 0.297. Every number is from the real table.\n\nFull video: (link after upload)\n\n#LLM #AI #MachineLearning",
+   "pinned_comment": "beaten by three different spellings of King. queen deserved better",
+   "segments_snapped": [
+    [
+     176.498,
+     206.851
+    ]
+   ],
+   "audio_tail_fade": "afade out 206.66-206.83 song time (after cut.py): crown ends 206.28, the next line's onset at ~206.80 is faded out"
+  }
+ },
+ "launch": {
+  "x_post": "draft only, nothing posted",
+  "x_media": "out/final/meaning_share.mp4",
+  "checks": []
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "lyrics_file": "tokens/lyrics.sing.txt",
+ "bpm": 100,
+ "duration": 260,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "batch": 2,
+ "key": "Bb Major",
+ "offload": true,
+ "name": "tokens-m1_capA",
+ "seeds": [
+  201,
+  202,
+  203,
+  204,
+  205,
+  206,
+  207,
+  208
+ ],
+ "caption": "1960s Motown girl group soul, 100 BPM, tambourine on the backbeat, handclaps, melodic walking bass, bright horn section, vibraphone and piano, warm female lead vocal singing slowly with clear, relaxed diction, three-part girl group backing vocals answering every line in call and response, joyful and unhurried, instrumental breaks between sections, polished production"
+}

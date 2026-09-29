@@ -1,0 +1,19 @@
+{
+ "name": "t0_turbo2b",
+ "dit": "acestep-v15-turbo",
+ "lm": "acestep-5Hz-lm-1.7B",
+ "caption": "Upbeat synth-pop with a bright, clear female lead vocal and crisp diction, catchy anthemic chorus, punchy drums, driving synth bass, sparkling arpeggiated synths, sidechained pads, playful witty nerdy love song, polished modern pop production",
+ "lyrics_file": "lyrics.sing.txt",
+ "bpm": 132,
+ "duration": 170,
+ "steps": 8,
+ "shift": 3.0,
+ "seeds": [
+  11,
+  12,
+  13,
+  14
+ ],
+ "batch": 4,
+ "key": "Eb Major"
+}

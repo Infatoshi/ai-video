@@ -1,0 +1,62 @@
+[Intro]
+
+[Verse 1]
+Before a chatbot reads a word, it looks it up
+In a table with a row for every word it knows
+Find the word rain and read along its row
+Four thousand ninety-six numbers, that’s all it holds
+That list of numbers is the word's embedding
+No letters and no clouds, just numbers in a line
+It doesn't know what rain is, only where it is
+So let's go and find it
+
+[Chorus]
+Every word is a list of numbers
+And every list is a place
+Words that mean alike live close together
+And meaning is a direction in the space
+
+[Instrumental]
+
+[Verse 2]
+Close means two lists point the same way
+One means the same, and zero means unrelated
+Next to three are four and two and five
+Nobody put them there, it learned it from the text
+Next to rain is Rain, with a capital R
+Then rains, then snow, then wind and storm
+The closest thing to a word is its own spelling
+Then the words that mean the same
+
+[Chorus]
+Every word is a list of numbers
+And every list is a place
+Words that mean alike live close together
+And meaning is a direction in the space
+
+[Instrumental]
+
+[Verse 3]
+Now draw an arrow from man to woman
+Pick it up and start it at boy
+Follow the arrow and you land on girl
+Start it at father, you land on mother
+So a direction can carry a meaning
+Now the famous one, start it at king
+You get King and KING and King again
+And then queen, in fourth place
+
+[Instrumental]
+
+[Bridge]
+It isn't magic and it isn't perfect
+The spelling pulls harder than the crown
+
+[Chorus]
+Every word is a list of numbers
+And every list is a place
+Words that mean alike live close together
+And meaning is a direction in the space
+
+[Outro]
+Next time, the words look at each other

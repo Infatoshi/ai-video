@@ -1,0 +1,2698 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "Type a question, hit enter, now it's gone to the machine,",
+      "start": 10.6,
+      "end": 13.39,
+      "words": [
+        {
+          "w": "Type",
+          "start": 10.6,
+          "end": 10.915,
+          "conf": 0.86
+        },
+        {
+          "w": "a",
+          "start": 10.915,
+          "end": 11.02,
+          "conf": 0.78
+        },
+        {
+          "w": "question,",
+          "start": 11.02,
+          "end": 11.239,
+          "conf": 1.0
+        },
+        {
+          "w": "hit",
+          "start": 11.239,
+          "end": 11.619,
+          "conf": 1.0
+        },
+        {
+          "w": "enter,",
+          "start": 11.708,
+          "end": 11.983,
+          "conf": 0.76
+        },
+        {
+          "w": "now",
+          "start": 11.983,
+          "end": 12.26,
+          "conf": 1.0
+        },
+        {
+          "w": "it's",
+          "start": 12.26,
+          "end": 12.377,
+          "conf": 0.85
+        },
+        {
+          "w": "gone",
+          "start": 12.377,
+          "end": 12.62,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 12.62,
+          "end": 12.786,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 12.786,
+          "end": 12.86,
+          "conf": 1.0
+        },
+        {
+          "w": "machine,",
+          "start": 12.86,
+          "end": 13.39,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "Chopped up into tokens, little pieces that it's seen,",
+      "start": 13.39,
+      "end": 16.208,
+      "words": [
+        {
+          "w": "Chopped",
+          "start": 13.39,
+          "end": 13.863,
+          "conf": 0.8
+        },
+        {
+          "w": "up",
+          "start": 13.863,
+          "end": 13.978,
+          "conf": 0.85
+        },
+        {
+          "w": "into",
+          "start": 14.108,
+          "end": 14.322,
+          "conf": 0.85
+        },
+        {
+          "w": "tokens,",
+          "start": 14.322,
+          "end": 14.88,
+          "conf": 0.99
+        },
+        {
+          "w": "little",
+          "start": 14.88,
+          "end": 15.076,
+          "conf": 0.85
+        },
+        {
+          "w": "pieces",
+          "start": 15.14,
+          "end": 15.52,
+          "conf": 0.85
+        },
+        {
+          "w": "that",
+          "start": 15.52,
+          "end": 15.7,
+          "conf": 0.85
+        },
+        {
+          "w": "it's",
+          "start": 15.7,
+          "end": 15.819,
+          "conf": 1.0
+        },
+        {
+          "w": "seen,",
+          "start": 15.819,
+          "end": 16.208,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "It don't see letters, only chunks that it knows,",
+      "start": 16.42,
+      "end": 18.932,
+      "words": [
+        {
+          "w": "It",
+          "start": 16.42,
+          "end": 16.54,
+          "conf": 0.85
+        },
+        {
+          "w": "don't",
+          "start": 16.54,
+          "end": 16.747,
+          "conf": 0.85
+        },
+        {
+          "w": "see",
+          "start": 16.747,
+          "end": 17.2,
+          "conf": 1.0
+        },
+        {
+          "w": "letters,",
+          "start": 17.2,
+          "end": 17.64,
+          "conf": 0.85
+        },
+        {
+          "w": "only",
+          "start": 17.64,
+          "end": 17.834,
+          "conf": 0.85
+        },
+        {
+          "w": "chunks",
+          "start": 17.834,
+          "end": 18.28,
+          "conf": 0.85
+        },
+        {
+          "w": "that",
+          "start": 18.28,
+          "end": 18.48,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 18.48,
+          "end": 18.62,
+          "conf": 0.85
+        },
+        {
+          "w": "knows,",
+          "start": 18.62,
+          "end": 18.932,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "So count the R's in strawberry and watch how it goes,",
+      "start": 19.062,
+      "end": 21.8,
+      "words": [
+        {
+          "w": "So",
+          "start": 19.062,
+          "end": 19.301,
+          "conf": 0.85
+        },
+        {
+          "w": "count",
+          "start": 19.301,
+          "end": 19.5,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 19.5,
+          "end": 19.675,
+          "conf": 1.0
+        },
+        {
+          "w": "R's",
+          "start": 19.675,
+          "end": 19.88,
+          "conf": 0.96
+        },
+        {
+          "w": "in",
+          "start": 19.88,
+          "end": 19.98,
+          "conf": 0.94
+        },
+        {
+          "w": "strawberry",
+          "start": 19.98,
+          "end": 20.58,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 20.58,
+          "end": 20.723,
+          "conf": 0.85
+        },
+        {
+          "w": "watch",
+          "start": 20.723,
+          "end": 20.957,
+          "conf": 1.0
+        },
+        {
+          "w": "how",
+          "start": 20.957,
+          "end": 21.24,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 21.24,
+          "end": 21.38,
+          "conf": 0.85
+        },
+        {
+          "w": "goes,",
+          "start": 21.38,
+          "end": 21.8,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "Every token is a vector, four thousand wide,",
+      "start": 21.8,
+      "end": 24.489,
+      "words": [
+        {
+          "w": "Every",
+          "start": 21.8,
+          "end": 21.94,
+          "conf": 0.85
+        },
+        {
+          "w": "token",
+          "start": 21.94,
+          "end": 22.449,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 22.449,
+          "end": 22.62,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 22.62,
+          "end": 22.74,
+          "conf": 0.93
+        },
+        {
+          "w": "vector,",
+          "start": 22.74,
+          "end": 23.157,
+          "conf": 0.98
+        },
+        {
+          "w": "four",
+          "start": 23.357,
+          "end": 23.681,
+          "conf": 0.74
+        },
+        {
+          "w": "thousand",
+          "start": 23.76,
+          "end": 24.04,
+          "conf": 0.85
+        },
+        {
+          "w": "wide,",
+          "start": 24.04,
+          "end": 24.489,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "Words that mean the same thing end up side by side,",
+      "start": 24.8,
+      "end": 27.24,
+      "words": [
+        {
+          "w": "Words",
+          "start": 24.8,
+          "end": 25.02,
+          "conf": 0.85
+        },
+        {
+          "w": "that",
+          "start": 25.02,
+          "end": 25.16,
+          "conf": 0.92
+        },
+        {
+          "w": "mean",
+          "start": 25.16,
+          "end": 25.32,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 25.32,
+          "end": 25.417,
+          "conf": 0.92
+        },
+        {
+          "w": "same",
+          "start": 25.417,
+          "end": 25.756,
+          "conf": 1.0
+        },
+        {
+          "w": "thing",
+          "start": 25.756,
+          "end": 26.22,
+          "conf": 0.85
+        },
+        {
+          "w": "end",
+          "start": 26.22,
+          "end": 26.38,
+          "conf": 0.83
+        },
+        {
+          "w": "up",
+          "start": 26.38,
+          "end": 26.48,
+          "conf": 1.0
+        },
+        {
+          "w": "side",
+          "start": 26.48,
+          "end": 26.72,
+          "conf": 1.0
+        },
+        {
+          "w": "by",
+          "start": 26.72,
+          "end": 26.819,
+          "conf": 1.0
+        },
+        {
+          "w": "side,",
+          "start": 26.819,
+          "end": 27.24,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "Now the sentence is a stack of numbers standing tall,",
+      "start": 27.24,
+      "end": 29.628,
+      "words": [
+        {
+          "w": "Now",
+          "start": 27.24,
+          "end": 27.4,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 27.4,
+          "end": 27.498,
+          "conf": 1.0
+        },
+        {
+          "w": "sentence",
+          "start": 27.498,
+          "end": 27.96,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 27.96,
+          "end": 28.1,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 28.1,
+          "end": 28.2,
+          "conf": 1.0
+        },
+        {
+          "w": "stack",
+          "start": 28.2,
+          "end": 28.5,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 28.5,
+          "end": 28.62,
+          "conf": 0.85
+        },
+        {
+          "w": "numbers",
+          "start": 28.62,
+          "end": 28.879,
+          "conf": 1.0
+        },
+        {
+          "w": "standing",
+          "start": 28.879,
+          "end": 29.174,
+          "conf": 1.0
+        },
+        {
+          "w": "tall,",
+          "start": 29.174,
+          "end": 29.628,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "Thirty-two floors in the tower and it's gotta climb them all",
+      "start": 29.907,
+      "end": 33.085,
+      "words": [
+        {
+          "w": "Thirty-two",
+          "start": 29.907,
+          "end": 30.561,
+          "conf": 0.85,
+          "syl": [
+            [
+              29.907,
+              30.196
+            ],
+            [
+              30.196,
+              30.561
+            ]
+          ]
+        },
+        {
+          "w": "floors",
+          "start": 30.561,
+          "end": 31.08,
+          "conf": 0.85
+        },
+        {
+          "w": "in",
+          "start": 31.08,
+          "end": 31.16,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 31.16,
+          "end": 31.34,
+          "conf": 1.0
+        },
+        {
+          "w": "tower",
+          "start": 31.34,
+          "end": 31.668,
+          "conf": 0.85
+        },
+        {
+          "w": "and",
+          "start": 31.668,
+          "end": 31.9,
+          "conf": 1.0
+        },
+        {
+          "w": "it's",
+          "start": 31.9,
+          "end": 32.06,
+          "conf": 1.0
+        },
+        {
+          "w": "gotta",
+          "start": 32.06,
+          "end": 32.381,
+          "conf": 1.0
+        },
+        {
+          "w": "climb",
+          "start": 32.381,
+          "end": 32.62,
+          "conf": 0.85
+        },
+        {
+          "w": "them",
+          "start": 32.62,
+          "end": 32.82,
+          "conf": 1.0
+        },
+        {
+          "w": "all",
+          "start": 32.82,
+          "end": 33.085,
+          "conf": 0.51
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "Just one more token,",
+      "start": 33.085,
+      "end": 35.454,
+      "words": [
+        {
+          "w": "Just",
+          "start": 33.085,
+          "end": 33.92,
+          "conf": 0.84
+        },
+        {
+          "w": "one",
+          "start": 33.92,
+          "end": 34.12,
+          "conf": 0.66
+        },
+        {
+          "w": "more",
+          "start": 34.12,
+          "end": 34.46,
+          "conf": 0.78
+        },
+        {
+          "w": "token,",
+          "start": 34.46,
+          "end": 35.454,
+          "conf": 0.74
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "One more roll of the dice,",
+      "start": 35.898,
+      "end": 37.849,
+      "words": [
+        {
+          "w": "One",
+          "start": 35.898,
+          "end": 36.18,
+          "conf": 0.85
+        },
+        {
+          "w": "more",
+          "start": 36.18,
+          "end": 36.54,
+          "conf": 0.82
+        },
+        {
+          "w": "roll",
+          "start": 36.54,
+          "end": 36.82,
+          "conf": 0.85
+        },
+        {
+          "w": "of",
+          "start": 36.82,
+          "end": 36.9,
+          "conf": 0.8
+        },
+        {
+          "w": "the",
+          "start": 36.9,
+          "end": 37.06,
+          "conf": 0.92
+        },
+        {
+          "w": "dice,",
+          "start": 37.06,
+          "end": 37.849,
+          "conf": 0.93
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "Guess it, pick it, feed it back in,",
+      "start": 38.24,
+      "end": 40.872,
+      "words": [
+        {
+          "w": "Guess",
+          "start": 38.24,
+          "end": 38.56,
+          "conf": 0.82
+        },
+        {
+          "w": "it,",
+          "start": 38.56,
+          "end": 38.647,
+          "conf": 0.74
+        },
+        {
+          "w": "pick",
+          "start": 38.94,
+          "end": 39.191,
+          "conf": 0.7
+        },
+        {
+          "w": "it,",
+          "start": 39.191,
+          "end": 39.47,
+          "conf": 0.68
+        },
+        {
+          "w": "feed",
+          "start": 39.47,
+          "end": 39.86,
+          "conf": 0.96
+        },
+        {
+          "w": "it",
+          "start": 39.86,
+          "end": 39.939,
+          "conf": 0.7
+        },
+        {
+          "w": "back",
+          "start": 40.0,
+          "end": 40.239,
+          "conf": 0.94
+        },
+        {
+          "w": "in,",
+          "start": 40.348,
+          "end": 40.872,
+          "conf": 0.53
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "And do it again all night",
+      "start": 41.22,
+      "end": 43.207,
+      "words": [
+        {
+          "w": "And",
+          "start": 41.22,
+          "end": 41.34,
+          "conf": 0.84
+        },
+        {
+          "w": "do",
+          "start": 41.34,
+          "end": 41.64,
+          "conf": 0.94
+        },
+        {
+          "w": "it",
+          "start": 41.64,
+          "end": 41.78,
+          "conf": 0.71
+        },
+        {
+          "w": "again",
+          "start": 41.78,
+          "end": 42.284,
+          "conf": 0.81
+        },
+        {
+          "w": "all",
+          "start": 42.284,
+          "end": 42.52,
+          "conf": 0.6
+        },
+        {
+          "w": "night",
+          "start": 42.52,
+          "end": 43.207,
+          "conf": 0.61
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "Every token looks back at the words that came first,",
+      "start": 43.761,
+      "end": 46.579,
+      "words": [
+        {
+          "w": "Every",
+          "start": 43.761,
+          "end": 43.985,
+          "conf": 1.0
+        },
+        {
+          "w": "token",
+          "start": 43.985,
+          "end": 44.48,
+          "conf": 1.0
+        },
+        {
+          "w": "looks",
+          "start": 44.48,
+          "end": 44.733,
+          "conf": 0.85
+        },
+        {
+          "w": "back",
+          "start": 44.82,
+          "end": 45.167,
+          "conf": 0.85
+        },
+        {
+          "w": "at",
+          "start": 45.167,
+          "end": 45.32,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 45.32,
+          "end": 45.46,
+          "conf": 1.0
+        },
+        {
+          "w": "words",
+          "start": 45.46,
+          "end": 45.7,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 45.7,
+          "end": 45.886,
+          "conf": 1.0
+        },
+        {
+          "w": "came",
+          "start": 45.886,
+          "end": 46.12,
+          "conf": 1.0
+        },
+        {
+          "w": "first,",
+          "start": 46.12,
+          "end": 46.579,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "Asks who matters to me, gives a weight to each word,",
+      "start": 46.579,
+      "end": 49.263,
+      "words": [
+        {
+          "w": "Asks",
+          "start": 46.579,
+          "end": 46.74,
+          "conf": 0.99
+        },
+        {
+          "w": "who",
+          "start": 46.74,
+          "end": 46.928,
+          "conf": 0.89
+        },
+        {
+          "w": "matters",
+          "start": 46.928,
+          "end": 47.22,
+          "conf": 0.85
+        },
+        {
+          "w": "to",
+          "start": 47.22,
+          "end": 47.42,
+          "conf": 0.85
+        },
+        {
+          "w": "me,",
+          "start": 47.42,
+          "end": 47.652,
+          "conf": 0.85
+        },
+        {
+          "w": "gives",
+          "start": 47.9,
+          "end": 48.14,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 48.14,
+          "end": 48.24,
+          "conf": 0.85
+        },
+        {
+          "w": "weight",
+          "start": 48.24,
+          "end": 48.46,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 48.46,
+          "end": 48.68,
+          "conf": 1.0
+        },
+        {
+          "w": "each",
+          "start": 48.68,
+          "end": 48.96,
+          "conf": 0.85
+        },
+        {
+          "w": "word,",
+          "start": 48.96,
+          "end": 49.263,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "The strongest ones pull and it blends what they say,",
+      "start": 49.44,
+      "end": 52.06,
+      "words": [
+        {
+          "w": "The",
+          "start": 49.44,
+          "end": 49.537,
+          "conf": 0.85
+        },
+        {
+          "w": "strongest",
+          "start": 49.537,
+          "end": 50.036,
+          "conf": 1.0
+        },
+        {
+          "w": "ones",
+          "start": 50.036,
+          "end": 50.261,
+          "conf": 0.85
+        },
+        {
+          "w": "pull",
+          "start": 50.32,
+          "end": 50.74,
+          "conf": 0.85
+        },
+        {
+          "w": "and",
+          "start": 50.74,
+          "end": 50.86,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 50.86,
+          "end": 51.0,
+          "conf": 1.0
+        },
+        {
+          "w": "blends",
+          "start": 51.0,
+          "end": 51.36,
+          "conf": 1.0
+        },
+        {
+          "w": "what",
+          "start": 51.36,
+          "end": 51.463,
+          "conf": 0.85
+        },
+        {
+          "w": "they",
+          "start": 51.463,
+          "end": 51.628,
+          "conf": 1.0
+        },
+        {
+          "w": "say,",
+          "start": 51.628,
+          "end": 52.06,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "That's attention, thirty-two heads, each doing it its own way,",
+      "start": 52.06,
+      "end": 55.12,
+      "words": [
+        {
+          "w": "That's",
+          "start": 52.06,
+          "end": 52.28,
+          "conf": 0.85
+        },
+        {
+          "w": "attention,",
+          "start": 52.28,
+          "end": 52.576,
+          "conf": 1.0
+        },
+        {
+          "w": "thirty-two",
+          "start": 52.576,
+          "end": 53.289,
+          "conf": 0.85,
+          "syl": [
+            [
+              52.576,
+              52.96
+            ],
+            [
+              52.96,
+              53.289
+            ]
+          ]
+        },
+        {
+          "w": "heads,",
+          "start": 53.289,
+          "end": 53.62,
+          "conf": 0.85
+        },
+        {
+          "w": "each",
+          "start": 53.62,
+          "end": 53.78,
+          "conf": 0.85
+        },
+        {
+          "w": "doing",
+          "start": 53.78,
+          "end": 54.172,
+          "conf": 0.93
+        },
+        {
+          "w": "it",
+          "start": 54.172,
+          "end": 54.34,
+          "conf": 0.76
+        },
+        {
+          "w": "its",
+          "start": 54.34,
+          "end": 54.541,
+          "conf": 1.0
+        },
+        {
+          "w": "own",
+          "start": 54.541,
+          "end": 54.82,
+          "conf": 0.77
+        },
+        {
+          "w": "way,",
+          "start": 54.82,
+          "end": 55.12,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "Then the feed-forward fires where the facts are kept,",
+      "start": 55.399,
+      "end": 57.913,
+      "words": [
+        {
+          "w": "Then",
+          "start": 55.399,
+          "end": 55.68,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 55.68,
+          "end": 55.778,
+          "conf": 0.85
+        },
+        {
+          "w": "feed-forward",
+          "start": 55.778,
+          "end": 56.467,
+          "conf": 0.92,
+          "syl": [
+            [
+              55.778,
+              56.112
+            ],
+            [
+              56.112,
+              56.467
+            ]
+          ]
+        },
+        {
+          "w": "fires",
+          "start": 56.467,
+          "end": 56.92,
+          "conf": 0.85
+        },
+        {
+          "w": "where",
+          "start": 56.92,
+          "end": 57.02,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 57.02,
+          "end": 57.13,
+          "conf": 1.0
+        },
+        {
+          "w": "facts",
+          "start": 57.13,
+          "end": 57.504,
+          "conf": 1.0
+        },
+        {
+          "w": "are",
+          "start": 57.504,
+          "end": 57.6,
+          "conf": 0.85
+        },
+        {
+          "w": "kept,",
+          "start": 57.6,
+          "end": 57.913,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "Fourteen thousand neurons every single step,",
+      "start": 58.163,
+      "end": 60.56,
+      "words": [
+        {
+          "w": "Fourteen",
+          "start": 58.163,
+          "end": 58.457,
+          "conf": 0.84
+        },
+        {
+          "w": "thousand",
+          "start": 58.457,
+          "end": 58.896,
+          "conf": 1.0
+        },
+        {
+          "w": "neurons",
+          "start": 58.896,
+          "end": 59.694,
+          "conf": 1.0
+        },
+        {
+          "w": "every",
+          "start": 59.694,
+          "end": 59.899,
+          "conf": 0.85
+        },
+        {
+          "w": "single",
+          "start": 59.899,
+          "end": 60.238,
+          "conf": 0.85
+        },
+        {
+          "w": "step,",
+          "start": 60.238,
+          "end": 60.56,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "Attention, feed-forward, that's one floor of the tower,",
+      "start": 60.56,
+      "end": 62.997,
+      "words": [
+        {
+          "w": "Attention,",
+          "start": 60.56,
+          "end": 60.961,
+          "conf": 1.0
+        },
+        {
+          "w": "feed-forward,",
+          "start": 60.961,
+          "end": 61.615,
+          "conf": 0.92,
+          "syl": [
+            [
+              60.961,
+              61.286
+            ],
+            [
+              61.286,
+              61.615
+            ]
+          ]
+        },
+        {
+          "w": "that's",
+          "start": 61.615,
+          "end": 62.079,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 62.079,
+          "end": 62.189,
+          "conf": 0.85
+        },
+        {
+          "w": "floor",
+          "start": 62.189,
+          "end": 62.48,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 62.48,
+          "end": 62.608,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 62.608,
+          "end": 62.7,
+          "conf": 1.0
+        },
+        {
+          "w": "tower,",
+          "start": 62.7,
+          "end": 62.997,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "Stack it thirty-two high, that's where it gets its power",
+      "start": 62.997,
+      "end": 65.875,
+      "words": [
+        {
+          "w": "Stack",
+          "start": 62.997,
+          "end": 63.3,
+          "conf": 0.92
+        },
+        {
+          "w": "it",
+          "start": 63.3,
+          "end": 63.396,
+          "conf": 0.89
+        },
+        {
+          "w": "thirty-two",
+          "start": 63.396,
+          "end": 64.089,
+          "conf": 0.86,
+          "syl": [
+            [
+              63.396,
+              63.655
+            ],
+            [
+              63.655,
+              64.089
+            ]
+          ]
+        },
+        {
+          "w": "high,",
+          "start": 64.089,
+          "end": 64.424,
+          "conf": 0.85
+        },
+        {
+          "w": "that's",
+          "start": 64.62,
+          "end": 64.82,
+          "conf": 0.85
+        },
+        {
+          "w": "where",
+          "start": 64.82,
+          "end": 65.04,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 65.04,
+          "end": 65.14,
+          "conf": 0.83
+        },
+        {
+          "w": "gets",
+          "start": 65.14,
+          "end": 65.36,
+          "conf": 1.0
+        },
+        {
+          "w": "its",
+          "start": 65.36,
+          "end": 65.5,
+          "conf": 1.0
+        },
+        {
+          "w": "power",
+          "start": 65.5,
+          "end": 65.875,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "Just one more token,",
+      "start": 66.16,
+      "end": 68.634,
+      "words": [
+        {
+          "w": "Just",
+          "start": 66.16,
+          "end": 66.933,
+          "conf": 0.72
+        },
+        {
+          "w": "one",
+          "start": 66.933,
+          "end": 67.24,
+          "conf": 0.69
+        },
+        {
+          "w": "more",
+          "start": 67.24,
+          "end": 67.5,
+          "conf": 0.68
+        },
+        {
+          "w": "token,",
+          "start": 67.5,
+          "end": 68.634,
+          "conf": 0.62
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "One more roll of the dice,",
+      "start": 68.933,
+      "end": 70.904,
+      "words": [
+        {
+          "w": "One",
+          "start": 68.933,
+          "end": 69.3,
+          "conf": 0.74
+        },
+        {
+          "w": "more",
+          "start": 69.3,
+          "end": 69.66,
+          "conf": 0.75
+        },
+        {
+          "w": "roll",
+          "start": 69.66,
+          "end": 69.92,
+          "conf": 0.74
+        },
+        {
+          "w": "of",
+          "start": 69.92,
+          "end": 70.0,
+          "conf": 0.88
+        },
+        {
+          "w": "the",
+          "start": 70.0,
+          "end": 70.086,
+          "conf": 0.89
+        },
+        {
+          "w": "dice,",
+          "start": 70.16,
+          "end": 70.904,
+          "conf": 0.87
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "Guess it, pick it, feed it back in,",
+      "start": 71.238,
+      "end": 74.027,
+      "words": [
+        {
+          "w": "Guess",
+          "start": 71.238,
+          "end": 71.64,
+          "conf": 0.64
+        },
+        {
+          "w": "it,",
+          "start": 71.64,
+          "end": 71.772,
+          "conf": 0.58
+        },
+        {
+          "w": "pick",
+          "start": 72.04,
+          "end": 72.276,
+          "conf": 0.67
+        },
+        {
+          "w": "it,",
+          "start": 72.276,
+          "end": 72.445,
+          "conf": 0.83
+        },
+        {
+          "w": "feed",
+          "start": 72.68,
+          "end": 72.98,
+          "conf": 0.77
+        },
+        {
+          "w": "it",
+          "start": 72.98,
+          "end": 73.1,
+          "conf": 0.72
+        },
+        {
+          "w": "back",
+          "start": 73.1,
+          "end": 73.338,
+          "conf": 0.89
+        },
+        {
+          "w": "in,",
+          "start": 73.483,
+          "end": 74.027,
+          "conf": 0.65
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "And do it again all night",
+      "start": 74.341,
+      "end": 76.92,
+      "words": [
+        {
+          "w": "And",
+          "start": 74.341,
+          "end": 74.436,
+          "conf": 0.76
+        },
+        {
+          "w": "do",
+          "start": 74.436,
+          "end": 74.78,
+          "conf": 0.86
+        },
+        {
+          "w": "it",
+          "start": 74.78,
+          "end": 74.88,
+          "conf": 0.62
+        },
+        {
+          "w": "again",
+          "start": 74.88,
+          "end": 75.56,
+          "conf": 0.73
+        },
+        {
+          "w": "all",
+          "start": 75.56,
+          "end": 75.72,
+          "conf": 0.53
+        },
+        {
+          "w": "night",
+          "start": 75.72,
+          "end": 76.92,
+          "conf": 0.6
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "At the top of the tower every word gets a score,",
+      "start": 76.92,
+      "end": 79.639,
+      "words": [
+        {
+          "w": "At",
+          "start": 76.92,
+          "end": 77.06,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 77.06,
+          "end": 77.2,
+          "conf": 1.0
+        },
+        {
+          "w": "top",
+          "start": 77.2,
+          "end": 77.479,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 77.549,
+          "end": 77.768,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 77.768,
+          "end": 77.88,
+          "conf": 1.0
+        },
+        {
+          "w": "tower",
+          "start": 77.88,
+          "end": 78.34,
+          "conf": 1.0
+        },
+        {
+          "w": "every",
+          "start": 78.34,
+          "end": 78.482,
+          "conf": 0.85
+        },
+        {
+          "w": "word",
+          "start": 78.482,
+          "end": 78.94,
+          "conf": 0.96
+        },
+        {
+          "w": "gets",
+          "start": 78.94,
+          "end": 79.16,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 79.16,
+          "end": 79.24,
+          "conf": 0.82
+        },
+        {
+          "w": "score,",
+          "start": 79.24,
+          "end": 79.639,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "A hundred twenty-eight thousand, all in the draw,",
+      "start": 79.754,
+      "end": 82.318,
+      "words": [
+        {
+          "w": "A",
+          "start": 79.754,
+          "end": 79.928,
+          "conf": 0.95
+        },
+        {
+          "w": "hundred",
+          "start": 79.928,
+          "end": 80.208,
+          "conf": 0.96
+        },
+        {
+          "w": "twenty-eight",
+          "start": 80.208,
+          "end": 80.741,
+          "conf": 0.91,
+          "syl": [
+            [
+              80.208,
+              80.552
+            ],
+            [
+              80.552,
+              80.741
+            ]
+          ]
+        },
+        {
+          "w": "thousand,",
+          "start": 80.741,
+          "end": 81.245,
+          "conf": 0.99
+        },
+        {
+          "w": "all",
+          "start": 81.41,
+          "end": 81.76,
+          "conf": 0.85
+        },
+        {
+          "w": "in",
+          "start": 81.76,
+          "end": 81.88,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 81.88,
+          "end": 82.02,
+          "conf": 1.0
+        },
+        {
+          "w": "draw,",
+          "start": 82.02,
+          "end": 82.318,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "Softmax turns them into odds with the temperature set,",
+      "start": 82.318,
+      "end": 84.857,
+      "words": [
+        {
+          "w": "Softmax",
+          "start": 82.318,
+          "end": 82.78,
+          "conf": 0.97
+        },
+        {
+          "w": "turns",
+          "start": 82.78,
+          "end": 82.98,
+          "conf": 1.0
+        },
+        {
+          "w": "them",
+          "start": 82.98,
+          "end": 83.16,
+          "conf": 0.92
+        },
+        {
+          "w": "into",
+          "start": 83.16,
+          "end": 83.48,
+          "conf": 1.0
+        },
+        {
+          "w": "odds",
+          "start": 83.48,
+          "end": 83.8,
+          "conf": 0.85
+        },
+        {
+          "w": "with",
+          "start": 83.8,
+          "end": 83.96,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 83.96,
+          "end": 84.08,
+          "conf": 0.85
+        },
+        {
+          "w": "temperature",
+          "start": 84.08,
+          "end": 84.543,
+          "conf": 1.0
+        },
+        {
+          "w": "set,",
+          "start": 84.543,
+          "end": 84.857,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "Keep it low and it's safe, turn it up, it's a bet,",
+      "start": 85.14,
+      "end": 87.89,
+      "words": [
+        {
+          "w": "Keep",
+          "start": 85.14,
+          "end": 85.376,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 85.376,
+          "end": 85.471,
+          "conf": 0.85
+        },
+        {
+          "w": "low",
+          "start": 85.471,
+          "end": 85.895,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 85.895,
+          "end": 86.04,
+          "conf": 0.79
+        },
+        {
+          "w": "it's",
+          "start": 86.04,
+          "end": 86.179,
+          "conf": 0.85
+        },
+        {
+          "w": "safe,",
+          "start": 86.179,
+          "end": 86.52,
+          "conf": 1.0
+        },
+        {
+          "w": "turn",
+          "start": 86.52,
+          "end": 86.773,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 86.773,
+          "end": 86.932,
+          "conf": 0.85
+        },
+        {
+          "w": "up,",
+          "start": 86.932,
+          "end": 87.077,
+          "conf": 0.85
+        },
+        {
+          "w": "it's",
+          "start": 87.202,
+          "end": 87.44,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 87.44,
+          "end": 87.56,
+          "conf": 0.99
+        },
+        {
+          "w": "bet,",
+          "start": 87.56,
+          "end": 87.89,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "Roll the dice, one token, stick it on the end,",
+      "start": 87.89,
+      "end": 90.604,
+      "words": [
+        {
+          "w": "Roll",
+          "start": 87.89,
+          "end": 88.145,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 88.145,
+          "end": 88.26,
+          "conf": 1.0
+        },
+        {
+          "w": "dice,",
+          "start": 88.26,
+          "end": 88.76,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 88.76,
+          "end": 88.92,
+          "conf": 0.85
+        },
+        {
+          "w": "token,",
+          "start": 88.92,
+          "end": 89.312,
+          "conf": 0.85
+        },
+        {
+          "w": "stick",
+          "start": 89.407,
+          "end": 89.851,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 89.851,
+          "end": 90.015,
+          "conf": 0.85
+        },
+        {
+          "w": "on",
+          "start": 90.015,
+          "end": 90.23,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 90.23,
+          "end": 90.39,
+          "conf": 0.92
+        },
+        {
+          "w": "end,",
+          "start": 90.39,
+          "end": 90.604,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "Feed the whole thing back and do it over again,",
+      "start": 90.604,
+      "end": 93.298,
+      "words": [
+        {
+          "w": "Feed",
+          "start": 90.604,
+          "end": 90.86,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 90.86,
+          "end": 91.04,
+          "conf": 0.92
+        },
+        {
+          "w": "whole",
+          "start": 91.04,
+          "end": 91.283,
+          "conf": 0.92
+        },
+        {
+          "w": "thing",
+          "start": 91.283,
+          "end": 91.7,
+          "conf": 0.85
+        },
+        {
+          "w": "back",
+          "start": 91.7,
+          "end": 91.94,
+          "conf": 0.85
+        },
+        {
+          "w": "and",
+          "start": 91.94,
+          "end": 92.06,
+          "conf": 0.84
+        },
+        {
+          "w": "do",
+          "start": 92.06,
+          "end": 92.275,
+          "conf": 0.94
+        },
+        {
+          "w": "it",
+          "start": 92.275,
+          "end": 92.48,
+          "conf": 0.77
+        },
+        {
+          "w": "over",
+          "start": 92.48,
+          "end": 92.82,
+          "conf": 0.85
+        },
+        {
+          "w": "again,",
+          "start": 92.82,
+          "end": 93.298,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "But the keys and the values that it made, it can keep,",
+      "start": 93.44,
+      "end": 96.08,
+      "words": [
+        {
+          "w": "But",
+          "start": 93.44,
+          "end": 93.62,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 93.62,
+          "end": 93.76,
+          "conf": 0.85
+        },
+        {
+          "w": "keys",
+          "start": 93.76,
+          "end": 94.171,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 94.171,
+          "end": 94.3,
+          "conf": 0.84
+        },
+        {
+          "w": "the",
+          "start": 94.3,
+          "end": 94.44,
+          "conf": 1.0
+        },
+        {
+          "w": "values",
+          "start": 94.44,
+          "end": 94.84,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 94.84,
+          "end": 95.02,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 95.02,
+          "end": 95.124,
+          "conf": 0.97
+        },
+        {
+          "w": "made,",
+          "start": 95.124,
+          "end": 95.58,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 95.58,
+          "end": 95.66,
+          "conf": 0.85
+        },
+        {
+          "w": "can",
+          "start": 95.66,
+          "end": 95.86,
+          "conf": 1.0
+        },
+        {
+          "w": "keep,",
+          "start": 95.86,
+          "end": 96.08,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "That's the K-V cache, so the past comes cheap",
+      "start": 96.08,
+      "end": 98.84,
+      "words": [
+        {
+          "w": "That's",
+          "start": 96.08,
+          "end": 96.38,
+          "conf": 0.75
+        },
+        {
+          "w": "the",
+          "start": 96.38,
+          "end": 96.52,
+          "conf": 1.0
+        },
+        {
+          "w": "K-V",
+          "start": 96.52,
+          "end": 97.104,
+          "conf": 1.0,
+          "syl": [
+            [
+              96.52,
+              96.86
+            ],
+            [
+              96.86,
+              97.104
+            ]
+          ]
+        },
+        {
+          "w": "cache,",
+          "start": 97.18,
+          "end": 97.444,
+          "conf": 0.79
+        },
+        {
+          "w": "so",
+          "start": 97.444,
+          "end": 97.74,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 97.74,
+          "end": 97.818,
+          "conf": 0.85
+        },
+        {
+          "w": "past",
+          "start": 97.9,
+          "end": 98.26,
+          "conf": 0.85
+        },
+        {
+          "w": "comes",
+          "start": 98.26,
+          "end": 98.556,
+          "conf": 0.85
+        },
+        {
+          "w": "cheap",
+          "start": 98.556,
+          "end": 98.84,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "Every single token, it reads every weight,",
+      "start": 99.304,
+      "end": 101.589,
+      "words": [
+        {
+          "w": "Every",
+          "start": 99.304,
+          "end": 99.549,
+          "conf": 0.85
+        },
+        {
+          "w": "single",
+          "start": 99.549,
+          "end": 99.863,
+          "conf": 1.0
+        },
+        {
+          "w": "token,",
+          "start": 99.863,
+          "end": 100.357,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 100.56,
+          "end": 100.72,
+          "conf": 0.85
+        },
+        {
+          "w": "reads",
+          "start": 100.72,
+          "end": 101.1,
+          "conf": 0.85
+        },
+        {
+          "w": "every",
+          "start": 101.1,
+          "end": 101.41,
+          "conf": 0.85
+        },
+        {
+          "w": "weight,",
+          "start": 101.41,
+          "end": 101.589,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "Sixteen gigs from memory while the math just waits",
+      "start": 101.589,
+      "end": 104.572,
+      "words": [
+        {
+          "w": "Sixteen",
+          "start": 101.589,
+          "end": 102.38,
+          "conf": 1.0
+        },
+        {
+          "w": "gigs",
+          "start": 102.38,
+          "end": 102.597,
+          "conf": 0.85
+        },
+        {
+          "w": "from",
+          "start": 102.597,
+          "end": 102.78,
+          "conf": 0.85
+        },
+        {
+          "w": "memory",
+          "start": 102.78,
+          "end": 103.006,
+          "conf": 1.0
+        },
+        {
+          "w": "while",
+          "start": 103.006,
+          "end": 103.3,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 103.3,
+          "end": 103.46,
+          "conf": 1.0
+        },
+        {
+          "w": "math",
+          "start": 103.46,
+          "end": 103.734,
+          "conf": 1.0
+        },
+        {
+          "w": "just",
+          "start": 103.734,
+          "end": 104.063,
+          "conf": 0.85
+        },
+        {
+          "w": "waits",
+          "start": 104.12,
+          "end": 104.572,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "text": "Stuck on the slope, it's the roofline again,",
+      "start": 115.662,
+      "end": 118.261,
+      "words": [
+        {
+          "w": "Stuck",
+          "start": 115.662,
+          "end": 116.071,
+          "conf": 0.92
+        },
+        {
+          "w": "on",
+          "start": 116.071,
+          "end": 116.22,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 116.22,
+          "end": 116.316,
+          "conf": 0.97
+        },
+        {
+          "w": "slope,",
+          "start": 116.316,
+          "end": 116.68,
+          "conf": 1.0
+        },
+        {
+          "w": "it's",
+          "start": 116.765,
+          "end": 117.08,
+          "conf": 0.97
+        },
+        {
+          "w": "the",
+          "start": 117.08,
+          "end": 117.24,
+          "conf": 1.0
+        },
+        {
+          "w": "roofline",
+          "start": 117.24,
+          "end": 117.807,
+          "conf": 0.82
+        },
+        {
+          "w": "again,",
+          "start": 117.807,
+          "end": 118.261,
+          "conf": 0.83
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "text": "So read the weights once and serve a hundred of them,",
+      "start": 118.396,
+      "end": 121.08,
+      "words": [
+        {
+          "w": "So",
+          "start": 118.396,
+          "end": 118.506,
+          "conf": 0.85
+        },
+        {
+          "w": "read",
+          "start": 118.506,
+          "end": 118.83,
+          "conf": 0.88
+        },
+        {
+          "w": "the",
+          "start": 118.83,
+          "end": 118.94,
+          "conf": 1.0
+        },
+        {
+          "w": "weights",
+          "start": 118.94,
+          "end": 119.36,
+          "conf": 0.96
+        },
+        {
+          "w": "once",
+          "start": 119.36,
+          "end": 119.54,
+          "conf": 0.77
+        },
+        {
+          "w": "and",
+          "start": 119.54,
+          "end": 119.62,
+          "conf": 0.69
+        },
+        {
+          "w": "serve",
+          "start": 119.62,
+          "end": 119.873,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 119.873,
+          "end": 119.972,
+          "conf": 1.0
+        },
+        {
+          "w": "hundred",
+          "start": 119.972,
+          "end": 120.56,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 120.56,
+          "end": 120.656,
+          "conf": 0.82
+        },
+        {
+          "w": "them,",
+          "start": 120.656,
+          "end": 121.08,
+          "conf": 0.97
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "text": "Or a little model guesses four words in a row,",
+      "start": 121.08,
+      "end": 123.84,
+      "words": [
+        {
+          "w": "Or",
+          "start": 121.08,
+          "end": 121.22,
+          "conf": 0.78
+        },
+        {
+          "w": "a",
+          "start": 121.22,
+          "end": 121.36,
+          "conf": 0.94
+        },
+        {
+          "w": "little",
+          "start": 121.36,
+          "end": 121.7,
+          "conf": 1.0
+        },
+        {
+          "w": "model",
+          "start": 121.7,
+          "end": 121.943,
+          "conf": 0.85
+        },
+        {
+          "w": "guesses",
+          "start": 121.943,
+          "end": 122.397,
+          "conf": 0.97
+        },
+        {
+          "w": "four",
+          "start": 122.397,
+          "end": 122.76,
+          "conf": 0.84
+        },
+        {
+          "w": "words",
+          "start": 122.76,
+          "end": 123.16,
+          "conf": 0.85
+        },
+        {
+          "w": "in",
+          "start": 123.16,
+          "end": 123.3,
+          "conf": 0.82
+        },
+        {
+          "w": "a",
+          "start": 123.3,
+          "end": 123.44,
+          "conf": 0.96
+        },
+        {
+          "w": "row,",
+          "start": 123.44,
+          "end": 123.84,
+          "conf": 0.79
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "text": "And the big one checks all four in one go",
+      "start": 123.84,
+      "end": 126.512,
+      "words": [
+        {
+          "w": "And",
+          "start": 123.84,
+          "end": 123.94,
+          "conf": 0.79
+        },
+        {
+          "w": "the",
+          "start": 123.94,
+          "end": 124.068,
+          "conf": 1.0
+        },
+        {
+          "w": "big",
+          "start": 124.12,
+          "end": 124.507,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 124.507,
+          "end": 124.717,
+          "conf": 0.77
+        },
+        {
+          "w": "checks",
+          "start": 124.717,
+          "end": 125.22,
+          "conf": 0.84
+        },
+        {
+          "w": "all",
+          "start": 125.22,
+          "end": 125.38,
+          "conf": 0.81
+        },
+        {
+          "w": "four",
+          "start": 125.38,
+          "end": 125.72,
+          "conf": 0.75
+        },
+        {
+          "w": "in",
+          "start": 125.72,
+          "end": 125.94,
+          "conf": 0.79
+        },
+        {
+          "w": "one",
+          "start": 125.94,
+          "end": 126.18,
+          "conf": 0.77
+        },
+        {
+          "w": "go",
+          "start": 126.18,
+          "end": 126.512,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "text": "Just one more token,",
+      "start": 126.772,
+      "end": 129.102,
+      "words": [
+        {
+          "w": "Just",
+          "start": 126.772,
+          "end": 127.74,
+          "conf": 0.88
+        },
+        {
+          "w": "one",
+          "start": 127.74,
+          "end": 127.9,
+          "conf": 0.74
+        },
+        {
+          "w": "more",
+          "start": 127.9,
+          "end": 128.24,
+          "conf": 0.8
+        },
+        {
+          "w": "token,",
+          "start": 128.24,
+          "end": 129.102,
+          "conf": 0.74
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "text": "One more roll of the dice,",
+      "start": 129.64,
+      "end": 131.636,
+      "words": [
+        {
+          "w": "One",
+          "start": 129.64,
+          "end": 129.98,
+          "conf": 0.8
+        },
+        {
+          "w": "more",
+          "start": 129.98,
+          "end": 130.34,
+          "conf": 0.79
+        },
+        {
+          "w": "roll",
+          "start": 130.34,
+          "end": 130.62,
+          "conf": 0.81
+        },
+        {
+          "w": "of",
+          "start": 130.62,
+          "end": 130.72,
+          "conf": 0.8
+        },
+        {
+          "w": "the",
+          "start": 130.72,
+          "end": 130.798,
+          "conf": 0.97
+        },
+        {
+          "w": "dice,",
+          "start": 130.86,
+          "end": 131.636,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "text": "Guess it, pick it, feed it back in,",
+      "start": 132.04,
+      "end": 134.624,
+      "words": [
+        {
+          "w": "Guess",
+          "start": 132.04,
+          "end": 132.34,
+          "conf": 0.85
+        },
+        {
+          "w": "it,",
+          "start": 132.34,
+          "end": 132.439,
+          "conf": 0.79
+        },
+        {
+          "w": "pick",
+          "start": 132.72,
+          "end": 132.978,
+          "conf": 0.85
+        },
+        {
+          "w": "it,",
+          "start": 132.978,
+          "end": 133.122,
+          "conf": 0.8
+        },
+        {
+          "w": "feed",
+          "start": 133.327,
+          "end": 133.646,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 133.646,
+          "end": 133.78,
+          "conf": 0.85
+        },
+        {
+          "w": "back",
+          "start": 133.78,
+          "end": 134.015,
+          "conf": 1.0
+        },
+        {
+          "w": "in,",
+          "start": 134.095,
+          "end": 134.624,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "text": "And do it again all night",
+      "start": 135.0,
+      "end": 136.854,
+      "words": [
+        {
+          "w": "And",
+          "start": 135.0,
+          "end": 135.14,
+          "conf": 0.85
+        },
+        {
+          "w": "do",
+          "start": 135.14,
+          "end": 135.228,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 135.228,
+          "end": 135.56,
+          "conf": 1.0
+        },
+        {
+          "w": "again",
+          "start": 135.56,
+          "end": 136.18,
+          "conf": 0.85
+        },
+        {
+          "w": "all",
+          "start": 136.18,
+          "end": 136.43,
+          "conf": 0.77
+        },
+        {
+          "w": "night",
+          "start": 136.43,
+          "end": 136.854,
+          "conf": 0.83
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "text": "One more token,",
+      "start": 138.36,
+      "end": 140.28,
+      "words": [
+        {
+          "w": "One",
+          "start": 138.36,
+          "end": 138.6,
+          "conf": 0.71
+        },
+        {
+          "w": "more",
+          "start": 138.6,
+          "end": 139.22,
+          "conf": 0.79
+        },
+        {
+          "w": "token,",
+          "start": 139.22,
+          "end": 140.28,
+          "conf": 0.8
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "text": "Till it picks the one that says it's done",
+      "start": 140.28,
+      "end": 143.4,
+      "words": [
+        {
+          "w": "Till",
+          "start": 140.28,
+          "end": 140.56,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 140.56,
+          "end": 140.66,
+          "conf": 0.85
+        },
+        {
+          "w": "picks",
+          "start": 140.66,
+          "end": 141.02,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 141.02,
+          "end": 141.36,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 141.36,
+          "end": 141.54,
+          "conf": 0.77
+        },
+        {
+          "w": "that",
+          "start": 141.54,
+          "end": 141.713,
+          "conf": 0.85
+        },
+        {
+          "w": "says",
+          "start": 141.713,
+          "end": 142.32,
+          "conf": 0.99
+        },
+        {
+          "w": "it's",
+          "start": 142.32,
+          "end": 142.56,
+          "conf": 0.84
+        },
+        {
+          "w": "done",
+          "start": 142.56,
+          "end": 143.4,
+          "conf": 0.8
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "start": 0.3,
+      "end": 6.42,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 34.9,
+      "end": 38.3,
+      "desc": "backing-vocal tail / 'ah' ad-lib after 'eyes' over the break (chorus 1 end)"
+    },
+    {
+      "start": 108.5,
+      "end": 110.15,
+      "desc": "lead-in before 'Just transformers': Whisper hears a stuttered 'Just, just, just' (low confidence)"
+    },
+    {
+      "start": 122.4,
+      "end": 125.9,
+      "desc": "sustained backing 'ah' pad under 'I'm upping my P(doom)' (final chorus) - lead is buried here"
+    },
+    {
+      "start": 143.5,
+      "end": 146.06,
+      "desc": "outro chant: repeated 'oh' / 'oh-oh' vocal hook (Whisper: 'Oh, oh, oh...') until the drums stop at ~153"
+    }
+  ],
+  "notes": "Song: 'Chasing the Roofline' (ACE-Step 1.5 XL take a4-401, audio/roofline.wav, mp3 is the gapless encode of it). Method as for pdoom (analysis/align.py): CTC emissions of the Demucs htdemucs_ft vocal stem from MMS_FA and wav2vec2-lv60k on mono, left and right, fused; one global constrained Viterbi pass with a garbage star token between lines; phonetic spellings for the CUDA terms (pron.py: PyTorch='pie torch', cudaMemcpy='cuda mem copy', GPU='gee pee you', MNIST='em nist', cuBLAS='cue blas', KV='kay vee', float4='float four', MMA='em em ay', N-by-N='en by en', NormalFloat4='normal float four', NVLink='en vee link', CUTLASS='cut lass'); signal refinement on the vocal stem; cross-check against mlx-whisper; conf as for pdoom. 'syl' = start/end of each spelled letter or compound part."
+}

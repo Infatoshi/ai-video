@@ -1,0 +1,25 @@
+{
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "lyrics_file": "tokens/lyrics.sing.txt",
+ "bpm": 100,
+ "duration": 260,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "batch": 2,
+ "key": "Bb Major",
+ "offload": true,
+ "name": "tokens-m1_capB",
+ "seeds": [
+  301,
+  302,
+  303,
+  304,
+  305,
+  306,
+  307,
+  308
+ ],
+ "caption": "Classic Motown soul pop, 100 BPM, Supremes-style girl group, female lead singer with a sweet clear voice, every word easy to understand, backing singers echo and answer the lead, tambourine, handclaps, baritone sax and trumpets, upright piano, sweet and bouncy, vintage 1960s sound with modern clarity, room to breathe between lines"
+}

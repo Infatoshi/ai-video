@@ -1,0 +1,2190 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "The animal didn't cross the street",
+      "start": 14.56,
+      "end": 17.271,
+      "words": [
+        {
+          "w": "The",
+          "start": 14.56,
+          "end": 14.786,
+          "conf": 0.85
+        },
+        {
+          "w": "animal",
+          "start": 14.786,
+          "end": 15.55,
+          "conf": 0.92
+        },
+        {
+          "w": "didn't",
+          "start": 15.94,
+          "end": 16.34,
+          "conf": 0.85
+        },
+        {
+          "w": "cross",
+          "start": 16.34,
+          "end": 16.74,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 16.74,
+          "end": 16.837,
+          "conf": 1.0
+        },
+        {
+          "w": "street",
+          "start": 16.837,
+          "end": 17.271,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "Because it was too tired",
+      "start": 18.52,
+      "end": 20.414,
+      "words": [
+        {
+          "w": "Because",
+          "start": 18.52,
+          "end": 19.012,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 19.012,
+          "end": 19.166,
+          "conf": 0.85
+        },
+        {
+          "w": "was",
+          "start": 19.166,
+          "end": 19.38,
+          "conf": 1.0
+        },
+        {
+          "w": "too",
+          "start": 19.38,
+          "end": 19.86,
+          "conf": 1.0
+        },
+        {
+          "w": "tired",
+          "start": 19.86,
+          "end": 20.414,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "Who's it? The animal",
+      "start": 20.74,
+      "end": 22.594,
+      "words": [
+        {
+          "w": "Who's",
+          "start": 20.74,
+          "end": 21.192,
+          "conf": 1.0
+        },
+        {
+          "w": "it?",
+          "start": 21.192,
+          "end": 21.386,
+          "conf": 0.92
+        },
+        {
+          "w": "The",
+          "start": 21.72,
+          "end": 21.955,
+          "conf": 1.0
+        },
+        {
+          "w": "animal",
+          "start": 21.955,
+          "end": 22.594,
+          "conf": 0.87
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "Change one word, it was too wide",
+      "start": 23.06,
+      "end": 25.936,
+      "words": [
+        {
+          "w": "Change",
+          "start": 23.06,
+          "end": 24.005,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 24.005,
+          "end": 24.34,
+          "conf": 0.77
+        },
+        {
+          "w": "word,",
+          "start": 24.34,
+          "end": 24.759,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 24.759,
+          "end": 24.983,
+          "conf": 1.0
+        },
+        {
+          "w": "was",
+          "start": 24.983,
+          "end": 25.16,
+          "conf": 1.0
+        },
+        {
+          "w": "too",
+          "start": 25.16,
+          "end": 25.56,
+          "conf": 1.0
+        },
+        {
+          "w": "wide",
+          "start": 25.56,
+          "end": 25.936,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "Who's it? Now the street",
+      "start": 26.34,
+      "end": 27.862,
+      "words": [
+        {
+          "w": "Who's",
+          "start": 26.34,
+          "end": 26.799,
+          "conf": 1.0
+        },
+        {
+          "w": "it?",
+          "start": 26.799,
+          "end": 26.969,
+          "conf": 1.0
+        },
+        {
+          "w": "Now",
+          "start": 27.12,
+          "end": 27.36,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 27.36,
+          "end": 27.458,
+          "conf": 1.0
+        },
+        {
+          "w": "street",
+          "start": 27.458,
+          "end": 27.862,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "A program reads one word at a time",
+      "start": 28.131,
+      "end": 31.279,
+      "words": [
+        {
+          "w": "A",
+          "start": 28.131,
+          "end": 28.246,
+          "conf": 1.0
+        },
+        {
+          "w": "program",
+          "start": 28.32,
+          "end": 29.184,
+          "conf": 1.0
+        },
+        {
+          "w": "reads",
+          "start": 29.184,
+          "end": 29.548,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 29.548,
+          "end": 29.9,
+          "conf": 1.0
+        },
+        {
+          "w": "word",
+          "start": 29.9,
+          "end": 30.371,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 30.371,
+          "end": 30.585,
+          "conf": 0.92
+        },
+        {
+          "w": "a",
+          "start": 30.585,
+          "end": 30.72,
+          "conf": 0.92
+        },
+        {
+          "w": "time",
+          "start": 30.72,
+          "end": 31.279,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "So how does it know who's who?",
+      "start": 31.279,
+      "end": 34.437,
+      "words": [
+        {
+          "w": "So",
+          "start": 31.279,
+          "end": 31.414,
+          "conf": 0.85
+        },
+        {
+          "w": "how",
+          "start": 31.414,
+          "end": 31.96,
+          "conf": 1.0
+        },
+        {
+          "w": "does",
+          "start": 31.96,
+          "end": 32.202,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 32.202,
+          "end": 32.36,
+          "conf": 0.98
+        },
+        {
+          "w": "know",
+          "start": 32.36,
+          "end": 32.76,
+          "conf": 1.0
+        },
+        {
+          "w": "who's",
+          "start": 32.76,
+          "end": 33.52,
+          "conf": 0.84
+        },
+        {
+          "w": "who?",
+          "start": 33.52,
+          "end": 34.437,
+          "conf": 0.9
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "Every word looks back at the words before",
+      "start": 51.493,
+      "end": 55.1,
+      "words": [
+        {
+          "w": "Every",
+          "start": 51.493,
+          "end": 52.1,
+          "conf": 0.77
+        },
+        {
+          "w": "word",
+          "start": 52.1,
+          "end": 52.76,
+          "conf": 0.85
+        },
+        {
+          "w": "looks",
+          "start": 52.76,
+          "end": 53.064,
+          "conf": 0.85
+        },
+        {
+          "w": "back",
+          "start": 53.12,
+          "end": 53.558,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 53.558,
+          "end": 53.698,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 53.76,
+          "end": 53.94,
+          "conf": 1.0
+        },
+        {
+          "w": "words",
+          "start": 53.94,
+          "end": 54.297,
+          "conf": 1.0
+        },
+        {
+          "w": "before",
+          "start": 54.297,
+          "end": 55.1,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "Asks each one how much it matters, less or more",
+      "start": 55.1,
+      "end": 58.34,
+      "words": [
+        {
+          "w": "Asks",
+          "start": 55.1,
+          "end": 55.369,
+          "conf": 0.74
+        },
+        {
+          "w": "each",
+          "start": 55.369,
+          "end": 55.649,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 55.649,
+          "end": 55.913,
+          "conf": 0.92
+        },
+        {
+          "w": "how",
+          "start": 55.913,
+          "end": 56.34,
+          "conf": 1.0
+        },
+        {
+          "w": "much",
+          "start": 56.34,
+          "end": 56.62,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 56.62,
+          "end": 56.74,
+          "conf": 1.0
+        },
+        {
+          "w": "matters,",
+          "start": 56.74,
+          "end": 57.18,
+          "conf": 1.0
+        },
+        {
+          "w": "less",
+          "start": 57.18,
+          "end": 57.499,
+          "conf": 1.0
+        },
+        {
+          "w": "or",
+          "start": 57.499,
+          "end": 57.76,
+          "conf": 0.68
+        },
+        {
+          "w": "more",
+          "start": 57.76,
+          "end": 58.34,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "Gives each a weight, and the weights add up to one",
+      "start": 58.34,
+      "end": 62.792,
+      "words": [
+        {
+          "w": "Gives",
+          "start": 58.34,
+          "end": 58.801,
+          "conf": 0.85
+        },
+        {
+          "w": "each",
+          "start": 58.801,
+          "end": 59.215,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 59.215,
+          "end": 59.36,
+          "conf": 0.77
+        },
+        {
+          "w": "weight,",
+          "start": 59.36,
+          "end": 59.624,
+          "conf": 0.77
+        },
+        {
+          "w": "and",
+          "start": 59.999,
+          "end": 60.18,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 60.18,
+          "end": 60.32,
+          "conf": 1.0
+        },
+        {
+          "w": "weights",
+          "start": 60.32,
+          "end": 60.747,
+          "conf": 0.95
+        },
+        {
+          "w": "add",
+          "start": 60.747,
+          "end": 61.3,
+          "conf": 0.79
+        },
+        {
+          "w": "up",
+          "start": 61.3,
+          "end": 61.376,
+          "conf": 0.77
+        },
+        {
+          "w": "to",
+          "start": 61.48,
+          "end": 62.24,
+          "conf": 0.98
+        },
+        {
+          "w": "one",
+          "start": 62.24,
+          "end": 62.792,
+          "conf": 0.65
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "That's attention",
+      "start": 63.92,
+      "end": 66.379,
+      "words": [
+        {
+          "w": "That's",
+          "start": 63.92,
+          "end": 64.22,
+          "conf": 0.84
+        },
+        {
+          "w": "attention",
+          "start": 64.22,
+          "end": 66.379,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "The word that's asking is the query",
+      "start": 71.74,
+      "end": 73.837,
+      "words": [
+        {
+          "w": "The",
+          "start": 71.74,
+          "end": 71.92,
+          "conf": 0.81
+        },
+        {
+          "w": "word",
+          "start": 71.92,
+          "end": 72.18,
+          "conf": 1.0
+        },
+        {
+          "w": "that's",
+          "start": 72.18,
+          "end": 72.415,
+          "conf": 1.0
+        },
+        {
+          "w": "asking",
+          "start": 72.415,
+          "end": 72.849,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 72.849,
+          "end": 73.02,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 73.02,
+          "end": 73.204,
+          "conf": 1.0
+        },
+        {
+          "w": "query",
+          "start": 73.204,
+          "end": 73.837,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "The words that answer are the keys",
+      "start": 74.94,
+      "end": 77.264,
+      "words": [
+        {
+          "w": "The",
+          "start": 74.94,
+          "end": 75.039,
+          "conf": 0.85
+        },
+        {
+          "w": "words",
+          "start": 75.039,
+          "end": 75.4,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 75.4,
+          "end": 75.598,
+          "conf": 1.0
+        },
+        {
+          "w": "answer",
+          "start": 75.598,
+          "end": 75.878,
+          "conf": 1.0
+        },
+        {
+          "w": "are",
+          "start": 75.878,
+          "end": 76.227,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 76.227,
+          "end": 76.32,
+          "conf": 0.98
+        },
+        {
+          "w": "keys",
+          "start": 76.32,
+          "end": 77.264,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "The closer they match, the bigger the weight",
+      "start": 77.74,
+      "end": 80.84,
+      "words": [
+        {
+          "w": "The",
+          "start": 77.74,
+          "end": 77.903,
+          "conf": 0.85
+        },
+        {
+          "w": "closer",
+          "start": 77.903,
+          "end": 78.257,
+          "conf": 1.0
+        },
+        {
+          "w": "they",
+          "start": 78.257,
+          "end": 78.58,
+          "conf": 1.0
+        },
+        {
+          "w": "match,",
+          "start": 78.58,
+          "end": 79.105,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 79.34,
+          "end": 79.474,
+          "conf": 0.85
+        },
+        {
+          "w": "bigger",
+          "start": 79.52,
+          "end": 79.94,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 79.94,
+          "end": 80.14,
+          "conf": 1.0
+        },
+        {
+          "w": "weight",
+          "start": 80.14,
+          "end": 80.84,
+          "conf": 0.88
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "Each weight is a line, the thicker the more",
+      "start": 80.84,
+      "end": 83.98,
+      "words": [
+        {
+          "w": "Each",
+          "start": 80.84,
+          "end": 81.14,
+          "conf": 0.85
+        },
+        {
+          "w": "weight",
+          "start": 81.14,
+          "end": 81.415,
+          "conf": 0.98
+        },
+        {
+          "w": "is",
+          "start": 81.415,
+          "end": 81.6,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 81.6,
+          "end": 81.74,
+          "conf": 0.92
+        },
+        {
+          "w": "line,",
+          "start": 81.74,
+          "end": 82.52,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 82.52,
+          "end": 82.617,
+          "conf": 0.85
+        },
+        {
+          "w": "thicker",
+          "start": 82.617,
+          "end": 83.166,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 83.166,
+          "end": 83.32,
+          "conf": 0.85
+        },
+        {
+          "w": "more",
+          "start": 83.32,
+          "end": 83.98,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "And spare weight rests on the start",
+      "start": 83.98,
+      "end": 89.9,
+      "words": [
+        {
+          "w": "And",
+          "start": 83.98,
+          "end": 84.114,
+          "conf": 0.85
+        },
+        {
+          "w": "spare",
+          "start": 84.114,
+          "end": 85.1,
+          "conf": 1.0
+        },
+        {
+          "w": "weight",
+          "start": 85.1,
+          "end": 85.9,
+          "conf": 0.77
+        },
+        {
+          "w": "rests",
+          "start": 85.9,
+          "end": 86.558,
+          "conf": 0.84
+        },
+        {
+          "w": "on",
+          "start": 86.558,
+          "end": 86.9,
+          "conf": 0.62
+        },
+        {
+          "w": "the",
+          "start": 86.9,
+          "end": 87.057,
+          "conf": 1.0
+        },
+        {
+          "w": "start",
+          "start": 87.057,
+          "end": 89.9,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "Every word looks back at the words before",
+      "start": 102.672,
+      "end": 106.32,
+      "words": [
+        {
+          "w": "Every",
+          "start": 102.672,
+          "end": 103.32,
+          "conf": 0.77
+        },
+        {
+          "w": "word",
+          "start": 103.32,
+          "end": 103.96,
+          "conf": 0.85
+        },
+        {
+          "w": "looks",
+          "start": 103.96,
+          "end": 104.34,
+          "conf": 0.85
+        },
+        {
+          "w": "back",
+          "start": 104.34,
+          "end": 104.757,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 104.757,
+          "end": 104.96,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 104.96,
+          "end": 105.14,
+          "conf": 1.0
+        },
+        {
+          "w": "words",
+          "start": 105.14,
+          "end": 105.56,
+          "conf": 1.0
+        },
+        {
+          "w": "before",
+          "start": 105.56,
+          "end": 106.32,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "Asks each one how much it matters, less or more",
+      "start": 106.32,
+      "end": 109.54,
+      "words": [
+        {
+          "w": "Asks",
+          "start": 106.32,
+          "end": 106.58,
+          "conf": 0.72
+        },
+        {
+          "w": "each",
+          "start": 106.58,
+          "end": 106.857,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 106.857,
+          "end": 107.082,
+          "conf": 0.78
+        },
+        {
+          "w": "how",
+          "start": 107.082,
+          "end": 107.54,
+          "conf": 1.0
+        },
+        {
+          "w": "much",
+          "start": 107.54,
+          "end": 107.8,
+          "conf": 0.84
+        },
+        {
+          "w": "it",
+          "start": 107.8,
+          "end": 107.92,
+          "conf": 0.88
+        },
+        {
+          "w": "matters,",
+          "start": 107.92,
+          "end": 108.36,
+          "conf": 1.0
+        },
+        {
+          "w": "less",
+          "start": 108.36,
+          "end": 108.683,
+          "conf": 1.0
+        },
+        {
+          "w": "or",
+          "start": 108.683,
+          "end": 108.98,
+          "conf": 0.92
+        },
+        {
+          "w": "more",
+          "start": 108.98,
+          "end": 109.54,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "Gives each a weight, and the weights add up to one",
+      "start": 109.54,
+      "end": 113.622,
+      "words": [
+        {
+          "w": "Gives",
+          "start": 109.54,
+          "end": 110.02,
+          "conf": 0.85
+        },
+        {
+          "w": "each",
+          "start": 110.02,
+          "end": 110.384,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 110.384,
+          "end": 110.54,
+          "conf": 0.88
+        },
+        {
+          "w": "weight,",
+          "start": 110.54,
+          "end": 110.778,
+          "conf": 0.87
+        },
+        {
+          "w": "and",
+          "start": 111.172,
+          "end": 111.36,
+          "conf": 0.83
+        },
+        {
+          "w": "the",
+          "start": 111.36,
+          "end": 111.5,
+          "conf": 1.0
+        },
+        {
+          "w": "weights",
+          "start": 111.5,
+          "end": 111.956,
+          "conf": 0.96
+        },
+        {
+          "w": "add",
+          "start": 111.956,
+          "end": 112.385,
+          "conf": 0.73
+        },
+        {
+          "w": "up",
+          "start": 112.385,
+          "end": 112.599,
+          "conf": 0.92
+        },
+        {
+          "w": "to",
+          "start": 112.68,
+          "end": 113.08,
+          "conf": 0.99
+        },
+        {
+          "w": "one",
+          "start": 113.08,
+          "end": 113.622,
+          "conf": 0.53
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "That's attention",
+      "start": 114.051,
+      "end": 117.144,
+      "words": [
+        {
+          "w": "That's",
+          "start": 114.051,
+          "end": 115.4,
+          "conf": 0.85
+        },
+        {
+          "w": "attention",
+          "start": 115.4,
+          "end": 117.144,
+          "conf": 0.97
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "But it reads from left to right",
+      "start": 122.197,
+      "end": 124.457,
+      "words": [
+        {
+          "w": "But",
+          "start": 122.197,
+          "end": 122.62,
+          "conf": 0.84
+        },
+        {
+          "w": "it",
+          "start": 122.62,
+          "end": 122.76,
+          "conf": 0.77
+        },
+        {
+          "w": "reads",
+          "start": 122.76,
+          "end": 123.26,
+          "conf": 1.0
+        },
+        {
+          "w": "from",
+          "start": 123.26,
+          "end": 123.58,
+          "conf": 1.0
+        },
+        {
+          "w": "left",
+          "start": 123.58,
+          "end": 123.9,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 123.9,
+          "end": 124.16,
+          "conf": 1.0
+        },
+        {
+          "w": "right",
+          "start": 124.16,
+          "end": 124.457,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "When it gets to it, tired hasn't come",
+      "start": 124.72,
+      "end": 127.47,
+      "words": [
+        {
+          "w": "When",
+          "start": 124.72,
+          "end": 124.986,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 124.986,
+          "end": 125.14,
+          "conf": 1.0
+        },
+        {
+          "w": "gets",
+          "start": 125.14,
+          "end": 125.5,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 125.5,
+          "end": 125.8,
+          "conf": 1.0
+        },
+        {
+          "w": "it,",
+          "start": 125.8,
+          "end": 125.92,
+          "conf": 1.0
+        },
+        {
+          "w": "tired",
+          "start": 125.92,
+          "end": 126.483,
+          "conf": 0.98
+        },
+        {
+          "w": "hasn't",
+          "start": 126.483,
+          "end": 127.06,
+          "conf": 1.0
+        },
+        {
+          "w": "come",
+          "start": 127.06,
+          "end": 127.47,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "So it can't tell, it looks at both",
+      "start": 127.824,
+      "end": 130.638,
+      "words": [
+        {
+          "w": "So",
+          "start": 127.824,
+          "end": 128.199,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 128.199,
+          "end": 128.568,
+          "conf": 0.91
+        },
+        {
+          "w": "can't",
+          "start": 128.568,
+          "end": 128.9,
+          "conf": 1.0
+        },
+        {
+          "w": "tell,",
+          "start": 128.9,
+          "end": 129.57,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 129.57,
+          "end": 129.76,
+          "conf": 1.0
+        },
+        {
+          "w": "looks",
+          "start": 129.76,
+          "end": 130.18,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 130.18,
+          "end": 130.259,
+          "conf": 1.0
+        },
+        {
+          "w": "both",
+          "start": 130.32,
+          "end": 130.638,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "Tired or wide, the same both times",
+      "start": 131.48,
+      "end": 134.34,
+      "words": [
+        {
+          "w": "Tired",
+          "start": 131.48,
+          "end": 131.985,
+          "conf": 0.85
+        },
+        {
+          "w": "or",
+          "start": 131.985,
+          "end": 132.16,
+          "conf": 0.98
+        },
+        {
+          "w": "wide,",
+          "start": 132.16,
+          "end": 132.72,
+          "conf": 0.96
+        },
+        {
+          "w": "the",
+          "start": 132.72,
+          "end": 132.818,
+          "conf": 0.85
+        },
+        {
+          "w": "same",
+          "start": 132.818,
+          "end": 133.32,
+          "conf": 1.0
+        },
+        {
+          "w": "both",
+          "start": 133.32,
+          "end": 133.7,
+          "conf": 1.0
+        },
+        {
+          "w": "times",
+          "start": 133.7,
+          "end": 134.34,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "Then tired comes and looks back at the animal",
+      "start": 134.34,
+      "end": 137.882,
+      "words": [
+        {
+          "w": "Then",
+          "start": 134.34,
+          "end": 134.7,
+          "conf": 0.85
+        },
+        {
+          "w": "tired",
+          "start": 134.7,
+          "end": 135.203,
+          "conf": 1.0
+        },
+        {
+          "w": "comes",
+          "start": 135.3,
+          "end": 135.8,
+          "conf": 0.85
+        },
+        {
+          "w": "and",
+          "start": 135.8,
+          "end": 135.96,
+          "conf": 0.99
+        },
+        {
+          "w": "looks",
+          "start": 135.96,
+          "end": 136.32,
+          "conf": 1.0
+        },
+        {
+          "w": "back",
+          "start": 136.32,
+          "end": 136.739,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 136.739,
+          "end": 136.96,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 136.96,
+          "end": 137.3,
+          "conf": 1.0
+        },
+        {
+          "w": "animal",
+          "start": 137.3,
+          "end": 137.882,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "Wide looks back and finds the street",
+      "start": 138.66,
+      "end": 142.122,
+      "words": [
+        {
+          "w": "Wide",
+          "start": 138.66,
+          "end": 139.54,
+          "conf": 0.79
+        },
+        {
+          "w": "looks",
+          "start": 139.54,
+          "end": 140.246,
+          "conf": 0.98
+        },
+        {
+          "w": "back",
+          "start": 140.32,
+          "end": 140.76,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 140.76,
+          "end": 140.865,
+          "conf": 0.99
+        },
+        {
+          "w": "finds",
+          "start": 140.865,
+          "end": 141.52,
+          "conf": 0.99
+        },
+        {
+          "w": "the",
+          "start": 141.52,
+          "end": 141.618,
+          "conf": 1.0
+        },
+        {
+          "w": "street",
+          "start": 141.618,
+          "end": 142.122,
+          "conf": 0.95
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "Each way of looking is called a head",
+      "start": 161.313,
+      "end": 163.488,
+      "words": [
+        {
+          "w": "Each",
+          "start": 161.313,
+          "end": 161.56,
+          "conf": 0.85
+        },
+        {
+          "w": "way",
+          "start": 161.56,
+          "end": 161.82,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 161.82,
+          "end": 161.94,
+          "conf": 1.0
+        },
+        {
+          "w": "looking",
+          "start": 161.94,
+          "end": 162.366,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 162.366,
+          "end": 162.54,
+          "conf": 0.85
+        },
+        {
+          "w": "called",
+          "start": 162.54,
+          "end": 162.985,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 162.985,
+          "end": 163.084,
+          "conf": 1.0
+        },
+        {
+          "w": "head",
+          "start": 163.084,
+          "end": 163.488,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "Thirty-two heads side by side",
+      "start": 164.217,
+      "end": 166.99,
+      "words": [
+        {
+          "w": "Thirty-two",
+          "start": 164.217,
+          "end": 165.055,
+          "conf": 0.77,
+          "syl": [
+            [
+              164.217,
+              164.72
+            ],
+            [
+              164.72,
+              165.055
+            ]
+          ]
+        },
+        {
+          "w": "heads",
+          "start": 165.055,
+          "end": 165.559,
+          "conf": 0.85
+        },
+        {
+          "w": "side",
+          "start": 165.559,
+          "end": 166.063,
+          "conf": 0.98
+        },
+        {
+          "w": "by",
+          "start": 166.12,
+          "end": 166.367,
+          "conf": 0.97
+        },
+        {
+          "w": "side",
+          "start": 166.367,
+          "end": 166.99,
+          "conf": 0.93
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "Thirty-two layers stacked up high",
+      "start": 167.444,
+      "end": 170.173,
+      "words": [
+        {
+          "w": "Thirty-two",
+          "start": 167.444,
+          "end": 168.3,
+          "conf": 0.85,
+          "syl": [
+            [
+              167.444,
+              167.804
+            ],
+            [
+              167.804,
+              168.3
+            ]
+          ]
+        },
+        {
+          "w": "layers",
+          "start": 168.3,
+          "end": 168.796,
+          "conf": 0.85
+        },
+        {
+          "w": "stacked",
+          "start": 168.796,
+          "end": 169.365,
+          "conf": 1.0
+        },
+        {
+          "w": "up",
+          "start": 169.365,
+          "end": 169.56,
+          "conf": 0.85
+        },
+        {
+          "w": "high",
+          "start": 169.56,
+          "end": 170.173,
+          "conf": 0.93
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "Most don't switch when the one word does",
+      "start": 170.68,
+      "end": 173.585,
+      "words": [
+        {
+          "w": "Most",
+          "start": 170.68,
+          "end": 171.12,
+          "conf": 0.85
+        },
+        {
+          "w": "don't",
+          "start": 171.12,
+          "end": 171.376,
+          "conf": 1.0
+        },
+        {
+          "w": "switch",
+          "start": 171.376,
+          "end": 171.92,
+          "conf": 1.0
+        },
+        {
+          "w": "when",
+          "start": 171.92,
+          "end": 172.16,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 172.16,
+          "end": 172.373,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 172.373,
+          "end": 172.7,
+          "conf": 1.0
+        },
+        {
+          "w": "word",
+          "start": 172.7,
+          "end": 173.037,
+          "conf": 0.85
+        },
+        {
+          "w": "does",
+          "start": 173.1,
+          "end": 173.585,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "One head is one small part, not the whole",
+      "start": 173.585,
+      "end": 176.763,
+      "words": [
+        {
+          "w": "One",
+          "start": 173.585,
+          "end": 173.865,
+          "conf": 0.76
+        },
+        {
+          "w": "head",
+          "start": 173.865,
+          "end": 174.42,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 174.42,
+          "end": 174.66,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 174.66,
+          "end": 174.793,
+          "conf": 1.0
+        },
+        {
+          "w": "small",
+          "start": 174.793,
+          "end": 175.247,
+          "conf": 1.0
+        },
+        {
+          "w": "part,",
+          "start": 175.32,
+          "end": 175.776,
+          "conf": 0.8
+        },
+        {
+          "w": "not",
+          "start": 175.895,
+          "end": 176.1,
+          "conf": 0.83
+        },
+        {
+          "w": "the",
+          "start": 176.16,
+          "end": 176.389,
+          "conf": 1.0
+        },
+        {
+          "w": "whole",
+          "start": 176.389,
+          "end": 176.763,
+          "conf": 0.96
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "Ask it who was tired: the animal",
+      "start": 176.763,
+      "end": 179.437,
+      "words": [
+        {
+          "w": "Ask",
+          "start": 176.763,
+          "end": 177.033,
+          "conf": 0.92
+        },
+        {
+          "w": "it",
+          "start": 177.033,
+          "end": 177.22,
+          "conf": 0.91
+        },
+        {
+          "w": "who",
+          "start": 177.22,
+          "end": 177.42,
+          "conf": 0.84
+        },
+        {
+          "w": "was",
+          "start": 177.42,
+          "end": 177.7,
+          "conf": 0.97
+        },
+        {
+          "w": "tired:",
+          "start": 177.7,
+          "end": 178.2,
+          "conf": 0.98
+        },
+        {
+          "w": "the",
+          "start": 178.56,
+          "end": 178.794,
+          "conf": 0.84
+        },
+        {
+          "w": "animal",
+          "start": 178.794,
+          "end": 179.437,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "Every word looks back at the words before",
+      "start": 185.863,
+      "end": 189.52,
+      "words": [
+        {
+          "w": "Every",
+          "start": 185.863,
+          "end": 186.52,
+          "conf": 0.7
+        },
+        {
+          "w": "word",
+          "start": 186.52,
+          "end": 187.165,
+          "conf": 0.83
+        },
+        {
+          "w": "looks",
+          "start": 187.165,
+          "end": 187.544,
+          "conf": 0.85
+        },
+        {
+          "w": "back",
+          "start": 187.544,
+          "end": 187.953,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 187.953,
+          "end": 188.102,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 188.16,
+          "end": 188.34,
+          "conf": 1.0
+        },
+        {
+          "w": "words",
+          "start": 188.34,
+          "end": 188.74,
+          "conf": 1.0
+        },
+        {
+          "w": "before",
+          "start": 188.74,
+          "end": 189.52,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "Asks each one how much it matters, less or more",
+      "start": 189.52,
+      "end": 192.72,
+      "words": [
+        {
+          "w": "Asks",
+          "start": 189.52,
+          "end": 189.78,
+          "conf": 0.77
+        },
+        {
+          "w": "each",
+          "start": 189.78,
+          "end": 189.953,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 189.953,
+          "end": 190.278,
+          "conf": 0.92
+        },
+        {
+          "w": "how",
+          "start": 190.278,
+          "end": 190.746,
+          "conf": 1.0
+        },
+        {
+          "w": "much",
+          "start": 190.746,
+          "end": 191.021,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 191.021,
+          "end": 191.14,
+          "conf": 0.96
+        },
+        {
+          "w": "matters,",
+          "start": 191.14,
+          "end": 191.56,
+          "conf": 1.0
+        },
+        {
+          "w": "less",
+          "start": 191.56,
+          "end": 191.894,
+          "conf": 1.0
+        },
+        {
+          "w": "or",
+          "start": 191.894,
+          "end": 192.18,
+          "conf": 0.9
+        },
+        {
+          "w": "more",
+          "start": 192.18,
+          "end": 192.72,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "text": "Gives each a weight, and the weights add up to one",
+      "start": 192.72,
+      "end": 196.728,
+      "words": [
+        {
+          "w": "Gives",
+          "start": 192.72,
+          "end": 193.231,
+          "conf": 0.83
+        },
+        {
+          "w": "each",
+          "start": 193.231,
+          "end": 193.58,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 193.58,
+          "end": 193.74,
+          "conf": 0.69
+        },
+        {
+          "w": "weight,",
+          "start": 193.74,
+          "end": 193.984,
+          "conf": 0.79
+        },
+        {
+          "w": "and",
+          "start": 194.42,
+          "end": 194.54,
+          "conf": 0.82
+        },
+        {
+          "w": "the",
+          "start": 194.54,
+          "end": 194.74,
+          "conf": 1.0
+        },
+        {
+          "w": "weights",
+          "start": 194.74,
+          "end": 195.146,
+          "conf": 0.94
+        },
+        {
+          "w": "add",
+          "start": 195.146,
+          "end": 195.7,
+          "conf": 0.89
+        },
+        {
+          "w": "up",
+          "start": 195.7,
+          "end": 195.775,
+          "conf": 0.77
+        },
+        {
+          "w": "to",
+          "start": 195.88,
+          "end": 196.0,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 196.0,
+          "end": 196.728,
+          "conf": 0.64
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "text": "That's attention",
+      "start": 198.3,
+      "end": 199.791,
+      "words": [
+        {
+          "w": "That's",
+          "start": 198.3,
+          "end": 198.6,
+          "conf": 0.85
+        },
+        {
+          "w": "attention",
+          "start": 198.6,
+          "end": 199.791,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "text": "Who's it? Just look back",
+      "start": 204.67,
+      "end": 208.087,
+      "words": [
+        {
+          "w": "Who's",
+          "start": 204.67,
+          "end": 205.56,
+          "conf": 0.9
+        },
+        {
+          "w": "it?",
+          "start": 205.56,
+          "end": 205.892,
+          "conf": 0.58
+        },
+        {
+          "w": "Just",
+          "start": 205.892,
+          "end": 206.36,
+          "conf": 0.9
+        },
+        {
+          "w": "look",
+          "start": 206.36,
+          "end": 206.615,
+          "conf": 0.92
+        },
+        {
+          "w": "back",
+          "start": 206.74,
+          "end": 208.087,
+          "conf": 0.84
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "text": "Next time, watch it learn to write",
+      "start": 208.661,
+      "end": 213.315,
+      "words": [
+        {
+          "w": "Next",
+          "start": 208.661,
+          "end": 209.12,
+          "conf": 0.92
+        },
+        {
+          "w": "time,",
+          "start": 209.12,
+          "end": 210.3,
+          "conf": 0.86
+        },
+        {
+          "w": "watch",
+          "start": 210.3,
+          "end": 210.62,
+          "conf": 0.87
+        },
+        {
+          "w": "it",
+          "start": 210.62,
+          "end": 210.78,
+          "conf": 0.74
+        },
+        {
+          "w": "learn",
+          "start": 210.78,
+          "end": 211.345,
+          "conf": 0.8
+        },
+        {
+          "w": "to",
+          "start": 211.5,
+          "end": 211.92,
+          "conf": 0.92
+        },
+        {
+          "w": "write",
+          "start": 211.92,
+          "end": 213.315,
+          "conf": 0.7
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "text": "Who's it? Just look back",
+      "start": 223.9,
+      "end": 227.104,
+      "words": [
+        {
+          "w": "Who's",
+          "start": 223.9,
+          "end": 224.46,
+          "conf": 0.81
+        },
+        {
+          "w": "it?",
+          "start": 224.46,
+          "end": 224.899,
+          "conf": 0.61
+        },
+        {
+          "w": "Just",
+          "start": 224.979,
+          "end": 225.54,
+          "conf": 0.88
+        },
+        {
+          "w": "look",
+          "start": 225.54,
+          "end": 225.797,
+          "conf": 0.9
+        },
+        {
+          "w": "back",
+          "start": 225.94,
+          "end": 227.104,
+          "conf": 0.82
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "text": "Next time, watch it learn to write",
+      "start": 227.837,
+      "end": 233.439,
+      "words": [
+        {
+          "w": "Next",
+          "start": 227.837,
+          "end": 228.3,
+          "conf": 0.92
+        },
+        {
+          "w": "time,",
+          "start": 228.3,
+          "end": 229.48,
+          "conf": 0.8
+        },
+        {
+          "w": "watch",
+          "start": 229.48,
+          "end": 229.82,
+          "conf": 0.81
+        },
+        {
+          "w": "it",
+          "start": 229.82,
+          "end": 229.96,
+          "conf": 0.78
+        },
+        {
+          "w": "learn",
+          "start": 229.96,
+          "end": 230.68,
+          "conf": 0.8
+        },
+        {
+          "w": "to",
+          "start": 230.68,
+          "end": 231.14,
+          "conf": 0.91
+        },
+        {
+          "w": "write",
+          "start": 231.14,
+          "end": 233.439,
+          "conf": 0.63
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "text": "Who's it? Just look back",
+      "start": 236.7,
+      "end": 239.526,
+      "words": [
+        {
+          "w": "Who's",
+          "start": 236.7,
+          "end": 237.191,
+          "conf": 0.79
+        },
+        {
+          "w": "it?",
+          "start": 237.191,
+          "end": 237.785,
+          "conf": 0.68
+        },
+        {
+          "w": "Just",
+          "start": 237.9,
+          "end": 238.368,
+          "conf": 0.9
+        },
+        {
+          "w": "look",
+          "start": 238.368,
+          "end": 238.578,
+          "conf": 0.92
+        },
+        {
+          "w": "back",
+          "start": 238.7,
+          "end": 239.526,
+          "conf": 0.86
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "text": "Next time, watch it learn to write",
+      "start": 240.648,
+      "end": 248.141,
+      "words": [
+        {
+          "w": "Next",
+          "start": 240.648,
+          "end": 241.12,
+          "conf": 0.91
+        },
+        {
+          "w": "time,",
+          "start": 241.12,
+          "end": 242.668,
+          "conf": 0.71
+        },
+        {
+          "w": "watch",
+          "start": 243.92,
+          "end": 244.4,
+          "conf": 0.87
+        },
+        {
+          "w": "it",
+          "start": 244.4,
+          "end": 244.6,
+          "conf": 0.76
+        },
+        {
+          "w": "learn",
+          "start": 244.6,
+          "end": 245.24,
+          "conf": 0.86
+        },
+        {
+          "w": "to",
+          "start": 245.24,
+          "end": 245.72,
+          "conf": 0.92
+        },
+        {
+          "w": "write",
+          "start": 245.72,
+          "end": 248.141,
+          "conf": 0.7
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "start": 1.11,
+      "end": 3.51,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 4.38,
+      "end": 5.63,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 34.9,
+      "end": 38.3,
+      "desc": "backing-vocal tail / 'ah' ad-lib after 'eyes' over the break (chorus 1 end)"
+    },
+    {
+      "start": 68.38,
+      "end": 68.95,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 108.5,
+      "end": 110.15,
+      "desc": "lead-in before 'Just transformers': Whisper hears a stuttered 'Just, just, just' (low confidence)"
+    },
+    {
+      "start": 122.4,
+      "end": 125.9,
+      "desc": "sustained backing 'ah' pad under 'I'm upping my P(doom)' (final chorus) - lead is buried here"
+    },
+    {
+      "start": 140.6,
+      "end": 153.5,
+      "desc": "outro chant: repeated 'oh' / 'oh-oh' vocal hook (Whisper: 'Oh, oh, oh...') until the drums stop at ~153"
+    },
+    {
+      "start": 199.89,
+      "end": 200.7,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 213.41,
+      "end": 214.41,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    }
+  ],
+  "notes": "Song: 'Chasing the Roofline' (ACE-Step 1.5 XL take a4-401, audio/roofline.wav, mp3 is the gapless encode of it). Method as for pdoom (analysis/align.py): CTC emissions of the Demucs htdemucs_ft vocal stem from MMS_FA and wav2vec2-lv60k on mono, left and right, fused; one global constrained Viterbi pass with a garbage star token between lines; phonetic spellings for the CUDA terms (pron.py: PyTorch='pie torch', cudaMemcpy='cuda mem copy', GPU='gee pee you', MNIST='em nist', cuBLAS='cue blas', KV='kay vee', float4='float four', MMA='em em ay', N-by-N='en by en', NormalFloat4='normal float four', NVLink='en vee link', CUTLASS='cut lass'); signal refinement on the vocal stem; cross-check against mlx-whisper; conf as for pdoom. 'syl' = start/end of each spelled letter or compound part."
+}

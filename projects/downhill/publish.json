@@ -1,0 +1,92 @@
+{
+ "chapters": {
+  "intro": "Two spirals",
+  "task": "The task: keep them apart",
+  "weights": "Weights: 337 knobs",
+  "loss": "Loss: how wrong, in one number",
+  "loop": "The loop: measure, find down, step, repeat",
+  "gradient": "The gradient and the learning rate",
+  "loop2": "The loop again",
+  "toobig": "A step ten times too big",
+  "loop3": "3,121 small steps",
+  "outro": "Every dot on its own side"
+ },
+ "tags": [
+  "how ai learns",
+  "how neural networks learn",
+  "gradient descent",
+  "neural network",
+  "loss function",
+  "learning rate",
+  "loss landscape",
+  "machine learning for beginners",
+  "machine learning",
+  "deep learning",
+  "ai explained",
+  "ml slowly",
+  "jazz waltz",
+  "music video",
+  "education",
+  "claude code"
+ ],
+ "categoryId": "27",
+ "language": "en",
+ "containsSyntheticMedia": true,
+ "description": "A tiny neural network learns to tell two spirals apart, one small step at a time. That is the whole trick behind how AI models learn: measure how wrong it is, find which way is down, take one small step, and do it again.\n\nML, slowly is a five-part series of music videos for people who have never heard these words: one idea per video, slow enough to follow on the first watch. #1 is how a model learns. Next, #2: Tokens (why it never sees a letter).\n\nEverything on screen is one real training run, recorded at every step: a network with 337 weights (2-16-16-1, tanh), 200 points in two spirals, plain gradient descent with a learning rate of 0.3. The loss starts at 0.696; at step 3,121 every point is on its own side. The same network with a step ten times as big (learning rate 3.0) bounces and never gets down: 61% right after 5,000 steps. The landscape is a real 2D slice of the 337-dimensional loss landscape (Li et al. 2018): the two directions the weights moved most, which hold 99.0% of the path.\n\n{chapters}\n\nMade with Claude Code (Claude Opus 5.5): the lyrics, the song (ACE-Step 1.5; the music and the voice are AI-generated), word alignment, the training run, every frame (three.js), the render. Renderer forked from mexicat's p(doom) video (MIT).\n\n#MachineLearning #AI #NeuralNetworks\n",
+ "variants": {
+  "downhill": {
+   "video": "out/final/downhill.mp4",
+   "title": "How AI learns: one small step downhill, 3,121 times | ML, slowly #1",
+   "thumbnail": "out/publish/thumbs/thumb_A.jpg",
+   "thumbnails_test": [
+    "out/publish/thumbs/thumb_A.jpg",
+    "out/publish/thumbs/thumb_B.jpg",
+    "out/publish/thumbs/thumb_C.jpg"
+   ],
+   "pinned_comment": "learning rate 3.0 is every new year's resolution. 61% right after 5,000 steps and still bouncing"
+  },
+  "downhill_vertical": {
+   "video": "out/final/downhill_vertical.mp4",
+   "title": "How AI learns, in 3,121 small steps | ML, slowly #1",
+   "pinned_comment": "3,121 tries and nobody once told it it was doing great. be the gradient you want to see in the world"
+  },
+  "downhill_hook": {
+   "source": "out/final/downhill_vertical.mp4",
+   "video": "out/final/downhill_hook.mp4",
+   "cut": [
+    [
+     81.997,
+     99.33
+    ],
+    [
+     143.33,
+     151.33
+    ],
+    [
+     215.33,
+     224.66
+    ]
+   ],
+   "title": "It took 3,121 small steps to learn this | ML, slowly #1 #Shorts",
+   "description": "Measure how wrong it is, find which way is down, take one small step, and do it again. A real network (337 weights) learning two spirals by gradient descent: every point right at step 3,121. With a step ten times as big it never gets down. Full video: ML, slowly #1 \"Downhill\".\n\nMade with Claude Code (Claude Opus 5.5); the song is AI-generated (ACE-Step 1.5).\n\n#MachineLearning #AI #Shorts",
+   "pinned_comment": "one small step for a network. 3,121 small steps for a network",
+   "segments_snapped": [
+    [
+     81.996,
+     99.329
+    ],
+    [
+     143.329,
+     151.329
+    ],
+    [
+     215.328,
+     224.661
+    ]
+   ]
+  }
+ },
+ "launch": {
+  "status": "drafts only: nothing uploaded or posted (course agent, 2026-09-28)"
+ }
+}

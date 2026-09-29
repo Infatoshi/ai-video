@@ -1,0 +1,62 @@
+{
+ "chapters": {
+  "cpugpu": "CPU vs GPU",
+  "index": "One thread per number, 10,000 at once",
+  "roof1": "The roofline",
+  "warp": "Warps, divergence, waiting on memory",
+  "roof2": "The roofline, lesson 2",
+  "memory": "Coalescing, shared memory, reuse",
+  "roof3": "The roofline, lesson 3",
+  "tensor": "Tensor cores and flash attention",
+  "quant": "Fewer bits, many GPUs",
+  "roof4": "Hitting the ceiling",
+  "outro": "Outro"
+ },
+ "tags": [
+  "cuda",
+  "gpu programming",
+  "roofline model",
+  "cuda tutorial",
+  "matrix multiplication",
+  "gemm",
+  "tensor cores",
+  "flash attention",
+  "shared memory",
+  "memory coalescing",
+  "h100",
+  "machine learning",
+  "music video",
+  "education",
+  "claude code"
+ ],
+ "categoryId": "27",
+ "language": "en",
+ "containsSyntheticMedia": true,
+ "description": "Your first CUDA kernel runs at under 1% of the GPU's peak. The same matrix multiply, rewritten chapter by chapter, gets to 78%. This is how, as a song.\n\nEvery scene follows a chapter of CUDA for Deep Learning: threads and the index, warps and divergence, coalescing, shared-memory tiles, tensor cores, flash attention, quantization, many GPUs. The numbers are the book's measured ones on an RTX 3090 (the matmul climbing from 0.3 to 27.8 TFLOPS of a 35.6 TFLOPS peak), drawn over a model of an H100.\n\n{chapters}\n\nMade with Claude Code (Claude Opus 5.5): lyrics, the song (ACE-Step 1.5), word alignment, every scene (three.js), the render. Renderer forked from mexicat's p(doom) video (MIT).\n\n#CUDA #GPU #MachineLearning\n",
+ "variants": {
+  "cuda_roofline": {
+   "video": "out/final/cuda_roofline.mp4",
+   "title": "Why your GPU code is slow: CUDA and the roofline, as a music video",
+   "thumbnail": "out/publish/thumbs/thumb_D.jpg",
+   "youtube_id": "_TJoJYLsEcQ",
+   "thumbnails_test": [
+    "out/publish/thumbs/thumb_D.jpg",
+    "out/publish/thumbs/thumb_E.jpg",
+    "out/publish/thumbs/thumb_B.jpg"
+   ],
+   "thumbnails_retired": [
+    "thumb_A.jpg (YOUR GPU IS SLOW)",
+    "thumb_C.jpg (title card)"
+   ],
+   "publish_at": "2026-09-28T14:00:00Z",
+   "pinned_comment": "the first kernel in this video uses 0.8% of the gpu. the other 99.2% was on its lunch break. what should the next one explain?"
+  }
+ },
+ "launch": {
+  "checks": [
+   "The description names the book \"CUDA for Deep Learning\" (the video's title card already does). Keep it public?",
+   "\"Under 1% of peak\": the book's naive kernel is 0.3 of 35.6 TFLOPS, 0.8%. The on-screen readout rounds it to 0.01."
+  ],
+  "already_posted": "X, 2026-09-27 12:29 am: 378,833 impressions, 1,710 likes, 704 bookmarks by 1:29 pm"
+ }
+}

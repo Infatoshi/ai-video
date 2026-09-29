@@ -1,0 +1,52 @@
+[
+ {
+  "id": "intro",
+  "start": 0,
+  "end": 15.98
+ },
+ {
+  "id": "task",
+  "start": 15.48,
+  "end": 40.288
+ },
+ {
+  "id": "weights",
+  "start": 39.788,
+  "end": 63.78
+ },
+ {
+  "id": "loss",
+  "start": 63.28,
+  "end": 82.498
+ },
+ {
+  "id": "loop",
+  "start": 81.998,
+  "end": 104.328
+ },
+ {
+  "id": "gradient",
+  "start": 103.828,
+  "end": 122.527
+ },
+ {
+  "id": "loop2",
+  "start": 122.027,
+  "end": 143.853
+ },
+ {
+  "id": "toobig",
+  "start": 143.353,
+  "end": 198.329
+ },
+ {
+  "id": "loop3",
+  "start": 197.829,
+  "end": 215.864
+ },
+ {
+  "id": "outro",
+  "start": 215.364,
+  "end": 240
+ }
+]

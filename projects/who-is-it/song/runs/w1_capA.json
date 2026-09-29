@@ -1,0 +1,25 @@
+{
+ "name": "who-is-it-w1_capA",
+ "dit": "acestep-v15-xl-sft",
+ "lm": "acestep-5Hz-lm-4B",
+ "lyrics_file": "who-is-it/lyrics.sing.txt",
+ "bpm": 75,
+ "duration": 250,
+ "steps": 50,
+ "guidance": 7.0,
+ "shift": 3.0,
+ "batch": 2,
+ "key": "Eb Major",
+ "offload": true,
+ "caption": "Neo-soul duet, 75 BPM, slow and laid-back, warm Rhodes electric piano, brushed snare and soft kick behind the beat, round deep bass, gentle guitar licks, a smooth male tenor and a warm female alto trading lines in call and response, clear unhurried diction, lush harmonies on the chorus, intimate late-night groove, polished modern production",
+ "seeds": [
+  401,
+  402,
+  403,
+  404,
+  405,
+  406,
+  407,
+  408
+ ]
+}

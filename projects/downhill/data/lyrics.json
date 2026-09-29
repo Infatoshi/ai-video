@@ -1,0 +1,1904 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "Two spirals of dots, one blue and one black,",
+      "start": 15.98,
+      "end": 20.054,
+      "words": [
+        {
+          "w": "Two",
+          "start": 15.98,
+          "end": 16.423,
+          "conf": 1.0
+        },
+        {
+          "w": "spirals",
+          "start": 16.423,
+          "end": 17.42,
+          "conf": 0.85
+        },
+        {
+          "w": "of",
+          "start": 17.42,
+          "end": 17.685,
+          "conf": 1.0
+        },
+        {
+          "w": "dots,",
+          "start": 17.685,
+          "end": 18.179,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 18.259,
+          "end": 18.62,
+          "conf": 0.92
+        },
+        {
+          "w": "blue",
+          "start": 18.62,
+          "end": 19.06,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 19.06,
+          "end": 19.356,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 19.356,
+          "end": 19.64,
+          "conf": 0.77
+        },
+        {
+          "w": "black,",
+          "start": 19.64,
+          "end": 20.054,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "Wound round each other and circling back,",
+      "start": 20.66,
+      "end": 24.01,
+      "words": [
+        {
+          "w": "Wound",
+          "start": 20.66,
+          "end": 21.08,
+          "conf": 0.77
+        },
+        {
+          "w": "round",
+          "start": 21.08,
+          "end": 21.461,
+          "conf": 1.0
+        },
+        {
+          "w": "each",
+          "start": 21.461,
+          "end": 21.756,
+          "conf": 0.85
+        },
+        {
+          "w": "other",
+          "start": 21.756,
+          "end": 22.2,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 22.2,
+          "end": 22.479,
+          "conf": 0.62
+        },
+        {
+          "w": "circling",
+          "start": 22.479,
+          "end": 23.62,
+          "conf": 0.92
+        },
+        {
+          "w": "back,",
+          "start": 23.62,
+          "end": 24.01,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "Draw me a line that keeps them apart,",
+      "start": 24.58,
+      "end": 27.732,
+      "words": [
+        {
+          "w": "Draw",
+          "start": 24.58,
+          "end": 25.12,
+          "conf": 0.85
+        },
+        {
+          "w": "me",
+          "start": 25.12,
+          "end": 25.4,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 25.4,
+          "end": 25.6,
+          "conf": 0.85
+        },
+        {
+          "w": "line",
+          "start": 25.6,
+          "end": 26.28,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 26.28,
+          "end": 26.44,
+          "conf": 0.85
+        },
+        {
+          "w": "keeps",
+          "start": 26.56,
+          "end": 26.939,
+          "conf": 1.0
+        },
+        {
+          "w": "them",
+          "start": 26.939,
+          "end": 27.223,
+          "conf": 1.0
+        },
+        {
+          "w": "apart,",
+          "start": 27.223,
+          "end": 27.732,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "The machine can't do it, not at the start",
+      "start": 28.26,
+      "end": 32.78,
+      "words": [
+        {
+          "w": "The",
+          "start": 28.26,
+          "end": 28.42,
+          "conf": 0.85
+        },
+        {
+          "w": "machine",
+          "start": 28.42,
+          "end": 29.3,
+          "conf": 1.0
+        },
+        {
+          "w": "can't",
+          "start": 29.3,
+          "end": 29.877,
+          "conf": 0.85
+        },
+        {
+          "w": "do",
+          "start": 29.94,
+          "end": 30.216,
+          "conf": 1.0
+        },
+        {
+          "w": "it,",
+          "start": 30.216,
+          "end": 30.346,
+          "conf": 0.92
+        },
+        {
+          "w": "not",
+          "start": 30.456,
+          "end": 31.82,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 31.82,
+          "end": 31.922,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 32.04,
+          "end": 32.167,
+          "conf": 0.85
+        },
+        {
+          "w": "start",
+          "start": 32.167,
+          "end": 32.78,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "Inside the machine there's a row of knobs,",
+      "start": 40.288,
+      "end": 44.18,
+      "words": [
+        {
+          "w": "Inside",
+          "start": 40.288,
+          "end": 41.18,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 41.18,
+          "end": 41.36,
+          "conf": 0.85
+        },
+        {
+          "w": "machine",
+          "start": 41.36,
+          "end": 42.2,
+          "conf": 1.0
+        },
+        {
+          "w": "there's",
+          "start": 42.2,
+          "end": 42.52,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 42.52,
+          "end": 42.68,
+          "conf": 1.0
+        },
+        {
+          "w": "row",
+          "start": 42.68,
+          "end": 43.04,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 43.04,
+          "end": 43.172,
+          "conf": 1.0
+        },
+        {
+          "w": "knobs,",
+          "start": 43.172,
+          "end": 44.18,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "Three hundred thirty-seven, we call them weights,",
+      "start": 44.18,
+      "end": 47.941,
+      "words": [
+        {
+          "w": "Three",
+          "start": 44.18,
+          "end": 44.444,
+          "conf": 0.92
+        },
+        {
+          "w": "hundred",
+          "start": 44.444,
+          "end": 45.063,
+          "conf": 0.92
+        },
+        {
+          "w": "thirty-seven,",
+          "start": 45.063,
+          "end": 46.24,
+          "conf": 0.92,
+          "syl": [
+            [
+              45.063,
+              45.527
+            ],
+            [
+              45.527,
+              46.24
+            ]
+          ]
+        },
+        {
+          "w": "we",
+          "start": 46.24,
+          "end": 46.434,
+          "conf": 1.0
+        },
+        {
+          "w": "call",
+          "start": 46.54,
+          "end": 47.038,
+          "conf": 0.85
+        },
+        {
+          "w": "them",
+          "start": 47.038,
+          "end": 47.34,
+          "conf": 0.85
+        },
+        {
+          "w": "weights,",
+          "start": 47.34,
+          "end": 47.941,
+          "conf": 0.97
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "Turn any knob and the line starts to bend,",
+      "start": 48.58,
+      "end": 52.037,
+      "words": [
+        {
+          "w": "Turn",
+          "start": 48.58,
+          "end": 49.098,
+          "conf": 0.85
+        },
+        {
+          "w": "any",
+          "start": 49.098,
+          "end": 49.52,
+          "conf": 0.85
+        },
+        {
+          "w": "knob",
+          "start": 49.52,
+          "end": 50.071,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 50.071,
+          "end": 50.24,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 50.24,
+          "end": 50.44,
+          "conf": 1.0
+        },
+        {
+          "w": "line",
+          "start": 50.44,
+          "end": 50.894,
+          "conf": 1.0
+        },
+        {
+          "w": "starts",
+          "start": 50.894,
+          "end": 51.4,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 51.4,
+          "end": 51.62,
+          "conf": 1.0
+        },
+        {
+          "w": "bend,",
+          "start": 51.62,
+          "end": 52.037,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "They start out random, the line's in the wrong place",
+      "start": 52.28,
+      "end": 56.995,
+      "words": [
+        {
+          "w": "They",
+          "start": 52.28,
+          "end": 52.446,
+          "conf": 0.85
+        },
+        {
+          "w": "start",
+          "start": 52.446,
+          "end": 53.089,
+          "conf": 1.0
+        },
+        {
+          "w": "out",
+          "start": 53.089,
+          "end": 53.568,
+          "conf": 0.92
+        },
+        {
+          "w": "random,",
+          "start": 53.568,
+          "end": 54.38,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 54.38,
+          "end": 54.62,
+          "conf": 1.0
+        },
+        {
+          "w": "line's",
+          "start": 54.62,
+          "end": 55.344,
+          "conf": 0.98
+        },
+        {
+          "w": "in",
+          "start": 55.344,
+          "end": 55.64,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 55.64,
+          "end": 55.96,
+          "conf": 1.0
+        },
+        {
+          "w": "wrong",
+          "start": 55.96,
+          "end": 56.507,
+          "conf": 0.92
+        },
+        {
+          "w": "place",
+          "start": 56.54,
+          "end": 56.995,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "So measure how wrong it is, dot after dot,",
+      "start": 63.78,
+      "end": 67.881,
+      "words": [
+        {
+          "w": "So",
+          "start": 63.78,
+          "end": 64.64,
+          "conf": 0.85
+        },
+        {
+          "w": "measure",
+          "start": 64.64,
+          "end": 65.092,
+          "conf": 0.85
+        },
+        {
+          "w": "how",
+          "start": 65.092,
+          "end": 65.62,
+          "conf": 0.85
+        },
+        {
+          "w": "wrong",
+          "start": 65.62,
+          "end": 65.985,
+          "conf": 0.77
+        },
+        {
+          "w": "it",
+          "start": 65.985,
+          "end": 66.32,
+          "conf": 0.85
+        },
+        {
+          "w": "is,",
+          "start": 66.32,
+          "end": 66.554,
+          "conf": 0.77
+        },
+        {
+          "w": "dot",
+          "start": 66.554,
+          "end": 66.998,
+          "conf": 1.0
+        },
+        {
+          "w": "after",
+          "start": 66.998,
+          "end": 67.56,
+          "conf": 0.92
+        },
+        {
+          "w": "dot,",
+          "start": 67.56,
+          "end": 67.881,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "Add it up to one number, and that is the loss,",
+      "start": 68.22,
+      "end": 72.071,
+      "words": [
+        {
+          "w": "Add",
+          "start": 68.22,
+          "end": 68.48,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 68.48,
+          "end": 68.639,
+          "conf": 0.99
+        },
+        {
+          "w": "up",
+          "start": 68.639,
+          "end": 68.779,
+          "conf": 0.92
+        },
+        {
+          "w": "to",
+          "start": 68.94,
+          "end": 69.347,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 69.347,
+          "end": 69.64,
+          "conf": 0.77
+        },
+        {
+          "w": "number,",
+          "start": 69.64,
+          "end": 70.265,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 70.36,
+          "end": 70.64,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 70.64,
+          "end": 70.944,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 70.944,
+          "end": 71.2,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 71.2,
+          "end": 71.4,
+          "conf": 1.0
+        },
+        {
+          "w": "loss,",
+          "start": 71.4,
+          "end": 72.071,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "Every setting of the knobs is a place on a map,",
+      "start": 72.071,
+      "end": 75.478,
+      "words": [
+        {
+          "w": "Every",
+          "start": 72.071,
+          "end": 72.48,
+          "conf": 0.77
+        },
+        {
+          "w": "setting",
+          "start": 72.48,
+          "end": 73.14,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 73.14,
+          "end": 73.26,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 73.26,
+          "end": 73.42,
+          "conf": 1.0
+        },
+        {
+          "w": "knobs",
+          "start": 73.42,
+          "end": 74.002,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 74.002,
+          "end": 74.22,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 74.22,
+          "end": 74.366,
+          "conf": 1.0
+        },
+        {
+          "w": "place",
+          "start": 74.366,
+          "end": 74.87,
+          "conf": 1.0
+        },
+        {
+          "w": "on",
+          "start": 74.87,
+          "end": 75.059,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 75.059,
+          "end": 75.22,
+          "conf": 1.0
+        },
+        {
+          "w": "map,",
+          "start": 75.22,
+          "end": 75.478,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "The loss is how high, and we want to go down",
+      "start": 76.42,
+      "end": 81.161,
+      "words": [
+        {
+          "w": "The",
+          "start": 76.42,
+          "end": 76.496,
+          "conf": 0.85
+        },
+        {
+          "w": "loss",
+          "start": 76.496,
+          "end": 77.06,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 77.06,
+          "end": 77.22,
+          "conf": 1.0
+        },
+        {
+          "w": "how",
+          "start": 77.22,
+          "end": 77.659,
+          "conf": 1.0
+        },
+        {
+          "w": "high,",
+          "start": 77.659,
+          "end": 78.3,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 78.3,
+          "end": 78.44,
+          "conf": 1.0
+        },
+        {
+          "w": "we",
+          "start": 78.44,
+          "end": 78.66,
+          "conf": 1.0
+        },
+        {
+          "w": "want",
+          "start": 78.66,
+          "end": 79.28,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 79.28,
+          "end": 79.96,
+          "conf": 1.0
+        },
+        {
+          "w": "go",
+          "start": 79.96,
+          "end": 80.6,
+          "conf": 0.85
+        },
+        {
+          "w": "down",
+          "start": 80.6,
+          "end": 81.161,
+          "conf": 0.84
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "Measure how wrong it is,",
+      "start": 82.498,
+      "end": 86.459,
+      "words": [
+        {
+          "w": "Measure",
+          "start": 82.498,
+          "end": 83.545,
+          "conf": 0.85
+        },
+        {
+          "w": "how",
+          "start": 83.545,
+          "end": 84.26,
+          "conf": 0.85
+        },
+        {
+          "w": "wrong",
+          "start": 84.26,
+          "end": 85.725,
+          "conf": 0.68
+        },
+        {
+          "w": "it",
+          "start": 85.725,
+          "end": 85.905,
+          "conf": 0.77
+        },
+        {
+          "w": "is,",
+          "start": 85.905,
+          "end": 86.459,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "Find which way is down,",
+      "start": 87.736,
+      "end": 90.32,
+      "words": [
+        {
+          "w": "Find",
+          "start": 87.736,
+          "end": 88.604,
+          "conf": 0.85
+        },
+        {
+          "w": "which",
+          "start": 88.604,
+          "end": 88.988,
+          "conf": 0.85
+        },
+        {
+          "w": "way",
+          "start": 88.988,
+          "end": 89.46,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 89.46,
+          "end": 89.64,
+          "conf": 0.77
+        },
+        {
+          "w": "down,",
+          "start": 89.64,
+          "end": 90.32,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "Take one small step that way,",
+      "start": 91.2,
+      "end": 94.306,
+      "words": [
+        {
+          "w": "Take",
+          "start": 91.2,
+          "end": 91.722,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 91.722,
+          "end": 91.991,
+          "conf": 0.77
+        },
+        {
+          "w": "small",
+          "start": 91.991,
+          "end": 92.754,
+          "conf": 1.0
+        },
+        {
+          "w": "step",
+          "start": 92.754,
+          "end": 93.258,
+          "conf": 0.85
+        },
+        {
+          "w": "that",
+          "start": 93.353,
+          "end": 93.687,
+          "conf": 1.0
+        },
+        {
+          "w": "way,",
+          "start": 93.78,
+          "end": 94.306,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "And do it again, and again",
+      "start": 95.618,
+      "end": 99.319,
+      "words": [
+        {
+          "w": "And",
+          "start": 95.618,
+          "end": 96.0,
+          "conf": 0.85
+        },
+        {
+          "w": "do",
+          "start": 96.0,
+          "end": 96.261,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 96.261,
+          "end": 96.441,
+          "conf": 0.92
+        },
+        {
+          "w": "again,",
+          "start": 96.441,
+          "end": 98.187,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 98.187,
+          "end": 98.426,
+          "conf": 0.85
+        },
+        {
+          "w": "again",
+          "start": 98.426,
+          "end": 99.319,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "It can't see the valley, it can't see the ground,",
+      "start": 104.328,
+      "end": 108.294,
+      "words": [
+        {
+          "w": "It",
+          "start": 104.328,
+          "end": 104.478,
+          "conf": 0.85
+        },
+        {
+          "w": "can't",
+          "start": 104.58,
+          "end": 104.941,
+          "conf": 1.0
+        },
+        {
+          "w": "see",
+          "start": 104.941,
+          "end": 105.36,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 105.36,
+          "end": 105.54,
+          "conf": 1.0
+        },
+        {
+          "w": "valley,",
+          "start": 105.54,
+          "end": 106.328,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 106.328,
+          "end": 106.408,
+          "conf": 1.0
+        },
+        {
+          "w": "can't",
+          "start": 106.52,
+          "end": 106.877,
+          "conf": 1.0
+        },
+        {
+          "w": "see",
+          "start": 106.877,
+          "end": 107.24,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 107.24,
+          "end": 107.4,
+          "conf": 1.0
+        },
+        {
+          "w": "ground,",
+          "start": 107.4,
+          "end": 108.294,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "It feels for the slope right under its feet,",
+      "start": 108.294,
+      "end": 111.626,
+      "words": [
+        {
+          "w": "It",
+          "start": 108.294,
+          "end": 108.394,
+          "conf": 0.85
+        },
+        {
+          "w": "feels",
+          "start": 108.394,
+          "end": 109.037,
+          "conf": 1.0
+        },
+        {
+          "w": "for",
+          "start": 109.037,
+          "end": 109.406,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 109.406,
+          "end": 109.506,
+          "conf": 1.0
+        },
+        {
+          "w": "slope",
+          "start": 109.506,
+          "end": 110.02,
+          "conf": 1.0
+        },
+        {
+          "w": "right",
+          "start": 110.12,
+          "end": 110.72,
+          "conf": 0.85
+        },
+        {
+          "w": "under",
+          "start": 110.72,
+          "end": 111.08,
+          "conf": 0.85
+        },
+        {
+          "w": "its",
+          "start": 111.08,
+          "end": 111.197,
+          "conf": 0.85
+        },
+        {
+          "w": "feet,",
+          "start": 111.197,
+          "end": 111.626,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "Which way is down, that's the gradient,",
+      "start": 112.559,
+      "end": 115.413,
+      "words": [
+        {
+          "w": "Which",
+          "start": 112.559,
+          "end": 113.02,
+          "conf": 0.85
+        },
+        {
+          "w": "way",
+          "start": 113.02,
+          "end": 113.38,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 113.38,
+          "end": 113.58,
+          "conf": 1.0
+        },
+        {
+          "w": "down,",
+          "start": 113.58,
+          "end": 114.14,
+          "conf": 1.0
+        },
+        {
+          "w": "that's",
+          "start": 114.14,
+          "end": 114.44,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 114.44,
+          "end": 114.62,
+          "conf": 1.0
+        },
+        {
+          "w": "gradient,",
+          "start": 114.62,
+          "end": 115.413,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "How big a step, that's the learning rate",
+      "start": 116.296,
+      "end": 120.636,
+      "words": [
+        {
+          "w": "How",
+          "start": 116.296,
+          "end": 117.02,
+          "conf": 0.85
+        },
+        {
+          "w": "big",
+          "start": 117.02,
+          "end": 117.278,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 117.278,
+          "end": 117.378,
+          "conf": 1.0
+        },
+        {
+          "w": "step,",
+          "start": 117.378,
+          "end": 117.857,
+          "conf": 1.0
+        },
+        {
+          "w": "that's",
+          "start": 117.992,
+          "end": 118.42,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 118.42,
+          "end": 118.64,
+          "conf": 1.0
+        },
+        {
+          "w": "learning",
+          "start": 118.64,
+          "end": 120.22,
+          "conf": 0.98
+        },
+        {
+          "w": "rate",
+          "start": 120.22,
+          "end": 120.636,
+          "conf": 0.83
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "Measure how wrong it is,",
+      "start": 122.527,
+      "end": 126.727,
+      "words": [
+        {
+          "w": "Measure",
+          "start": 122.527,
+          "end": 123.549,
+          "conf": 1.0
+        },
+        {
+          "w": "how",
+          "start": 123.549,
+          "end": 124.36,
+          "conf": 0.85
+        },
+        {
+          "w": "wrong",
+          "start": 124.36,
+          "end": 125.78,
+          "conf": 0.63
+        },
+        {
+          "w": "it",
+          "start": 125.78,
+          "end": 126.16,
+          "conf": 0.74
+        },
+        {
+          "w": "is,",
+          "start": 126.16,
+          "end": 126.727,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "Find which way is down,",
+      "start": 127.72,
+      "end": 130.279,
+      "words": [
+        {
+          "w": "Find",
+          "start": 127.72,
+          "end": 128.588,
+          "conf": 0.85
+        },
+        {
+          "w": "which",
+          "start": 128.588,
+          "end": 129.06,
+          "conf": 0.85
+        },
+        {
+          "w": "way",
+          "start": 129.06,
+          "end": 129.331,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 129.331,
+          "end": 129.59,
+          "conf": 0.92
+        },
+        {
+          "w": "down,",
+          "start": 129.64,
+          "end": 130.279,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "Take one small step that way,",
+      "start": 131.2,
+      "end": 134.39,
+      "words": [
+        {
+          "w": "Take",
+          "start": 131.2,
+          "end": 131.516,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 131.636,
+          "end": 131.99,
+          "conf": 0.92
+        },
+        {
+          "w": "small",
+          "start": 131.99,
+          "end": 132.748,
+          "conf": 1.0
+        },
+        {
+          "w": "step",
+          "start": 132.748,
+          "end": 133.242,
+          "conf": 0.85
+        },
+        {
+          "w": "that",
+          "start": 133.42,
+          "end": 133.78,
+          "conf": 0.85
+        },
+        {
+          "w": "way,",
+          "start": 133.78,
+          "end": 134.39,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "And do it again, and again",
+      "start": 135.607,
+      "end": 139.283,
+      "words": [
+        {
+          "w": "And",
+          "start": 135.607,
+          "end": 135.98,
+          "conf": 0.7
+        },
+        {
+          "w": "do",
+          "start": 135.98,
+          "end": 136.101,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 136.101,
+          "end": 136.4,
+          "conf": 0.92
+        },
+        {
+          "w": "again,",
+          "start": 136.4,
+          "end": 138.191,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 138.191,
+          "end": 138.425,
+          "conf": 0.77
+        },
+        {
+          "w": "again",
+          "start": 138.425,
+          "end": 139.283,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "Now make every step ten times as big,",
+      "start": 143.853,
+      "end": 147.714,
+      "words": [
+        {
+          "w": "Now",
+          "start": 143.853,
+          "end": 144.6,
+          "conf": 0.85
+        },
+        {
+          "w": "make",
+          "start": 144.6,
+          "end": 144.951,
+          "conf": 0.85
+        },
+        {
+          "w": "every",
+          "start": 144.951,
+          "end": 145.434,
+          "conf": 0.92
+        },
+        {
+          "w": "step",
+          "start": 145.434,
+          "end": 145.903,
+          "conf": 1.0
+        },
+        {
+          "w": "ten",
+          "start": 146.008,
+          "end": 146.56,
+          "conf": 1.0
+        },
+        {
+          "w": "times",
+          "start": 146.56,
+          "end": 147.101,
+          "conf": 0.85
+        },
+        {
+          "w": "as",
+          "start": 147.101,
+          "end": 147.305,
+          "conf": 1.0
+        },
+        {
+          "w": "big,",
+          "start": 147.4,
+          "end": 147.714,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "It jumps right over the valley floor,",
+      "start": 147.714,
+      "end": 150.683,
+      "words": [
+        {
+          "w": "It",
+          "start": 147.714,
+          "end": 147.899,
+          "conf": 1.0
+        },
+        {
+          "w": "jumps",
+          "start": 147.899,
+          "end": 148.418,
+          "conf": 1.0
+        },
+        {
+          "w": "right",
+          "start": 148.418,
+          "end": 148.802,
+          "conf": 0.85
+        },
+        {
+          "w": "over",
+          "start": 148.802,
+          "end": 149.32,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 149.32,
+          "end": 149.56,
+          "conf": 0.85
+        },
+        {
+          "w": "valley",
+          "start": 149.56,
+          "end": 150.004,
+          "conf": 1.0
+        },
+        {
+          "w": "floor,",
+          "start": 150.004,
+          "end": 150.683,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "Lands on the far side, higher than before,",
+      "start": 152.468,
+      "end": 156.33,
+      "words": [
+        {
+          "w": "Lands",
+          "start": 152.468,
+          "end": 153.117,
+          "conf": 0.85
+        },
+        {
+          "w": "on",
+          "start": 153.117,
+          "end": 153.34,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 153.34,
+          "end": 153.446,
+          "conf": 1.0
+        },
+        {
+          "w": "far",
+          "start": 153.446,
+          "end": 153.97,
+          "conf": 1.0
+        },
+        {
+          "w": "side,",
+          "start": 153.97,
+          "end": 154.604,
+          "conf": 1.0
+        },
+        {
+          "w": "higher",
+          "start": 154.604,
+          "end": 155.1,
+          "conf": 1.0
+        },
+        {
+          "w": "than",
+          "start": 155.1,
+          "end": 155.36,
+          "conf": 0.85
+        },
+        {
+          "w": "before,",
+          "start": 155.36,
+          "end": 156.33,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "It bounces and bounces and never gets down",
+      "start": 156.33,
+      "end": 162.027,
+      "words": [
+        {
+          "w": "It",
+          "start": 156.33,
+          "end": 156.444,
+          "conf": 0.85
+        },
+        {
+          "w": "bounces",
+          "start": 156.58,
+          "end": 157.342,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 157.342,
+          "end": 157.532,
+          "conf": 0.85
+        },
+        {
+          "w": "bounces",
+          "start": 157.532,
+          "end": 158.38,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 158.38,
+          "end": 158.62,
+          "conf": 0.85
+        },
+        {
+          "w": "never",
+          "start": 158.62,
+          "end": 159.98,
+          "conf": 1.0
+        },
+        {
+          "w": "gets",
+          "start": 159.98,
+          "end": 160.515,
+          "conf": 0.85
+        },
+        {
+          "w": "down",
+          "start": 160.58,
+          "end": 162.027,
+          "conf": 0.71
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "Measure how wrong it is,",
+      "start": 198.329,
+      "end": 202.669,
+      "words": [
+        {
+          "w": "Measure",
+          "start": 198.329,
+          "end": 199.64,
+          "conf": 0.92
+        },
+        {
+          "w": "how",
+          "start": 199.64,
+          "end": 200.36,
+          "conf": 0.85
+        },
+        {
+          "w": "wrong",
+          "start": 200.36,
+          "end": 201.672,
+          "conf": 0.77
+        },
+        {
+          "w": "it",
+          "start": 201.672,
+          "end": 202.18,
+          "conf": 0.77
+        },
+        {
+          "w": "is,",
+          "start": 202.18,
+          "end": 202.669,
+          "conf": 0.65
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "Find which way is down,",
+      "start": 203.727,
+      "end": 206.66,
+      "words": [
+        {
+          "w": "Find",
+          "start": 203.727,
+          "end": 204.58,
+          "conf": 0.85
+        },
+        {
+          "w": "which",
+          "start": 204.58,
+          "end": 205.06,
+          "conf": 0.85
+        },
+        {
+          "w": "way",
+          "start": 205.06,
+          "end": 205.44,
+          "conf": 0.85
+        },
+        {
+          "w": "is",
+          "start": 205.44,
+          "end": 205.583,
+          "conf": 0.85
+        },
+        {
+          "w": "down,",
+          "start": 205.64,
+          "end": 206.66,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "Take one small step that way,",
+      "start": 207.2,
+      "end": 210.322,
+      "words": [
+        {
+          "w": "Take",
+          "start": 207.2,
+          "end": 207.733,
+          "conf": 0.85
+        },
+        {
+          "w": "one",
+          "start": 207.733,
+          "end": 207.977,
+          "conf": 0.77
+        },
+        {
+          "w": "small",
+          "start": 207.977,
+          "end": 208.756,
+          "conf": 1.0
+        },
+        {
+          "w": "step",
+          "start": 208.756,
+          "end": 209.259,
+          "conf": 0.85
+        },
+        {
+          "w": "that",
+          "start": 209.359,
+          "end": 209.673,
+          "conf": 0.85
+        },
+        {
+          "w": "way,",
+          "start": 209.728,
+          "end": 210.322,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "And do it again, and again",
+      "start": 211.604,
+      "end": 215.276,
+      "words": [
+        {
+          "w": "And",
+          "start": 211.604,
+          "end": 211.98,
+          "conf": 0.85
+        },
+        {
+          "w": "do",
+          "start": 211.98,
+          "end": 212.3,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 212.3,
+          "end": 212.392,
+          "conf": 0.85
+        },
+        {
+          "w": "again,",
+          "start": 212.392,
+          "end": 214.198,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 214.198,
+          "end": 214.433,
+          "conf": 0.85
+        },
+        {
+          "w": "again",
+          "start": 214.433,
+          "end": 215.276,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "Three thousand one hundred twenty-one steps,",
+      "start": 215.864,
+      "end": 220.16,
+      "words": [
+        {
+          "w": "Three",
+          "start": 215.864,
+          "end": 216.508,
+          "conf": 0.92
+        },
+        {
+          "w": "thousand",
+          "start": 216.508,
+          "end": 217.74,
+          "conf": 0.92
+        },
+        {
+          "w": "one",
+          "start": 217.74,
+          "end": 217.875,
+          "conf": 0.85
+        },
+        {
+          "w": "hundred",
+          "start": 217.875,
+          "end": 218.5,
+          "conf": 0.92
+        },
+        {
+          "w": "twenty-one",
+          "start": 218.5,
+          "end": 219.351,
+          "conf": 0.92,
+          "syl": [
+            [
+              218.5,
+              219.052
+            ],
+            [
+              219.052,
+              219.351
+            ]
+          ]
+        },
+        {
+          "w": "steps,",
+          "start": 219.351,
+          "end": 220.16,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "And every dot is on its own side,",
+      "start": 220.299,
+      "end": 223.632,
+      "words": [
+        {
+          "w": "And",
+          "start": 220.299,
+          "end": 220.584,
+          "conf": 0.77
+        },
+        {
+          "w": "every",
+          "start": 220.693,
+          "end": 221.14,
+          "conf": 0.85
+        },
+        {
+          "w": "dot",
+          "start": 221.14,
+          "end": 221.467,
+          "conf": 0.85
+        },
+        {
+          "w": "is",
+          "start": 221.467,
+          "end": 221.696,
+          "conf": 1.0
+        },
+        {
+          "w": "on",
+          "start": 221.696,
+          "end": 222.02,
+          "conf": 0.92
+        },
+        {
+          "w": "its",
+          "start": 222.02,
+          "end": 222.305,
+          "conf": 1.0
+        },
+        {
+          "w": "own",
+          "start": 222.305,
+          "end": 222.684,
+          "conf": 0.92
+        },
+        {
+          "w": "side,",
+          "start": 222.684,
+          "end": 223.632,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "text": "Next time: why it never sees a letter",
+      "start": 224.0,
+      "end": 228.291,
+      "words": [
+        {
+          "w": "Next",
+          "start": 224.0,
+          "end": 224.385,
+          "conf": 0.85
+        },
+        {
+          "w": "time:",
+          "start": 224.385,
+          "end": 224.839,
+          "conf": 0.85
+        },
+        {
+          "w": "why",
+          "start": 225.971,
+          "end": 226.36,
+          "conf": 0.92
+        },
+        {
+          "w": "it",
+          "start": 226.36,
+          "end": 226.525,
+          "conf": 0.92
+        },
+        {
+          "w": "never",
+          "start": 226.525,
+          "end": 226.969,
+          "conf": 0.85
+        },
+        {
+          "w": "sees",
+          "start": 226.969,
+          "end": 227.54,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 227.54,
+          "end": 227.68,
+          "conf": 0.85
+        },
+        {
+          "w": "letter",
+          "start": 227.68,
+          "end": 228.291,
+          "conf": 1.0
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "start": 34.9,
+      "end": 38.3,
+      "desc": "backing-vocal tail / 'ah' ad-lib after 'eyes' over the break (chorus 1 end)"
+    },
+    {
+      "start": 108.5,
+      "end": 110.15,
+      "desc": "lead-in before 'Just transformers': Whisper hears a stuttered 'Just, just, just' (low confidence)"
+    },
+    {
+      "start": 122.4,
+      "end": 125.9,
+      "desc": "sustained backing 'ah' pad under 'I'm upping my P(doom)' (final chorus) - lead is buried here"
+    },
+    {
+      "start": 140.6,
+      "end": 153.5,
+      "desc": "outro chant: repeated 'oh' / 'oh-oh' vocal hook (Whisper: 'Oh, oh, oh...') until the drums stop at ~153"
+    },
+    {
+      "start": 229.88,
+      "end": 232.07,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    }
+  ],
+  "notes": "Song: 'Chasing the Roofline' (ACE-Step 1.5 XL take a4-401, audio/roofline.wav, mp3 is the gapless encode of it). Method as for pdoom (analysis/align.py): CTC emissions of the Demucs htdemucs_ft vocal stem from MMS_FA and wav2vec2-lv60k on mono, left and right, fused; one global constrained Viterbi pass with a garbage star token between lines; phonetic spellings for the CUDA terms (pron.py: PyTorch='pie torch', cudaMemcpy='cuda mem copy', GPU='gee pee you', MNIST='em nist', cuBLAS='cue blas', KV='kay vee', float4='float four', MMA='em em ay', N-by-N='en by en', NormalFloat4='normal float four', NVLink='en vee link', CUTLASS='cut lass'); signal refinement on the vocal stem; cross-check against mlx-whisper; conf as for pdoom. 'syl' = start/end of each spelled letter or compound part."
+}

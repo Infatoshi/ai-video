@@ -1,0 +1,120 @@
+{
+ "chapters": {
+  "intro": "Intro",
+  "tokens": "Text becomes tokens",
+  "vectors": "Tokens become vectors",
+  "hook1": "One more token",
+  "attention": "Attention",
+  "ffn": "Feed-forward, 32 floors",
+  "hook2": "The dice: 2 or 3",
+  "logits": "Logits, softmax, temperature",
+  "append": "Append, and the KV cache",
+  "memory": "Why it's slow: memory-bound",
+  "spec": "Batching and speculative decoding",
+  "finale": "Replaying every roll",
+  "outro": "Done"
+ },
+ "tags": [
+  "how many r's in strawberry",
+  "strawberry",
+  "how llms work",
+  "how chatgpt works",
+  "llm",
+  "tokenization",
+  "transformer",
+  "attention",
+  "kv cache",
+  "llama 3.1",
+  "machine learning",
+  "ai",
+  "speculative decoding",
+  "drum and bass",
+  "music video",
+  "education",
+  "claude code"
+ ],
+ "categoryId": "27",
+ "language": "en",
+ "containsSyntheticMedia": true,
+ "description": "I asked Llama 3.1 8B \"How many r's are in strawberry?\" It said 2. This is how an LLM writes, one token at a time, and why its dice landed on 2.\n\nIt answered \"There are 2 r's in the word 'strawberry'.\" At the deciding token the odds were 2 (69.7%) and 3 (30.3%). Everything it did is on screen: the tokens it read, every attention head, the feed-forward activations, the odds at every step. Every number comes from that run (RTX 3090, bf16, temperature 0.6, top-p 0.9, seed 7) or is computed from it and labelled.\n\n{chapters}\n\nMade with Claude Code (Claude Opus 5.5): lyrics, the song (ACE-Step 1.5), word alignment, every scene (three.js), the render. Renderer forked from mexicat's p(doom) video (MIT).\n\n#LLM #AI #MachineLearning\n",
+ "variants": {
+  "next_token": {
+   "video": "out/final/next_token.mp4",
+   "title": "Why AI says strawberry has 2 r's (how LLMs work, as a music video)",
+   "thumbnail": "out/publish/thumbs/thumb_E.jpg",
+   "youtube_id": "OK-Rf8VqfBQ",
+   "thumbnails_test": [
+    "out/publish/thumbs/thumb_E.jpg",
+    "out/publish/thumbs/thumb_D.jpg",
+    "out/publish/thumbs/thumb_C.jpg"
+   ],
+   "thumbnails_retired": [
+    "thumb_A.jpg (AI: 2)",
+    "thumb_B.jpg (the die)"
+   ],
+   "publish_at": "2026-09-29T14:00:00Z",
+   "pinned_comment": "llama had a 30.3% chance of saying 3. it rolled a 0.657 and said 2 with its whole chest. what should the next one explain?"
+  },
+  "next_token_vertical": {
+   "video": "out/final/next_token_vertical.mp4",
+   "title": "Why AI says strawberry has 2 r's #Shorts",
+   "youtube_id": "MoB0stv1vKg",
+   "publish_at": "2026-10-01T14:00:00Z",
+   "pinned_comment": "it literally wrote str, aw, berry and still counted 2. the r's were right there",
+   "tiktok": {
+    "url": "https://www.tiktok.com/@infatoshi/video/7690484310033337620",
+    "scheduled": "2026-10-01 18:00 MT",
+    "caption": "how an llm writes, one token at a time, and why it thinks strawberry has 2 r's #llm #ai #machinelearning #learnontiktok",
+    "ai_label": true
+   }
+  },
+  "next_token_hook": {
+   "source": "out/final/next_token_vertical.mp4",
+   "video": "out/final/next_token_hook.mp4",
+   "cut": [
+    [
+     16.21,
+     21.73
+    ],
+    [
+     65.87,
+     76.91
+    ],
+    [
+     162.42,
+     166.21
+    ]
+   ],
+   "title": "The AI rolled a 2. The answer was 3. #Shorts",
+   "description": "Llama 3.1 8B, asked how many r's are in strawberry, sampled \"2\" at 69.7% odds against \"3\" at 30.3%. Every number here is from that real run.\n\nFull video: https://youtu.be/OK-Rf8VqfBQ\n\n#LLM #AI #MachineLearning",
+   "segments_snapped": [
+    [
+     16.214,
+     21.732
+    ],
+    [
+     65.871,
+     76.906
+    ],
+    [
+     162.426,
+     166.219
+    ]
+   ],
+   "youtube_id": "JgXY8wtrp90",
+   "publish_at": "2026-09-30T14:00:00Z",
+   "pinned_comment": "to be fair, token 73700 has zero r's in it",
+   "tiktok": {
+    "url": "https://www.tiktok.com/@infatoshi/video/7690483676160724244",
+    "scheduled": "2026-09-30 18:00 MT",
+    "caption": "llama had a 30.3% chance of saying 3. it said 2. #llm #ai #machinelearning #strawberry",
+    "ai_label": true
+   }
+  }
+ },
+ "launch": {
+  "x_post": "posted 2026-09-27 1:39 pm MT: https://x.com/elliotarledge/status/2104294957095997882",
+  "x_media": "out/final/next_token_share.mp4",
+  "checks": []
+ }
+}

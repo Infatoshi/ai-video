@@ -1,0 +1,14 @@
+node_modules
+out/
+.DS_Store
+app/dist
+song/takes/
+audio/*.wav
+analysis/stems/
+analysis/work/
+analysis/qa/
+analysis/.cache/
+__pycache__/
+train/run/ckpt/
+train/input.txt
+train/*.log

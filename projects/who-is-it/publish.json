@@ -1,0 +1,85 @@
+{
+ "chapters": {
+  "intro": "Intro",
+  "who-is-it": "Who's \"it\"? One word changes the answer",
+  "attention": "Attention: every word looks back",
+  "query-and-keys": "Query and keys",
+  "attention-2": "Attention, again",
+  "left-to-right": "It reads left to right: at \"it\" it can't know yet",
+  "all-the-heads": "All 1,024 heads: most don't switch",
+  "attention-3": "Attention, all together",
+  "outro": "Next: Watch It Learn to Write"
+ },
+ "tags": [
+  "attention",
+  "how attention works",
+  "attention mechanism",
+  "self attention",
+  "query key",
+  "attention heads",
+  "transformer",
+  "how llms work",
+  "how chatgpt works",
+  "llm",
+  "llama 3.1",
+  "machine learning for beginners",
+  "ai explained",
+  "winograd",
+  "neo soul",
+  "music video",
+  "education",
+  "ml slowly"
+ ],
+ "categoryId": "27",
+ "language": "en",
+ "containsSyntheticMedia": true,
+ "description": "\"The animal didn't cross the street because it was too tired.\" You know \"it\" is the animal. Change one word, \"too wide\", and \"it\" is the street. How does an AI tell?\n\nAttention: every word looks back at the words before it, gives each one a weight (how much it matters), and the weights add up to 1. Everything on screen is the real attention of Llama 3.1 8B Instruct on these two sentences, recorded on an RTX 3090.\n\nWhat the real run showed:\n- At \"it\" the model can't know yet. It reads left to right and \"tired\"/\"wide\" hasn't come, so all 1,024 attention heads give \"it\" exactly the same weights in both sentences.\n- The switching happens one word later. In layer 8, head 29, \"tired\" gives the animal 11.1% (the street 4.0%); \"wide\" gives the street 68.0% (the animal 0.3%).\n- Most heads don't switch: 883 of 1,024. 4 switch clearly, 114 lean the right way a little, 23 lean the wrong way. One head is one small part, not the model's understanding.\n- The whole model gets it right: after \"...too tired. The one that was too tired was the\" its top guess is \"animal\" (33.4%); with \"wide\" it's \"street\" (43.1%).\n\n{chapters}\n\nML, slowly, episode 4 of 5: one idea per video, slow enough to follow on the first watch. Next: Watch It Learn to Write.\n\nMade with Claude Code (Claude Opus 5.5): lyrics, the song (AI-generated with ACE-Step 1.5), word alignment, the animation (three.js), the render. Renderer forked from mexicat's p(doom) video (MIT).\n\n#LLM #AI #MachineLearning\n",
+ "variants": {
+  "who_is_it": {
+   "video": "out/final/who_is_it.mp4",
+   "title": "Who's \"it\"? How AI attention really works | ML, slowly #4",
+   "thumbnail": "out/publish/thumbs/thumb_A.jpg",
+   "thumbnails_test": [
+    "out/publish/thumbs/thumb_A.jpg",
+    "out/publish/thumbs/thumb_B.jpg",
+    "out/publish/thumbs/thumb_C.jpg"
+   ],
+   "pinned_comment": "at the word \"it\" all 1,024 heads gave the exact same weights for both sentences. the model was just vibing until \"wide\" showed up"
+  },
+  "who_is_it_vertical": {
+   "video": "out/final/who_is_it_vertical.mp4",
+   "title": "Who's \"it\"? How AI attention really works (vertical) | ML, slowly #4",
+   "pinned_comment": "layer 8 head 29 put 68% on \"street\". meanwhile the average head in this sentence spends about 75% of its attention on the start token, which is honestly relatable"
+  },
+  "who_is_it_hook": {
+   "source": "out/final/who_is_it_vertical.mp4",
+   "video": "out/final/who_is_it_hook.mp4",
+   "cut": [
+    [
+     13.92,
+     25.92
+    ],
+    [
+     121.92,
+     142.72
+    ]
+   ],
+   "title": "At the word \"it\", the AI can't know yet | ML, slowly #4 #Shorts",
+   "description": "\"The animal didn't cross the street because it was too tired.\" Change \"tired\" to \"wide\" and \"it\" is the street. But Llama 3.1 8B reads left to right: at \"it\", all 1,024 attention heads give exactly the same weights in both sentences. One word later, \"wide\" looks back and one head puts 68.0% on \"street\". Real weights, recorded on an RTX 3090.\n\nFull video: ML, slowly #4 (link after upload)\n\n#LLM #AI #MachineLearning",
+   "pinned_comment": "the model at the word \"it\": no idea. the model one word later: 68% street. same energy as reading a text before the next one comes in",
+   "segments_snapped": [
+    [
+     13.923,
+     25.922
+    ],
+    [
+     121.918,
+     142.717
+    ]
+   ]
+  }
+ },
+ "launch": {
+  "checks": []
+ }
+}
